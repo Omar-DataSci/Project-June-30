@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Somewhere Calm - For Zoli 🤍</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <audio id="bg-music" loop src="assets/audio/Yann Tiersen - Comptine d'un autre été.mp3"></audio>
+
+  <div id="room-container">
+    <div id="your-room" class="room active">
+    
+    <!-- LAYER 1: BACK WALL --> 
+    <div id="back-wall">
+      <div id="figure-layer"></div>  
+        <div id="figure" title="Inspect Figure"></div>
+      </div>
+      <div id="book-shelf">
+        <div id="shelf-layer">
+          <div id="shelf" title="Inspect Shelf"></div>  
+        </div>
+        <div id="diary-layer">
+          <div id="diary" title="Search Diary"></div>  
+        </div>
+        <div id="secret-diary-layer">
+          <div id="secret-diary" title="Search Secret Diary"></div>  
+        </div>
+        <div id="clock-layer">
+          <div id="clock" title="Inspect"></div>
+        </div>
+        <div id="note-layer">
+          <div id="note" title="Inspect Note"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- LAYER 2: SIDE WALL (left) -->
+    <div id="left-wall">
+      <div id="window-layer">
+        <div id="window" title="Inspect window"></div>
+      </div>
+      <div id="couch-layer">
+        <div id="couch" title="Inspect couch"></div>
+      </div>
+    </div>
+
+    <!-- LAYER 3: FLOOR -->
+    <div id="floor">
+      <div id="desk-setup">
+        <div id="drawer-layer">
+          <div id="drawer" title="Open Drawer"></div>   
+        </div>
+      <div id="screen-layer">
+        <div id="screen" title="Inspect Screen"></div>  
+      </div>
+      <div id="jbl-layer">
+        <div id="jbl" title="Turn On jbl"></div>
+      </div>
+      <div id="sofa-layer">
+        <div id="sofa" title="Inspect Sofa"></div>
+      </div>
+    </div>
+    </div>
+
+    <!-- LAYER 4: CHARACTERS (always on top) -->
+    <div id="character-layer">
+      <div id="boy-target" title="Poke Omar"></div>
+    </div>
+
+    <div id="book-case-layer">
+      <div id="cat-1" title="Inspect Cat"></div>
+      <div id="cat-2" title="Inspect Cat"></div>
+      <div id="blured-picture" title="Inspect Picture"></div>
+      <div id="time-capsule" title="Open Drawer"></div>
+    </div>
+
+    <!-- LAYER 5: HITBOXES (invisible, topmost) -->
+
+
+
+    </div>
+      <script src="app.js"></script>
+
+    <div id="custom-popup" class="popup-hidden">
+      <div class="popup-card">
+          <h3 id="popup-title">Title</h3>
+          <p id="popup-text">Content goes here...</p>
+          <button id="popup-close-btn">Close</button>
+      </div>
+
+    
+    </div>
+  </div>
+
+</body>
+</html>
