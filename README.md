@@ -33,7 +33,7 @@ This project is trying to say:
 <u>Hey love.</u>
 
 Can i call you that?In a **respectefull** tone ofc. \
-You..see at some point even i don't know,
+You..see at some point even i don't know and questioned myself,
 What's the **Purpose** of this?\
 But,i just want to let you know
 I **swear** i don't have any motive behind all this\
@@ -1917,7 +1917,6 @@ Time:  12:00 PM
 Today too..No You..
 Absence..
 
-Hmm did you get hacked?..
 
 
 </div>
@@ -1926,12 +1925,14 @@ Hmm did you get hacked?..
 <div class="clean-modular-log">
   <input type="checkbox" id="log-day18" class="toggle-input" style="display:none;">
   <label for="log-day18" class="log-trigger">
-    <h3>📝 Log Day 18 : 07/06/2026</h3>
+    <h3>📝 Log Day 18 : I missed you..</h3>
   </label>
   <div class="log-content">
   
 
 ### log Day 18 : 07/06/2026 
+
+I missed you..
 
 
 
@@ -1941,7 +1942,7 @@ Hmm did you get hacked?..
 <div class="clean-modular-log">
   <input type="checkbox" id="log-day19" class="toggle-input" style="display:none;">
   <label for="log-day19" class="log-trigger">
-    <h3>📝 Log Day 19 : 08/06/2026</h3>
+    <h3>📝 Log Day 19 : </h3>
   </label>
   <div class="log-content">
 
@@ -1953,14 +1954,166 @@ Hmm did you get hacked?..
 <div class="clean-modular-log">
   <input type="checkbox" id="log-day20" class="toggle-input" style="display:none;">
   <label for="log-day20" class="log-trigger">
-    <h3>📝 Log Day 20 : 09/06/2026</h3>
+    <h3>📝 Log Day 20 : After the training arc</h3>
   </label>
   <div class="log-content">
 
 ### log Day 20 : 09/06/2026 
 
-</div></div>
+<span class= "phoenix-shatter">
+Time:  01:00 AM
+</span>
 
+Hi zoli am back..
+Well as you can see i was absent this past 3 days..
+I was focusing on learning CSS.. 
+
+And now i can say am pretty good at making animation\
+Matter of fact i built animations better then AI do
+
+After i came back the training arc.
+
+I looked into the the CSS Lines and i felt like..damn this is easy bro 
+
+and me who i thought AI was great. lol he was just giving me lazy answers.
+
+I also learnt some Git basics now am confident in using it
+```
+lol not realy but i know what i need.
+```
+Actualy now you can see the whole file updates in each commit..
+will get back later to this..(maybe)..
+
+Now am using my sister laptop. oh man i missed the sound of the keybord clicks
+
+Ehm right. I might start talking to you through git now lol.
+
+I have so much to talk about but am lil tired right now sorry..
+
+Well this is it for this night.. Meet you in the morning i have other things to do.
+
+I'll be back in the morning..
+
+<span class= "phoenix-shatter">
+Time: 4:00 AM
+
+</span>
+
+Zoli i just created my second effect ehehehe 
+I bring back Unsay to life !!!
+
+For now i'll try to create animations for each idea i have oh man am so happy i can make evrything alive!!
+
+And my background in OOP in python make it ez to write modular animations.
+
+I gave it to AI to reveiw it they are going crazy on it lol 
+i mean for just day 3
+
+
+This what he said 
+* `This is not just "good for a beginner." This is legitimately clever, professional-grade CSS architecture.
+`
+
+I'll keep adding stuff maybe making Unsay and PulseLink is not that far from me ~
+
+Thank you this is all because of you !!
+
+
+oh right since i have some time let me tell you about another thing i discovred
+
+rember the mini project i told you about that convert markdown into pdf file..
+
+guess what it's the right tool i built it without even knowing cause now i can turn my interactive markdown into an html and pdf too !! it's all same tool pandoc and latex.. man i didn't even plan this but evrything is coming into one piece !! man i dont what to say except i love you thank for existing.
+
+because now with CSS i can make my reports more intreactive for TP and Research in university or work in general!!!
+
+Imagine this instead of a boring excel file or pdf i create an intreactive file!!!!
+
+that change colors and inimation with the user!!!
+
+**confesion:** `your pressence keep impacting me even in your abssence!`
+
+I can't describe you how happy i'am right now ..Man this the best summer ever !!!
+
+I hope you find happines in life forever like you made me this past 3 days
+
+Truly thank you zolii !!!
+(Hug her tightly !!)
+
+<span class= "phoenix-shatter">
+Time: 5:30 AM
+
+</span>
+
+and i you remeber .. !!!!!!! i told you before in my pfe i dont want just a boring power point ... i'll tell them all this calcuation and analsys done by my own self built bakage called hydro-dz and all results were presise compared to other logisicel like diagram or hec ras or epanat and now here  is a demo for the whole procss and i show them the jupter notebook and give them a bar code so they can scan and try it thelskeve and now i can alssoooo animated andmake more intreactive maaaan!!!!!!!!!!!!!
+
+<span class= "phoenix-shatter">
+Time: 5:10 AM
+</span>
+
+
+
+I built new effects 
+I'll create  table for all the effects i made.
+
+Sorry i didn't check if you are here today i mean in discord.
+
+Well i just did still.. you are not here yet!.
+
+I found a new message in my DM's..
+Thought it was you..No..it's not.
+It's this girl ..look.. hmm should i block her?
+
+```
+Amber harsha — Yesterday at 10:05
+Hello
+How are you 😊
+Omar [souʪ],  — Yesterday at 18:53
+hi there
+fine and u?
+ [souʪ], 
+Amber harsha — 11:12
+Thank you, I'm good 😊
+I feel this app is kinda boring, so I added up.
+Hope you're cool with that?
+Omar [souʪ],  — 18:30
+yep no problem
+```
+
+Hmm i try to be positve but am worried you're not coming back..
+Is it me?
+
+Maye you just busy..
+Again..hope you have a nice day 
+
+brb.
+
+Ah before i go.. remember the thing i told you .. that i want you to live this month with me even when you are not here..
+
+Now by using Git you can see the whole history of this README. 
+I'll try to commit at the end of each day.
+
+You can see how this journal..changed day by day..
+
+Man just thinking about this make me feel less..
+
+Whats the right word..
+
+Less regret? 
+
+So don't worry about me..
+true i miss you but focus on your self first.
+You are not missing anything here:)
+
+>"Rest assured, you never left. You didn't miss anything. You were with me the whole time."
+
+Evrything is preserved.
+
+Haaaa am glad i started this.
+
+
+
+</div></div>
 
 <div class="clean-modular-log">
   <input type="checkbox" id="log-day21" class="toggle-input" style="display:none;">
@@ -2751,7 +2904,17 @@ The notebook remembers:
 
 Time itself becomes part of the writing.
 
-## 8. Brain Storm
+
+## 8. PulseLink Effects
+
+| Effect |Day Created | Description |
+|:---|:---:|---:|
+| Fading-Mirage | Day 18 | By pausing it on hover, you can "catch" the mirage before it fades away completely. |
+| Hiding system | Day 18 | It hide content lol |
+| Guilt-Trip    | Day 19 | Only visible when you’re still enough to look closer. |
+| Ghost-Trail   | Day 20 | Like sand trails in the desert It’s how a memory feels when it’s trying to find you again. |
+
+## 9. Brain Storm
 
 ### 🛑 [CRITICAL ERROR] - LOG_DAY_05.md is Corrupted
 

@@ -1,0 +1,77 @@
+:root {
+  --primary-color: #800020;
+  --secondary-color:  rgb(128, 0, 32);
+  --text-color: #ffffff;
+  --my-color: #50c3c7;
+  --bg-color: #1e1e1e;
+  --text-light: #f8f8f2;
+}
+
+
+/* My first Animation.. */
+
+/* Fading Mirage Animation */
+
+/* Description:
+
+
+
+*/
+.mirage {
+    opacity:  0.6;
+    animation: fading 5s linear infinite alternate;
+}
+
+
+.mirage:hover {
+    cursor: pointer;
+    animation-play-state: paused;
+
+}
+
+@keyframes fading {
+    0% {
+        letter-spacing: 0px;
+        transform: skewX(25deg);
+    }
+    15% {
+        letter-spacing: 1px ;
+        filter: blur(1px)   
+    }
+    25% {
+        letter-spacing: 3px;
+        filter: blur(2px)    
+    }
+    50% {
+        letter-spacing: 7px;
+        filter: blur(3px)   
+    }
+    100% {
+        letter-spacing: 8px;
+        filter: blur(6px)
+    }
+}
+
+
+/* --- Headings Transition --- */
+h1  {
+    color: #50c3c7;
+    font-size: 2.5rem;
+    border-bottom: 2px solid #1a5276;
+    letter-spacing: 0px;
+    /* Set up transition for letter-spacing change */
+    transition: letter-spacing 0.4s ease-out, color 0.4s ease-out;
+}
+
+h2 {
+    letter-spacing: 0px;
+    /* Set up transition for letter-spacing change */
+    transition: letter-spacing 0.4s ease-out, color 0.4s ease-out;
+}
+
+/* When you hover over the title, the letters smoothly expand apart */
+h1:hover , h2:hover {
+    color: #ffffff;
+    letter-spacing: 2px; /* Expands individual character clearance */
+    cursor: default;
+}
