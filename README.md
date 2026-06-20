@@ -462,11 +462,74 @@ If you wonder..it's me who made there yapping toggle by click.
 ⠀⠀⠀⠀⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀
 ```
+</details>
 
+
+<details>
+<summary>
+<span class="day-tag">Omar-D-26 </span></summary>
+
+```
+..number 3 said "somthing about why no other one..talk.."...
+well..i used to comment..when i reread everything..after the end of each day....
+but at some point i don't want to..come back..anymore..
+
+another thing..
+that day 40..log ..i lied about it..
+me the 17th.. or something ..wrote it
+at that time..yah..i couldnt wait..
+i might stop updating..a day or two from this..
+i think it's the end...
+happy birthday..have great life..
+and .. sorry..
+```
+
+</details>
+
+<details>
+<summary>
+<span class="day-tag">Omar-D-31 </span></summary>
+
+```
+Did somebody forget to tell him?
+```
+
+</details>
+
+<details>
+<summary>
+<span class="day-tag">Omar-D-41 </span></summary>
+
+```
+Leave him by it's funny this way
+```
+</details>
+
+<details>
+<summary>
+<span class="day-tag">Omar-D-40 </span></summary>
+
+```
+Who's gonna tell him..
+```
+
+</details>
+
+<details>
+<summary>
+<span class="day-tag">Omar-D-31 </span></summary>
+
+```
+Let me breack down (Day 40) joke
+"Who's gonna tell him.."
+cause the time line end with him..at Day 40
+but Day 41 still think he's a legit Day..lol
+```
 
 </details>
 
 </details>
+
 
 
 ---
@@ -1884,7 +1947,8 @@ Hmm did you get hacked?..
 
 ### log Day 19 : 08/06/2026 
 
-</div>
+</div></div>
+
 
 <div class="clean-modular-log">
   <input type="checkbox" id="log-day20" class="toggle-input" style="display:none;">
@@ -1895,7 +1959,8 @@ Hmm did you get hacked?..
 
 ### log Day 20 : 09/06/2026 
 
-</div>
+</div></div>
+
 
 <div class="clean-modular-log">
   <input type="checkbox" id="log-day21" class="toggle-input" style="display:none;">
@@ -1906,7 +1971,8 @@ Hmm did you get hacked?..
 
 ### log Day 21 : 10/06/2026 
 
-</div>
+</div></div>
+
 
 <div class="clean-modular-log">
   <input type="checkbox" id="log-day22" class="toggle-input" style="display:none;">
@@ -1917,7 +1983,8 @@ Hmm did you get hacked?..
 
 ### log Day 22 : 11/06/2026 
 
-</div>
+</div></div>
+
 
 <div class="clean-modular-log">
   <input type="checkbox" id="log-day23" class="toggle-input" style="display:none;">
@@ -1928,7 +1995,8 @@ Hmm did you get hacked?..
 
 ### log Day 23 : 12/06/2026 
 
-</div>
+</div></div>
+
 
 <div class="clean-modular-log">
   <input type="checkbox" id="log-day24" class="toggle-input" style="display:none;">
@@ -1939,63 +2007,225 @@ Hmm did you get hacked?..
 
 ### log Day 24 : 13/06/2026 
 
-</div>
+</div></div>
+
 
 <div class="clean-modular-log">
   <input type="checkbox" id="log-day25" class="toggle-input" style="display:none;">
   <label for="log-day25" class="log-trigger">
-    <h3>📝 Log Day 25 : 14/06/2026</h3>
+    <h3>📝 Log Day 25 : Hope</h3>
   </label>
   <div class="log-content">
 
 ### log Day 25 : 14/06/2026 
+<span class= "phoenix-shatter">
 
-</div>
+<h3>11:15 PM</h3>
+</span>
+
+
+..yah..it's been a while...i was busy...
+andt tbh..i might stop..
+i startes to lose hope..
+you are not comming back..
+
+peaple come and go..
+i underdstand.
+
+</div></div>
+
 
 <div class="clean-modular-log">
   <input type="checkbox" id="log-day26" class="toggle-input" style="display:none;">
   <label for="log-day26" class="log-trigger">
-    <h3>📝 Log Day 26 : 15/06/2026</h3>
+    <h3>📝 Log Day 26 : A dream in a dream</h3>
   </label>
 
   <div class="log-content">
 
 ### log Day 26 : 15/06/2026 
 
-</div>
+
+I remember a dream .. 
+
+i was in a the university club..
+the cashier was a girl..
+i sat on the table and talked to her..
+hey .. how are you doing..and with 
+a bright smile she replied great .. thank you..
+and we talked..after a while ..her friend..came..
+joined us..we were talking and laughing
+then one of her friends..asked..
+but who is he...
+the girl..said..ah that..i don't know him
+he just came and .. slept..
+..
+huh...slept? i rised my head..huh..was that a dream..
+...all eyes on me..then i woke up fr..
+
+a dream in a dream..but i get the message..
+
+No more..you..anymore..
+
+I guess..i should wake up..
+
+<span class= "phoenix-shatter">
+<h3>7:30 AM</h3>
+</span>
+
+Zoli i discovered a new thing..remember when i told you.. i need to find a way to create shortcuts for some effects.
+
+like making the comments toggle by click...well..tada i found the solution !!
+it's called `Snippets` all i have to do now is create a snippet..and name it daytag and now when i type it that snippet name and hit <kbd>Tab</kbd> it create the ready to fill tag..instead of copy cut like i used to do..
+
+and i can create snippets for any project or language i want...man.. 
+
+am tired am not making it for now..just want to share it..well..and as always..gm and gn~
+
+
+
+</div></div>
+
 
 <div class="clean-modular-log">
   <input type="checkbox" id="log-day27" class="toggle-input" style="display:none;">
   <label for="log-day27" class="log-trigger">
-    <h3>📝 Log Day 27 : 16/06/2026</h3>
+    <h3>📝 Log Day 27 : You were the content</h3>
   </label>
   <div class="log-content">
 
 ### log Day 27 : 16/06/2026 
 
-</div>
+<span class= "phoenix-shatter">
+<h3>07:15 AM</h3>
+</span>
+
+
+Good morning beautiful soul..
+..notice something?
+yep i fixed my sleep.
+i woke up at 05:something AM..
+..
+
+i just showered..and here am again here..
+
+funny how i built this as time capsule for you..
+just to end up being trapped in it..
+
+```
+release me you witch..kidding ~..
+```
+
+..
+
+it's my sister birthday today..
+
+..
+remember the girl i talked about..
+well she just wanted to invite me to her trading
+channel on telegram..
+meh..not realy intrested
+
+just wanted to let you know..hmm maybe i should comment this at that day..
+hmmm anyway..
+
+yah sorry i didn't commit each day...
+Git say the last time i ..commited something was week..ago..
+
+didn't feel like week passed..
+
+all days are the same
+kinda boring here..without you..
+
+you can clearly see..that..i ran out of content..
+
+guess who's fault..you were the content..
+
+well..it is what it is..
+
+i'll drag this to the last day..
+i feel am gonna regret it..if you come back..
+after i abondoned this..
+
+i'll keep my word ~
+
+..
+
+`i wish i sent you this when you were around..`
+
+..
+
+be safe.
+
+...
+
+i reread what i just wrote..it so random man..
+
+</div></div>
+
 
 <div class="clean-modular-log">
   <input type="checkbox" id="log-day28" class="toggle-input" style="display:none;">
   <label for="log-day28" class="log-trigger">
-    <h3>📝 Log Day 28 : 17/06/2026</h3>
+    <h3>📝 Log Day 28 : Back again..</h3>
   </label>
   <div class="log-content">
 
 ### log Day 28 : 17/06/2026 
 
-</div>
+<span class= "phoenix-shatter">
+<h3>11:00 AM</h3>
+</span>
+
+
+Another..week goes on passing by
+and still you didn't come back yet..
+
+..is it..or was my presence..not worth keeping by..
+
+i think..it's been long time since i surendered..
+
+i understand .. you are not coming..back again..
+
+<span class= "phoenix-shatter">
+<h3>12:00 AM</h3>
+</span>
+
+
+I think..i'll take a rest..
+a realy long rest.
+see ya.
+
+</div></div>
+
 
 <div class="clean-modular-log">
   <input type="checkbox" id="log-day29" class="toggle-input" style="display:none;">
   <label for="log-day29" class="log-trigger">
-    <h3>📝 Log Day 29 : 18/06/2026</h3>
+    <h3>📝 Log Day 29 : I never had the chance</h3>
   </label>
   <div class="log-content">
 
 ### log Day 29 : 18/06/2026 
 
-</div>
+You have gone i never had the chance to love you back.
+
+You have gone i never had the chance to call you my love.
+
+You have gone i never had the chance to carry you like a princess and toss you in the air.
+
+You have gone i never had the chance to finish that dream novel with you.
+
+You have gone i never had the chance to watch the fault in our stars with you.
+
+You have gone i never had the chance to travel the world with you.
+
+You have gone i never had the chance to see you smile.
+
+
+
+</div></div>
+
 
 <div class="clean-modular-log">
   <input type="checkbox" id="log-day30" class="toggle-input" style="display:none;">
@@ -2005,19 +2235,109 @@ Hmm did you get hacked?..
   <div class="log-content">
 
 ### log Day 30 : 19/06/2026 
+<span class= "phoenix-shatter">
+<h3>06:20 AM</h3>
+</span>
 
-</div>
+
+
+Gm cutie ~
+
+yah i screwed up again..i stayed awake the whole night..
+
+well.. am back to working.. at my pakage..
+and tbh after i left for 3 months..
+i thought..i did pretty well back then..
+BUT NO! it was the most dog shit system design.
+i could have seen..
+
+well now i thought a better aproach..instead of..working on the pakage as a whole..
+what if i devided each section to a small project and then when i finish it i add it
+to the big..project..
+
+it's hella time consuming..today i just finished one module..and it took me 8 hours !!
+..
+
+well most of the time wasted on searching..and reading documentation..
+and trying..to find a nice solution..
+well i hope i can finish it before 30 june..at least a weak..
+
+that's all i have..to talk about..am tired..
+maybe i'll read some novels..till i sleep.
+
+byby..
+
+
+
+
+</div></div>
+
 
 <div class="clean-modular-log">
   <input type="checkbox" id="log-day31" class="toggle-input" style="display:none;">
   <label for="log-day31" class="log-trigger">
-    <h3>📝 Log Day 31 : 20/06/2026</h3>
+    <h3>📝 Log Day 31 : Abyss</h3>
   </label>
   <div class="log-content">
 
 ### log Day 31 : 20/06/2026 
 
-</div>
+<span class= "phoenix-shatter">
+<h3>11:20 AM</h3>
+</span>
+
+
+I just woke up..i slept the entire day..don't ask me how but i did..
+
+ah right you can't ask..you can't even read ..
+
+am just facing at a dark screen..talking my self
+
+a..safe place turned to an abyss..what a joke.
+
+Shut Up you drama qween
+
+>Hi omery
+
+<b>SHE IS BAAAAACK</b>
+<b>SHE IS HEEEEREE!!</b>
+
+Oh maaaan am gonna cry from happines
+
+i know it!! wallahi i knew you will come back
+
+he was right..
+
+Friedrich Nietzsche said
+
+```
+"if you gaze long into an abyss, the abyss will also gaze into you"
+
+```
+but i'll add 
+
+```
+"if you gaze long enough into the abyss.. you will see the light"
+```
+
+
+I gazed into the abyss for 31 days.
+And the abyss gazed back.
+And then it smiled.
+
+>"Hi omery. I am sorry sorry sorry I miss miss miss miss you."
+
+girl 
+
+```
+"I missed you 100x more."
+```
+
+
+
+
+
+</div></div>
 
 <div class="clean-modular-log">
   <input type="checkbox" id="log-day32" class="toggle-input" style="display:none;">
@@ -2028,7 +2348,7 @@ Hmm did you get hacked?..
 
 ### log Day 32 : 21/06/2026 
 
-</div>
+</div></div>
 
 <div class="clean-modular-log">
   <input type="checkbox" id="log-day33" class="toggle-input" style="display:none;">
@@ -2039,7 +2359,7 @@ Hmm did you get hacked?..
 
 ### log Day 33 : 22/06/2026 
 
-</div>
+</div></div>
 
 <div class="clean-modular-log">
   <input type="checkbox" id="log-day34" class="toggle-input" style="display:none;">
@@ -2050,7 +2370,7 @@ Hmm did you get hacked?..
 
 ### log Day 34 : 23/06/2026 
 
-</div>
+</div></div>
 
 <div class="clean-modular-log">
   <input type="checkbox" id="log-day35" class="toggle-input" style="display:none;">
@@ -2061,7 +2381,7 @@ Hmm did you get hacked?..
 
 ### log Day 35 : 24/06/2026 
 
-</div>
+</div></div>
 
 <div class="clean-modular-log">
   <input type="checkbox" id="log-day36" class="toggle-input" style="display:none;">
@@ -2072,18 +2392,47 @@ Hmm did you get hacked?..
 
 ### log Day 36 : 25/06/2026 
 
-</div>
+</div></div>
+
 
 <div class="clean-modular-log">
   <input type="checkbox" id="log-day37" class="toggle-input" style="display:none;">
   <label for="log-day37" class="log-trigger">
-    <h3>📝 Log Day 37 : 26/06/2026</h3>
+    <h3>📝 Log Day 37 : Face off</h3>
   </label>
   <div class="log-content">
 
 ### log Day 37 : 26/06/2026 
+<span class= "phoenix-shatter">
+<h3>3 days left </h3>
+</span>
 
-</div>
+
+Am thinking in making Day 3 and 3 Days to go..have a face off..
+let them fight..why? no reason for my own entertainement..
+
+I don't know .. how.. actualy this me Day 31..talking..
+
+```
+Well i know past the first 10 days..the naming tag doesn't matter anymore..
+evrything .. died..when you left..but i'll..keep the legacy
+
+```
+
+
+<details>
+<summary>
+<span class="day-tag">Omar-D-03</span></summary>
+
+```
+Fk you! am still alive you emo boy!
+```
+</details>
+
+well am just writing this now so i don't forget..like many times a did.
+
+</div></div>
+
 
 
 <div class="clean-modular-log">
@@ -2097,14 +2446,15 @@ Hmm did you get hacked?..
 
 ### log Day 38 : 27/06/2026 
 
-</div>
+</div></div>
+
 
 
 <div class="clean-modular-log">
   <input type="checkbox" id="log-day39" class="toggle-input" style="display:none;">
   
   <label for="log-day39" class="log-trigger">
-    <h3>📝 Day 39: </h3>
+    <h3>📝 Day 39:</h3>
   </label>
   
   <div class="log-content">
@@ -2112,7 +2462,8 @@ Hmm did you get hacked?..
 
 ### log Day 39 : 28/06/2026 
 
-</div>
+</div></div>
+
 
 
 
@@ -2164,8 +2515,69 @@ am acting weird sorry i'll behave
 I don't know now\
 I feel empty ....
 
+..
 
-</div>
+Or should i say lonely..
+
+It's your birthday party today..
+I don't know why you left..
+
+
+```
+ehm i need to clarify this..
+in another time line..you never came back
+
+well it's all in my head but.. play along pls
+```
+
+
+</div></div>
+
+
+<div class="clean-modular-log">
+  <input type="checkbox" id="log-day41" class="toggle-input" style="display:none;">
+  
+  <label for="log-day41" class="log-trigger">
+    <h3>📝 Day 41: ..Good bye</h3>
+  </label>
+  
+  <div class="log-content">
+
+### log Day 41 : 30/06/2026 
+
+```
+This is another timeline branch that never happn..but i choose to keep it.
+```
+
+Today..was your birthday..
+
+Happy birth day..
+I don't know what to say..
+am realy bad at..saying good bye..
+
+was i a good friend?..we will never know..
+
+i hope your dreams come true..
+and live a good life..
+
+Now i can close this chaptre..
+your chaptre. 
+
+```
+Bed story night end..(give her a kiss on the forehead) sweet dreams
+```
+
+i still have a lot to say..but i think better leave buried
+well..this is it
+
+Good Byee..My Zoli..
+
+see you..in another life (maybe)
+
+
+
+
+</div></div>
 
 ## 6. Complains & Unsent Truths
 <span class= "phoenix-shatter">
@@ -2220,6 +2632,8 @@ Because..
 Well….there’s a theory of the 3-month rule, in which people believe that the first 3 months of the relationship would feel full of butterflies, sparks, and sweet things only, and after those 3 months, things slowly go downhill. You either started knowing each other’s true face and thought twice about continuing the relationship, or they started to show their bad habits that you could not bear with, or as simple as you’re just getting bored of each other.
 
 If you are intrested to know more [Check this](https://medium.com/journal-kita/the-3-month-rule-theory-5bef98e67b8d)
+
+<span class="day-tag">Omar-D-26</span> *Congrats you win..i lost..*
 
 
 <span class= "phoenix-shatter">
