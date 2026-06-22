@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="README-style.css">
+
 # Project June 30: Somewhere Safe 🌸
 <!-- 2. هيكل المشغل التفاعلي البديل للشريط الأبيض -->
 
@@ -1315,6 +1317,10 @@ I tried appearntly i can't do that..so..i'll just toss it in the end of the file
 
 </details>
 
+
+Apparently..`The girl broke the cycle herself. She didn't forget. She came back. She remembered.`
+Day 31
+
 </div></div>
 
 
@@ -2198,7 +2204,6 @@ i underdstand.
 
 ### log Day 26 : 15/06/2026 
 
-
 I remember a dream .. 
 
 i was in a the university club..
@@ -2219,6 +2224,9 @@ huh...slept? i rised my head..huh..was that a dream..
 a dream in a dream..but i get the message..
 
 No more..you..anymore..
+
+<p data-callout="guilt-trip" data-meta="dream">
+You Ane Me</p>
 
 I guess..i should wake up..
 
@@ -2383,7 +2391,7 @@ You have gone i never had the chance to see you smile.
 <div class="clean-modular-log">
   <input type="checkbox" id="log-day30" class="toggle-input" style="display:none;">
   <label for="log-day30" class="log-trigger">
-    <h3>📝 Log Day 30 : 19/06/2026</h3>
+    <h3>📝 Log Day 30 : Again..I Screwed Up..</h3>
   </label>
   <div class="log-content">
 
@@ -2495,11 +2503,50 @@ girl
 <div class="clean-modular-log">
   <input type="checkbox" id="log-day32" class="toggle-input" style="display:none;">
   <label for="log-day32" class="log-trigger">
-    <h3>📝 Log Day 32 : 21/06/2026</h3>
+    <h3>📝 Log Day 32 : The Blind Man</h3>
   </label>
   <div class="log-content">
 
 ### log Day 32 : 21/06/2026 
+
+Hi..cutie.
+today ..well nothing to say am just tired.
+physicaly..my eyes are burning..
+
+anyway..it's 8 days left ..
+and i..many things i have to do
+like.. cleaning all the CSS style i dumbed at the end..
+and maybe turning this markdown into HTML page.
+and maybe adding some finishing touchs..at the game..
+tbh.. since the first 3 days..i didn't add anything..
+well sorry not sorry ~
+
+i want to talk .. but.. my eyes hurt .. 
+well that make remeber a story..but am tired
+remind me to tell you about the....`blind man story`
+
+2:21 AM
+
+basicly am at day 33 but i'll keep my promise
+
+..the was a blind man..
+who married a woman..
+
+lol that's it..
+
+one day the woman said to the blind man
+
+"you are lucky am the most beautiful woman in the town 
+too bad you can't see me..such a waste."
+
+then the blind man answers..
+
+"if you were that beautiful the sighted wouldn't left you for me." 
+
+...
+
+I'am the woman in the story.
+
 
 </div></div>
 
@@ -2561,7 +2608,7 @@ girl
 </span>
 
 
-Am thinking in making Day 3 and 3 Days to go..have a face off..
+Am thinking in making <span class="day-tag">Omar-D-03</span> and <span class="day-tag">Omar-03-Days-to-go</span>..have a face off..
 let them fight..why? no reason for my own entertainement..
 
 I don't know .. how.. actualy this me Day 31..talking..
@@ -2572,6 +2619,7 @@ evrything .. died..when you left..but i'll..keep the legacy
 
 ```
 
+well am just writing this now so i don't forget..like many times a did.
 
 <details>
 <summary>
@@ -2582,7 +2630,19 @@ Fk you! am still alive you emo boy!
 ```
 </details>
 
-well am just writing this now so i don't forget..like many times a did.
+
+<span class="day-tag">Omar-03-Days-to-go</span>What the hell am not your dog..
+
+<span class="day-tag">Omar-D-03</span>
+Lame .. you have long ahh name bro..change it.
+
+<span class="day-tag">Omar-03-Days-to-go</span>
+It's not even me bro
+
+<span class="day-tag">Omar-D-06</span>Booo start fighting !!
+
+<span class="day-tag">Literely-Evry-Day</span>No one like you anyway. (Day 6)
+
 
 </div></div>
 
@@ -2671,6 +2731,39 @@ I feel empty ....
 ..
 
 Or should i say lonely..
+
+..
+
+Between you and me..
+
+what's harder..to wait..not knowing she will be back..or..knowing she will be back but not knowing when?
+
+
+Knowing she will be back, but not knowing when.
+
+This tortures the mind. You cannot move forward, but you cannot go back. You are trapped in a state of suspended animation.
+
+
+But..
+
+Not knowing if she will ever be back.
+
+You are forced to kill your own expectations just so you can survive the day.
+constantly scrolling back to the memories because the present is unbearable.
+But in this scenario, hope is still alive. Hope is a heavy, exhausting anchor, but it keeps you tethered to the surface.
+
+
+..
+
+Not knowing IF she will be back is harder.
+
+When you don't know WHEN, you are just waiting.
+
+But when you don't know IF, you are letting go.
+And letting go of someone you love, while still loving them, 
+is one of the most painful things..i had to do.
+
+..
 
 It's your birthday party today..
 I don't know why you left..
@@ -2988,566 +3081,6 @@ Memories are not solid, they just <span class="melting-ash">melt away like ash</
 Sometimes keeping it inside means we are <span class="phoenix-shatter">breaking from the inside</span>
 
 
-
-
-
-
-
-
-
-##### style
-<style>
-u {
-    text-decoration: none;
-    color: #800020;
-    font-weight: bold;
-    
-    animation: heartbeat 2s infinite;
-  }
-
-u {
-    text-decoration: none;
-    font-style: normal;
-    display: inline-block;
-    color: #ffffff !important;
-    font-weight: bold;
-    text-shadow: 0 0 2px #800020;
-    animation: heartbeat 2s infinite;
-  }
-
-
-  @keyframes heartbeat {
-    0% { opacity: 0.4; }
-    50% { opacity: 1; }
-    100% { opacity: 0.4; }
-  }
-
-
-b{
-    font-style: normal;
-    display: inline-block;
-    color: #ffffff !important;
-    font-weight: bold;
-    text-shadow: 0 0 2px #800020;
-    animation: soul-breathe 3s infinite ease-in-out alternate;
-}
-
-@keyframes soul-breathe {
-    0% { text-shadow: 0 0 2px #800020, 0 0 4px #800020; opacity: 0.8; }
-    100% { text-shadow: 0 0 8px #800020, 0 0 14px #e6b8c2; opacity: 1; }
-}
-
-
-
-s{
-    text-decoration: none;
-    display: inline-block;
-    color: #ffffff !important;
-    animation: melt-drop 3.5s infinite ease-in-out alternate;
-}
-
-
-
-i{
-    font-style: normal;
-    filter: blur(0.8px);
-    animation: fade-out-ghost 2s ease-out infinite alternate;
-    display: inline-block;
-}
-
-@keyframes fade-out-ghost {
-    0% {
-        transform: translateY(0) scale(1);
-        opacity: 1;
-        filter: blur(0.3px);
-    }
-    50% {
-        transform: translateY(+2px);
-        opacity: 0.5;
-    }
-    100% {
-        transform: translateY(+5px) scale(0.9);
-        opacity: 0;
-        filter: blur(0px);
-    }
-}
-
-</style>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- 1. إعداد نمط الـ CSS المخصص للمشغل القرصي -->
-<style>
-  /* حاوية المشغل لجعل العناصر فوق بعضها */
-  .cd-player-container {
-    position: relative;
-    left: 40%;
-    width: 100px;
-    height: 100px;
-    margin: 10px auto;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-
-  /* تصميم القرص المدمج باستخدام الـ CSS */
-  .retro-cd {
-    width: 100px;
-    height: 100px;
-    border-radius: 100%;
-    background: radial-gradient(circle, #222 20%, #800020 21%, #800020 40%, #111 41%, #222 70%);
-    border: 3px solid #e6b8c2;
-    box-shadow: 0 0 10px rgba(128, 0, 32, 0.5);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    cursor: pointer;
-    z-index: 2;
-    pointer-events: none; /* لتمرير النقرة إلى مشغل الصوت بالخلف */
-    animation: cd-spin 4s linear infinite;
-  }
-
-  /* الثقب الصغير في منتصف الـ CD */
-  .retro-cd::after {
-    content: "";
-    width: 16px;
-    height: 16px;
-    border-radius: 50%;
-    background-color: #0d1117; /* لون خلفية ثيم جيتهاب المظلم */
-    border: 2px solid #e6b8c2;
-  }
-
-  /* حركة دوران القرص المستمرة */
-  @keyframes cd-spin {
-    from { transform: rotate(0deg); }
-    to { transform: rotate(360deg); }
-  }
-
-  /* السحر الحقيقي: إخفاء الشريط الأبيض وجعله يغطي المساحة ليتم نقره */
-  .hidden-audio-trigger {
-    position: absolute;
-    bottom : 28%;
-    left: 28%;
-    width: 100.1px;
-    height: 120px;
-    opacity: 0; /* شبه مخفي تماماً لكنه قابل للنقر */
-    z-index: 3;
-    cursor: pointer;
-  }
-</style>
-
-
-
-<style>
-    pre {
-    background-color: #201d1d9a !important; /* لون خلفية رمادي غامق (Atom Theme) */
-    border-radius: 6px;
-    padding: 12px;
-}
-   
-   pre {
-    background-color: rgba(128, 0, 32, 0.05) !important; 
-    border-left: 4px solid #800020 !important;         
-    color: #c9d1d9 !important;                          
-    padding: 10px 15px;
-    font-size: 1em;
-    border-radius: 6px;
-    margin: 1em 0;
-}
-    pre code {
-    color: #CDD7E2 !important;
-}
-/* يستهدف فقط الفتحات الخلفية الفردية ويحولها إلى الكتلة الجميلة التي طلبتها */
-
-
-
-
-
-  blockquote {
-    background-color: rgb(128, 0, 32)!important; /* لون الخلفية (هنا أزرق شفاف خفيف) */
-    border-left: 4px solid #800020 !important;        /* لون الخط الجانبي العمودي */
-    color: #e6b8c2 !important;                        /* لون النص داخل الاقتباس */
-    padding: 0.px;
-    border-radius: 4px;
-  }
-
-
-p > code {
-    /* جعل العنصر سطرياً يتدفق مع الكلمات بشكل طبيعي */
-    display: inline-block;
-    
-    /* تجريد الماركدوان من التنسيقات الرمادية الافتراضية */
-    background: none !important;
-    padding: 0 4px !important;
-    font-family: inherit !important;
-    font-weight: bold;
-    
-    /* كود الحبر السري العبقري الخاص بك */
-    color: transparent !important;
-    text-shadow: 0 0 8px rgba(255, 255, 255, 0.25) !important; /* زدت الشفافية قليلاً ليكون الطيف مرئياً كسراب */
-    transition: all 0.5s ease;
-    cursor: pointer;
-}
-
-/* التأثير الساحر عند مرور الفأرة (Hover) */
-code:hover {
-    color: #ffffff !important;
-    text-shadow: 0 0 6px #800020, 0 0 12px #800020 !important;
-    transform: translateY(-1px); /* لمسة خفيفة جداً لإشعارها بالتفاعل */
-}
-
-    del{
-    text-decoration: none !important; /* إزالة خط الشطب الافتراضي تماماً */
-    color: rgba(255, 255, 255, 0.15) !important;
-    filter: blur(0.8px);
-    animation: fade-out-ghost 2s ease-out infinite alternate;
-    display: inline-block;
-    font-family: inherit !important;
-    font-weight: bold;
-}
-
-
-    
-
-
-    .block {
-    display: block;
-    background-color: rgba(128, 0, 32, 0.05) !important; 
-    border-left: 4px solid #800020 !important;         
-    color: #c9d1d9 !important;                          
-    padding: 10px 15px;
-    font-size: 0.9em;
-    border-radius: 6px;
-    margin: 1em 0;
-} 
-
-
-  .day-tag {
-    background-color: #800020;
-    color: #ffffff !important;
-    padding: 2px 6px;
-    border-radius: 4px;
-    font-size: 0.85em;
-    font-weight: bold;
-    font-family: monospace;
-  }
-
-
-/* Veiled words (blurred for sensitive content) */
-.veiled-word {
-    filter: blur(6px);
-    background: rgba(255, 255, 255, 0.12);
-    border-radius: 4px;
-    padding: 0 4px;
-    transition: filter 0.5s;
-}
-
-/* Fading ghost words */
-.ghost-word {
-    color: rgba(255, 255, 255, 0.15) !important;
-    filter: blur(0.8px);
-    animation: fade-out-ghost 2s ease-out infinite alternate;
-    display: inline-block;
-}
-
-@keyframes fade-out-ghost {
-    0% {
-        transform: translateY(0) scale(1);
-        opacity: 1;
-        filter: blur(0.3px);
-    }
-    50% {
-        transform: translateY(+2px);
-        opacity: 0.5;
-    }
-    100% {
-        transform: translateY(+5px) scale(0.9);
-        opacity: 0;
-        filter: blur(0px);
-    }
-}
-
-.shaking-thought {
-    display: inline-block;
-    color: #e6b8c2 !important;
-    animation: nervous-shake 0.3s infinite alternate;
-}
-
-@keyframes nervous-shake {
-    0% { transform: translateX(0) translateY(0); }
-    25% { transform: translateX(-0.5px) translateY(0.5px); }
-    50% { transform: translateX(0.5px) translateY(-0.5px); }
-    75% { transform: translateX(-0.5px) translateY(-0.5px); }
-    100% { transform: translateX(0.5px) translateY(0.5px); }
-}
-
-.fading-strike {
-    display: inline-block;
-    text-decoration: line-through;
-    text-decoration-color: #f9f0f2;
-    color: rgba(201, 209, 217, 0.6) !important;
-    animation: strike-glow 4s infinite ease-in-out alternate;
-}
-
-@keyframes strike-glow {
-    0% { opacity: 0.8; filter: blur(0px); }
-    100% { opacity: 0.15; filter: blur(1.5px); }
-}
-
-
-.glowing-soul {
-    display: inline-block;
-    color: #ffffff !important;
-    font-weight: bold;
-    text-shadow: 0 0 2px #800020;
-    animation: soul-breathe 3s infinite ease-in-out alternate;
-}
-
-@keyframes soul-breathe {
-    0% { text-shadow: 0 0 2px #800020, 0 0 4px #800020; opacity: 0.8; }
-    100% { text-shadow: 0 0 8px #800020, 0 0 14px #e6b8c2; opacity: 1; }
-}
-
-.typing-word {
-    display: inline-block;
-    font-family: monospace;
-    white-space: nowrap;
-    overflow: hidden;
-    border-right: 2px solid #800020; /* المؤشر الوامض */
-    width: 0;
-    animation: 
-        type-animation 10s steps(20, end) infinite,
-        cursor-blink 0.6s step-end infinite alternate;
-}
-
-/* حركة ظهور الأحرف */
-@keyframes type-animation {
-    0%, 10%, 100% { width: 0; }
-    50%, 80% { width:fit-content ; } /* تكتمل الكلمة وتثبت قليلاً ليتم قراءتها */
-}
-
-/* حركة وميض المؤشر */
-@keyframes cursor-blink {
-    50% { border-color: transparent; }
-}
-
-
-/* الكلمة الافتراضية التي يراها الجميع */
-.guilt-trip {
-    color: #c9d1d9 !important;
-    font-weight: bold;
-    display: inline-block;
-}
-
-/* السحر الذي يحدث فقط عند تحديد النص بالفأرة */
-.guilt-trip::selection {
-    background: #800020 ; /* خلفية بورغاندي عند التحديد */
-    color: #ffffff ;
-    font-size: 0px; 
-}
-
-.guilt-trip::selection::after {
-    content: "I kept writing in the dark because I'm afraid to lose you ";
-    font-size: 16px;
-    color: #ffb3c1 ;
-}
-
-.glitch-text {
-    display: inline-block;
-    color: #e6b8c2 !important;
-    position: relative;
-    animation: glitch-shake 0.4s infinite alternate;
-}
-
-@keyframes glitch-shake {
-    0% { transform: skew(0deg); text-shadow: 1px 0 #e71a4d, -1px 0 #000; }
-    50% { transform: skew(-2deg); text-shadow: -1px 0 #800020, 1px 0 #ffffff; opacity: 0.9; }
-    100% { transform: skew(3deg); text-shadow: 2px 0 #800020, -2px 0 #dd2a57; }
-}
-
-
-.secret-ink {
-    color: transparent !important;
-    text-shadow: 0 0 8px rgba(255, 255, 255, 0.15); /* يظهر كأنه طيف باهت جداً */
-    transition: all 0.5s ease;
-    cursor: pointer;
-    display: inline-block;
-}
-
-/* عندما تمر الفأرة فوقه، ينقشع الضباب ويتوهج بالبورغاندي */
-.secret-ink:hover {
-    color: #ffffff !important;
-    text-shadow: 0 0 6px #800020, 0 0 12px #800020;
-}
-
-.shattered-container {
-    display: inline-block;
-    position: relative;
-    cursor: pointer;
-}
-
-.shattered-text {
-    display: inline-block;
-    transition: transform 0.4s ease, opacity 0.4s ease;
-    color: #c9d1d9 !important;
-}
-
-/* عند تمرير الفأرة، ينفصل النص إلى شقين بفضل الوهم البصري */
-.shattered-container:hover .shattered-text {
-    transform: skewX(-10deg) scaleY(0.9);
-    text-shadow: 
-        0 -3px 0 rgba(128, 0, 32, 0.6),  /* الشق العلوي البورغاندي */
-        0 3px 0 rgba(230, 184, 194, 0.5); /* الشق السفلي الناعم */
-}
-
-.melting-ash {
-    display: inline-block;
-    color: #ffffff !important;
-    animation: melt-drop 3.5s infinite ease-in-out alternate;
-}
-
-@keyframes melt-drop {
-    0% {
-        filter: blur(0px);
-        transform: scaleY(1) translateY(0);
-        opacity: 1;
-        text-shadow: none;
-    }
-    50% {
-        opacity: 0.8;
-        text-shadow: 0 2px 3px rgba(128, 0, 32, 0.5);
-    }
-    100% {
-        filter: blur(2px);
-        /* تمديد النص للأسفل وتحريكه كأنه يقطر أو يتساقط كرماد */
-        transform: scaleY(1.3) translateY(4px);
-        opacity: 0.1;
-        color: #800020 !important;
-    }
-}
-
-
-.phoenix-shatter {
-    display: inline-block;
-    color: #c9d1d9 !important;
-    font-weight: bold;
-    /* حلقة حركة مستمرة مدتها 4 ثوانٍ تتناوب بسلاسة */
-    animation: shatter-loop 4s ease-in-out infinite alternate;
-}
-
-@keyframes shatter-loop {
-    0%, 40% {
-        /* النص سليم ومستقر في البداية */
-        transform: skew(0deg) scale(1);
-        text-shadow: none;
-        filter: blur(0px);
-    }
-    50% {
-        /* بداية الشرخ والاهتزاز قبل الانفجار */
-        transform: skewX(-4deg);
-        text-shadow: 1px 0 #800020;
-    }
-    60% {
-        /* لحظة التشظي والانشطار الكامل (تأثير الشظايا بالظلال المتباعدة) */
-        transform: skewX(12deg) translateY(-2px);
-        text-shadow: 
-            -4px -3px 0 rgba(128, 0, 32, 0.8),  /* شظية علوية بورغاندي */
-             4px  3px 0 rgba(230, 184, 194, 0.6); /* شظية سفلية ناعمة */
-        filter: blur(0.5px);
-    }
-    70% {
-        /* أقصى تباعد للشظايا كأنه مكسور تماماً */
-        transform: skewX(-8deg) translateY(1px);
-        text-shadow: 
-             5px -2px 0 rgba(128, 0, 32, 0.7),
-            -5px  2px 0 rgba(255, 255, 255, 0.5);
-    }
-    85%, 100% {
-        /* يعود ويلتحم تماماً كالفينيق ليصبح مقروءاً قبل أن تبدأ الدورة من جديد */
-        transform: skew(0deg) scale(1);
-        text-shadow: none;
-        filter: blur(0px);
-    }
-}
-
-.fading-mirage {
-    display: inline-block;
-    color: #ffffff !important;
-    letter-spacing: 0px;
-    animation: mirage-expand 5s ease-in-out infinite alternate;
-}
-
-@keyframes mirage-expand {
-    0% {
-        letter-spacing: 0px;
-        filter: blur(0px);
-        opacity: 1;
-    }
-    50% {
-        opacity: 0.7;
-        text-shadow: 0 0 4px rgba(230, 184, 194, 0.4);
-    }
-    100% {
-        /* تباعد الحروف مع الضباب يعطي إيحاء التبخر الأفقي */
-        letter-spacing: 4px;
-        filter: blur(3px);
-        opacity: 0;
-    }
-}
-
-</style>
-
-
-<style>
-/* تباعد مريح بين سجلات الأيام */
-.clean-modular-log {
-  margin-bottom: 14px;
-}
-
-/* حالة الإخفاء الافتراضية: مخفي تماماً وبدون أي إطارات أو خلفيات */
-.clean-modular-log .log-content {
-  max-height: 0;
-  overflow: hidden;
-  opacity: 0;
-  transition: max-height 0.8s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.5s ease-in;
-}
-
-/* حالة الإظهار عند النقر: يتمدد النص بسلاسة ويظهر على طبيعته */
-.clean-modular-log .toggle-input:checked ~ .log-content {
-  max-height: 200000px; /* مساحة ضخمة لتستوعب الجداول والنصوص الطويلة جداً */
-  opacity: 1;
-  margin-top: 15px;
-}
-
-/* تنسيق عنوان اليوم التفاعلي */
-.clean-modular-log .log-trigger {
-  display: inline-block;
-  cursor: pointer;
-  color: #ffffff;
-  font-weight: 500;
-  transition: color 0.3s, text-shadow 0.3s;
-}
-
-/* التوهج الأزرق الساحر عند الاقتراب بالفأرة */
-.clean-modular-log .log-trigger:hover {
-  color: #ffffff;
-  text-shadow: 0 0 10px rgba(237, 31, 31, 0.5);
-}
-</style>
-
-
 #### lat
 ```
 ⠀⠀⠀⠀⠀⣀⣤⠶⠟⠛⠻⠶⢦⣄⠀⠀⠀⠀⠀⠀⠀⠀
@@ -3646,5 +3179,4 @@ code:hover {
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠁⠀⠙⣆⠀⠀⠀⠈⠁⠀⠀⠀⠀⢠⣤⠀⠀⠀⠀⠀⣀⡔⠁⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠑⠦⠤⢄⣀⣀⣀⣀⣀⣀⡠⠤⠒⠋⠀⠀⠀⠀⠀⠀⠀⠀
 ```
-
 
