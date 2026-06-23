@@ -7,7 +7,6 @@
   --text-light: #f8f8f2;
 }
 
-
 /* My first Animation.. */
 
 /* Fading Mirage Animation */
@@ -62,14 +61,14 @@ h1  {
     transition: letter-spacing 0.4s ease-out, color 0.4s ease-out;
 }
 
-h2 {
+h2 , h3 {
     letter-spacing: 0px;
     /* Set up transition for letter-spacing change */
     transition: letter-spacing 0.4s ease-out, color 0.4s ease-out;
 }
 
 /* When you hover over the title, the letters smoothly expand apart */
-h1:hover , h2:hover {
+h1:hover , h2:hover , h3:hover {
     color:#ffffff !important;
     text-shadow: 0 0 2px #800020;
     letter-spacing: 2px; /* Expands individual character clearance */
@@ -740,4 +739,113 @@ code:hover {
 .clean-modular-log .log-trigger:hover {
   color: #ffffff;
   text-shadow: 0 0 10px rgba(237, 31, 31, 0.5);
+}
+
+
+/* ===================== <!-- ALTERNATE BRANCH (Dull, Hidden by Default) -->=================== */
+/* ==================== BASE STYLES ==================== */
+[log-branch] {
+  margin-bottom: 8px;
+  transition: all 1.5s ease;
+}
+
+/* ==================== MAIN BRANCH ==================== */
+[log-branch="main"] .log-content {
+  max-height: 0;
+  overflow: hidden;
+  opacity: 0;
+  transition: max-height 0.8s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.5s ease-in;
+}
+
+[log-branch="main"] .toggle-input:checked ~ .log-content {
+  max-height: 200000px;
+  opacity: 1;
+  margin-top: 8px;
+}
+
+[log-branch="main"] .log-trigger {
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-weight: 500;
+  transition: color 0.3s, text-shadow 0.3s;
+}
+
+[log-branch="main"] .log-trigger:hover {
+  text-shadow: 0 0 10px rgba(237, 31, 31, 0.5);
+}
+
+/* ==================== ALTERNATE BRANCH ==================== */
+/* HIDDEN BY DEFAULT */
+[log-branch="alter"] {
+  max-height: 0;
+  overflow: hidden;
+  opacity: 0;
+  filter: grayscale(100%) brightness(0.5);
+  transition: all 1.5s ease;
+}
+
+/* SHOW WHEN TOGGLE IS CHECKED */
+#what-if-toggle:checked ~ [log-branch="alter"] {
+  max-height: 200000px;
+  opacity: 1;
+  filter: grayscale(0%) brightness(1);
+  margin-top: 15px;
+}
+
+[log-branch="alter"] .log-content {
+  max-height: 0;
+  overflow: hidden;
+  opacity: 0;
+  transition: max-height 0.8s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.5s ease-in;
+}
+
+[log-branch="alter"] .toggle-input:checked ~ .log-content {
+  max-height: 200000px;
+  opacity: 1;
+  margin-top: 8px;
+}
+
+[log-branch="alter"] .log-trigger {
+  display: inline-block;
+  cursor: pointer;
+  color: #888888;
+  font-weight: 500;
+  transition: color 0.3s, text-shadow 0.3s;
+}
+
+[log-branch="alter"] .log-trigger:hover {
+  color: #ffffff;
+  text-shadow: 0 0 10px rgba(34, 31, 237, 0.5);
+}
+
+/* ==================== GLOWING TIMELINE ==================== */
+/* This makes the alternate log glow when the branch is active */
+#what-if-toggle:checked ~ [log-branch="alter"] .glowing-timeline {
+  color: #ffffff !important;
+  animation: pulse-glow 2s infinite alternate;
+}
+
+
+/* ==================== WHAT IF TOGGLE ==================== */
+.what-if-trigger {
+  cursor: pointer;
+  color: #ffffff;
+  text-decoration: underline;
+  font-weight: bold;
+  display: inline-block;
+  margin: 20px 0;
+  transition: all 0.3s ease;
+}
+
+.what-if-trigger:hover {
+  color: #e6b8c2;
+  text-shadow: 0 0 10px rgba(128, 0, 32, 0.5);
+}
+
+/* ==================== GRAYSCALE EFFECT ==================== */
+/* When toggle is checked, fade the main branch */
+#what-if-toggle:checked ~ [log-branch="main"] {
+  filter: grayscale(80%) brightness(0.6);
+  opacity: 0.5;
 }

@@ -1617,7 +1617,7 @@ actualy even better i can make it like a shortcut..for existing one
   <input type="checkbox" id="log-day14" class="toggle-input" style="display:none;">
   
   <label for="log-day14" class="log-trigger">
-    <h3>📝 Day 14: Am The other side.</h3>
+    <h3>📝 Day 14: Hello From The other side.</h3>
   </label>
   
   <div class="log-content">
@@ -2129,6 +2129,7 @@ Haaaa am glad i started this.
   </label>
   <div class="log-content">
 
+
 ### log Day 21 : 10/06/2026 
 
 </div></div>
@@ -2620,11 +2621,163 @@ i accedentaly..built a framework...
 <div class="clean-modular-log">
   <input type="checkbox" id="log-day34" class="toggle-input" style="display:none;">
   <label for="log-day34" class="log-trigger">
-    <h3>📝 Log Day 34 : 23/06/2026</h3>
+    <h3>📝 Log Day 34 : My Safe Place.</h3>
   </label>
   <div class="log-content">
 
 ### log Day 34 : 23/06/2026 
+
+6:20 AM
+
+Gm..most beauutiful i've ever seen ~ 
+
+```
+emm..you never seen her tho
+```
+shh don't talk about unecessary things..
+
+-Lay down on his side with a cool pose-
+
+So anyway how is your day ~
+
+Half an hour later...
+
+lol
+
+sorry i started a conversation and ran away..
+
+anyway i made my a copy of my terminal for this readme.
+
+now i can show you my git commit history ^^
+
+i don't where should i put it..maybe at then? as another topic?
+
+and am thinking maybe.. i make it more flexible..cause for now it's look
+just as a bland..page..hmmm we will see..maybe this a chance i can 
+level up more.
+
+hmmm..yah am gonna make it with tabs like a real terminal
+
+yah i just don't want to go for programing i made a mess last night..
+it will take fore ever to clean..lol i don't have that much energy
+i just woke like i told u..hmm maybe at night ..
+or when am in the mood..
+
+yah..
+
+i love being here..
+running away from real work..and just chilling here..
+
+and you know what zoli..when i first had the thought of making you a gift..
+i had this vision..to make something...for you to always comeback to..when you
+are tired from life..and this was the whole point of the project ..
+a safe place for you..
+
+but..the funny thing is:`It became a safe place for me.`
+
+What can i say good things happen to good peaple ~
+you good too zoli.. way good ~
+
+
+since i talked about the origins.. maybe i'll show you the first idea i had for the website..before reality crashed my 
+litle dreams...it's all in notion i documented evrything..before this README..could be a thing.
+(the thing i wanted you to download but..you thought it's another random app for chating)
+1. `(Stop right here and goes .. )`
+
+
+---
+but look at this if you didn't refuse i wouldn't go find another alternative
+and speaking by the word "alternative" hmm maybe it's gonna be one of the alternative timelines...
+oh maaaan am on fire today..
+
+and the day just started this gonna be a new ark..Nostalgaia ark
+
+3. `Then finaly he cmplete this`
+
+---
+
+2. `(Here Writing before the idea despair..)`
+heey i just got an idea while talking..
+what if i made my comment pop up when you hover a paragraf or text..
+so now you can see it like reading my inner thoughts at that moment..
+oh man this gonna be hellaa cooolll again
+see seee... this all you
+you know from now on i'll call it
+<b>the zoli effect</b>
+
+```
+cheesy yah i know..but with you? let it be
+```
+
+4. `Finally`
+
+I had to ..do al that just cause am gonna say:
+
+-Hug her tightly and start jumping-
+
+wallahi you are the best thing happed to me...
+and for this i'll create a timeline where i didn't meet you.
+just to show how much you impact was
+
+```
+Reminder for me: 
+Don't forget about the staring contest idea.
+And Give Day 2 The popup thought effect.
+```
+
+9:30 AM
+
+Done!! 
+I created the Inner-Thought effect.
+now zoli ~
+some texts..gonna hold inner thoughts and secrets ~ 
+
+9:40 AM
+
+I was dumb..
+I just learnt that i can just use a custom HTML tag.
+from a CSS effect i made.. 
+that mean 
+- i dont have to keep..doing this ..
+`<span class="fading">`..
+- i can just do..`<fading>`
+
+bro..this is huge to me...
+i spent 34 Days doing it the dumb way!
+
+10:30 AM
+
+Hi..zulikha
+well i didn't realy left..
+but i just wanted to write you name
+```
+Yah..I'm guilty..i just wanted to score some point
+```
+...
+
+Bruh i forget what i was gonna say...
+
+...
+
+...I don't remember..
+Ah.. i remember.. (lol wasting for the ink)..
+..
+See when you scrol down to this day...
+you will find some days that are empty..
+Let me tell You THEY ARE NOT "empty".
+
+the alternative..timelie content..is hidden in those days.
+
+well..till now i still didn't write..what happend in those events
+but i think future me will do.
+
+Ok...let's do the real work..
+am gonna add the new alternative time line
+
+How? after i come back .. i'll tell you..
+
+The lore is gonna be insane.
+
 
 </div></div>
 
