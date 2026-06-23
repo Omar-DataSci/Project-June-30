@@ -23,7 +23,13 @@ This project is trying to say:
 
 >“This room was built as a safe place for someone important🤍.”
 
-<div class="clean-modular-log">
+<input type="checkbox" id="what-if-toggle" style="display:none;">
+
+  <!-- THE TRIGGER BUTT ON -->
+  <label for="what-if-toggle" class="what-if-trigger">
+  </label>
+  
+<div log-branch="main">
   <input type="checkbox" id="hidden-truth1" class="toggle-input" style="display:none;">
   <label for="hidden-truth1" class="log-trigger">
     🌸 Click to reveal a hidden truth 
@@ -47,7 +53,10 @@ So am making a profound..base we can stand on.
 
 </span>
 
-</div>
+</div></div>
+
+<div log-branch="main">
+
 
 ## 📌 Table of Contents
 - [1. Executive Summary](#1-executive-summary)
@@ -80,7 +89,10 @@ photos blur\
 music changes tone\
 The room is basically: a memory space.
 
-<div class="clean-modular-log">
+</div>
+
+
+<div log-branch="main">
   <input type="checkbox" id="hidden-truth2" class="toggle-input" style="display:none;">
   <label for="hidden-truth2" class="log-trigger">
     🌸 Click to reveal a hidden truth 
@@ -107,7 +119,10 @@ I built the entire Project around it.
 
 </span>
 
-</div>
+</div></div>
+
+<div log-branch="main">
+
 
 ## 2. The Vision & Core Architecture
 
@@ -266,6 +281,8 @@ and yah am Omar..from (day 3) it's (day 2) ,3:00 am..but i think i told you that
 | 24/05/2026 | Re-architected core file structure and built professional Table of Contents. | Completed |
 | 01/06/2026 | Added a retro CD for playing music| Completed |
 | 04/06/2026 | Build a new hiding system for each day log | Completed |
+
+
 
 ## 5. Development Chronicles
 
@@ -533,18 +550,20 @@ but Day 41 still think he's a legit Day..lol
 
 </details>
 
+</div>
 
 
 ---
 
-<div class="clean-modular-log">
+<div log-branch="main">
   <input type="checkbox" id="log-day01" class="toggle-input" style="display:none;">
   
   <label for="log-day01" class="log-trigger">
     <h3>📝 Day 01: Excuse</h3>
   </label>
-  
   <div class="log-content">
+
+  
 
 ### log Day 01 : 24/05/2026
 ---
@@ -720,7 +739,7 @@ Oh i just remembered something..i need to make a to do list for ..
 </div>
 
 
-<div class="clean-modular-log">
+<div log-branch="main">
   <input type="checkbox" id="log-day02" class="toggle-input" style="display:none;">
   
   <label for="log-day02" class="log-trigger">
@@ -728,7 +747,7 @@ Oh i just remembered something..i need to make a to do list for ..
   </label>
   
   <div class="log-content">
-
+  
 ### log Day 02 : 24/05/2026
 ---
 It's kinda hard to find the time to work on this 
@@ -776,7 +795,7 @@ Well i think where my journey end.. i mean for today..i have to go to sleep.. it
 </div>
 </div>
 
-<div class="clean-modular-log">
+<div log-branch="main">
   <input type="checkbox" id="log-day03" class="toggle-input" style="display:none;">
   
   <label for="log-day03" class="log-trigger">
@@ -828,7 +847,7 @@ The big issue is how am i gonna convince u to download the vscode..
 </div>
 
 
-<div class="clean-modular-log">
+<div log-branch="main">
   <input type="checkbox" id="log-day04" class="toggle-input" style="display:none;">
   
   <label for="log-day04" class="log-trigger">
@@ -876,7 +895,7 @@ But i have..to wait..till June arrive.
 </div>
 
 
-<div class="clean-modular-log">
+<div log-branch="main">
   <input type="checkbox" id="log-day05" class="toggle-input" style="display:none;">
   
   <label for="log-day05" class="log-trigger">
@@ -898,7 +917,7 @@ Well I also had the time..to..refactor Unsay project
 </div>
 </div>
 
-<div class="clean-modular-log">
+<div log-branch="main">
   <input type="checkbox" id="log-day06" class="toggle-input" style="display:none;">
   
   <label for="log-day06" class="log-trigger">
@@ -1145,7 +1164,7 @@ Probably dreaming about you
 </div>
 
 
-<div class="clean-modular-log">
+<div log-branch="main">
   <input type="checkbox" id="log-day07" class="toggle-input" style="display:none;">
   
   <label for="log-day07" class="log-trigger">
@@ -1179,7 +1198,7 @@ i put evrything in Brain Storm Idea..
 
 
 
-<div class="clean-modular-log">
+<div log-branch="main">
   <input type="checkbox" id="log-day08" class="toggle-input" style="display:none;">
   
   <label for="log-day08" class="log-trigger">
@@ -1326,7 +1345,7 @@ Day 31
 
 
 
-<div class="clean-modular-log">
+<div log-branch="main">
   <input type="checkbox" id="log-day09" class="toggle-input" style="display:none;">
   
   <label for="log-day09" class="log-trigger">
@@ -1353,7 +1372,7 @@ nothing serious just like that....i think am gonna play some games.
 
 
 
-<div class="clean-modular-log">
+<div log-branch="main">
   <input type="checkbox" id="log-day10" class="toggle-input" style="display:none;">
   
   <label for="log-day10" class="log-trigger">
@@ -1370,7 +1389,7 @@ am sorry.
 </div></div>
 
 
-<div class="clean-modular-log">
+<div log-branch="main">
   <input type="checkbox" id="log-day11" class="toggle-input" style="display:none;">
   
   <label for="log-day11" class="log-trigger">
@@ -1457,7 +1476,7 @@ if am being.#### just tell me pls...
 
  
 
-<div class="clean-modular-log">
+<div log-branch="main">
   <input type="checkbox" id="log-day12" class="toggle-input" style="display:none;">
   
   <label for="log-day12" class="log-trigger">
@@ -1524,7 +1543,7 @@ No stop joking not the right time!
 
 
 
-<div class="clean-modular-log">
+<div log-branch="main">
   <input type="checkbox" id="log-day13" class="toggle-input" style="display:none;">
   
   <label for="log-day13" class="log-trigger">
@@ -1613,7 +1632,7 @@ actualy even better i can make it like a shortcut..for existing one
 </div></div>
 
 
-<div class="clean-modular-log">
+<div log-branch="main">
   <input type="checkbox" id="log-day14" class="toggle-input" style="display:none;">
   
   <label for="log-day14" class="log-trigger">
@@ -1688,7 +1707,7 @@ maybe in the future..i'll let u know
 </div></div>
 
 
-<div class="clean-modular-log">
+<div log-branch="main">
   <input type="checkbox" id="log-day15" class="toggle-input" style="display:none;">
   
   <label for="log-day15" class="log-trigger">
@@ -1777,7 +1796,7 @@ Day dreaming..
 </div></div>
 
 
-<div class="clean-modular-log">
+<div log-branch="main">
   <input type="checkbox" id="log-day16" class="toggle-input" style="display:none;">
   <label for="log-day16" class="log-trigger">
     <h3>📝 Log Day 16 : Until you arrive</h3>
@@ -1888,7 +1907,7 @@ I guess see you tomorrow.
 
 
 
-<div class="clean-modular-log">
+<div log-branch="main">
   <input type="checkbox" id="log-day17" class="toggle-input" style="display:none;">
   <label for="log-day17" class="log-trigger">
     <h3>📝 Log Day 17 : am i in a Loop?</h3>
@@ -1929,7 +1948,7 @@ Absence..
 </div>
 </div>
 
-<div class="clean-modular-log">
+<div log-branch="main">
   <input type="checkbox" id="log-day18" class="toggle-input" style="display:none;">
   <label for="log-day18" class="log-trigger">
     <h3>📝 Log Day 18 : I missed you..</h3>
@@ -1946,7 +1965,7 @@ I missed you..
 </div></div>
 
 
-<div class="clean-modular-log">
+<div log-branch="main">
   <input type="checkbox" id="log-day19" class="toggle-input" style="display:none;">
   <label for="log-day19" class="log-trigger">
     <h3>📝 Log Day 19 : </h3>
@@ -1958,7 +1977,7 @@ I missed you..
 </div></div>
 
 
-<div class="clean-modular-log">
+<div log-branch="main">
   <input type="checkbox" id="log-day20" class="toggle-input" style="display:none;">
   <label for="log-day20" class="log-trigger">
     <h3>📝 Log Day 20 : After the training arc</h3>
@@ -2122,7 +2141,7 @@ Haaaa am glad i started this.
 
 </div></div>
 
-<div class="clean-modular-log">
+<div log-branch="main">
   <input type="checkbox" id="log-day21" class="toggle-input" style="display:none;">
   <label for="log-day21" class="log-trigger">
     <h3>📝 Log Day 21 : 10/06/2026</h3>
@@ -2135,7 +2154,7 @@ Haaaa am glad i started this.
 </div></div>
 
 
-<div class="clean-modular-log">
+<div log-branch="main">
   <input type="checkbox" id="log-day22" class="toggle-input" style="display:none;">
   <label for="log-day22" class="log-trigger">
     <h3>📝 Log Day 22 : 11/06/2026</h3>
@@ -2147,7 +2166,7 @@ Haaaa am glad i started this.
 </div></div>
 
 
-<div class="clean-modular-log">
+<div log-branch="main">
   <input type="checkbox" id="log-day23" class="toggle-input" style="display:none;">
   <label for="log-day23" class="log-trigger">
     <h3>📝 Log Day 23 : 12/06/2026</h3>
@@ -2159,7 +2178,7 @@ Haaaa am glad i started this.
 </div></div>
 
 
-<div class="clean-modular-log">
+<div log-branch="main">
   <input type="checkbox" id="log-day24" class="toggle-input" style="display:none;">
   <label for="log-day24" class="log-trigger">
     <h3>📝 Log Day 24 : 13/06/2026</h3>
@@ -2171,7 +2190,7 @@ Haaaa am glad i started this.
 </div></div>
 
 
-<div class="clean-modular-log">
+<div log-branch="main">
   <input type="checkbox" id="log-day25" class="toggle-input" style="display:none;">
   <label for="log-day25" class="log-trigger">
     <h3>📝 Log Day 25 : Hope</h3>
@@ -2196,7 +2215,7 @@ i underdstand.
 </div></div>
 
 
-<div class="clean-modular-log">
+<div log-branch="main">
   <input type="checkbox" id="log-day26" class="toggle-input" style="display:none;">
   <label for="log-day26" class="log-trigger">
     <h3>📝 Log Day 26 : A dream in a dream</h3>
@@ -2250,7 +2269,7 @@ am tired am not making it for now..just want to share it..well..and as always..g
 </div></div>
 
 
-<div class="clean-modular-log">
+<div log-branch="main">
   <input type="checkbox" id="log-day27" class="toggle-input" style="display:none;">
   <label for="log-day27" class="log-trigger">
     <h3>📝 Log Day 27 : You were the content</h3>
@@ -2327,7 +2346,7 @@ i reread what i just wrote..it so random man..
 </div></div>
 
 
-<div class="clean-modular-log">
+<div log-branch="main">
   <input type="checkbox" id="log-day28" class="toggle-input" style="display:none;">
   <label for="log-day28" class="log-trigger">
     <h3>📝 Log Day 28 : Back again..</h3>
@@ -2362,7 +2381,7 @@ see ya.
 </div></div>
 
 
-<div class="clean-modular-log">
+<div log-branch="main">
   <input type="checkbox" id="log-day29" class="toggle-input" style="display:none;">
   <label for="log-day29" class="log-trigger">
     <h3>📝 Log Day 29 : I never had the chance</h3>
@@ -2390,7 +2409,7 @@ You have gone i never had the chance to see you smile.
 </div></div>
 
 
-<div class="clean-modular-log">
+<div log-branch="main">
   <input type="checkbox" id="log-day30" class="toggle-input" style="display:none;">
   <label for="log-day30" class="log-trigger">
     <h3>📝 Log Day 30 : Again..I Screwed Up..</h3>
@@ -2436,7 +2455,7 @@ byby..
 </div></div>
 
 
-<div class="clean-modular-log">
+<div log-branch="main">
   <input type="checkbox" id="log-day31" class="toggle-input" style="display:none;">
   <label for="log-day31" class="log-trigger">
     <h3>📝 Log Day 31 : Abyss</h3>
@@ -2502,7 +2521,7 @@ girl
 
 </div></div>
 
-<div class="clean-modular-log">
+<div log-branch="main">
   <input type="checkbox" id="log-day32" class="toggle-input" style="display:none;">
   <label for="log-day32" class="log-trigger">
     <h3>📝 Log Day 32 : The Blind Man</h3>
@@ -2552,7 +2571,7 @@ I'am the woman in the story.
 
 </div></div>
 
-<div class="clean-modular-log">
+<div log-branch="main">
   <input type="checkbox" id="log-day33" class="toggle-input" style="display:none;">
   <label for="log-day33" class="log-trigger">
     <h3>📝 Log Day 33 : Beyond</h3>
@@ -2618,7 +2637,7 @@ i accedentaly..built a framework...
 
 </div></div>
 
-<div class="clean-modular-log">
+<div log-branch="main">
   <input type="checkbox" id="log-day34" class="toggle-input" style="display:none;">
   <label for="log-day34" class="log-trigger">
     <h3>📝 Log Day 34 : My Safe Place.</h3>
@@ -2781,7 +2800,7 @@ The lore is gonna be insane.
 
 </div></div>
 
-<div class="clean-modular-log">
+<div log-branch="main">
   <input type="checkbox" id="log-day35" class="toggle-input" style="display:none;">
   <label for="log-day35" class="log-trigger">
     <h3>📝 Log Day 35 : 24/06/2026</h3>
@@ -2792,7 +2811,7 @@ The lore is gonna be insane.
 
 </div></div>
 
-<div class="clean-modular-log">
+<div log-branch="main">
   <input type="checkbox" id="log-day36" class="toggle-input" style="display:none;">
   <label for="log-day36" class="log-trigger">
     <h3>📝 Log Day 36 : 25/06/2026</h3>
@@ -2804,7 +2823,7 @@ The lore is gonna be insane.
 </div></div>
 
 
-<div class="clean-modular-log">
+<div log-branch="main">
   <input type="checkbox" id="log-day37" class="toggle-input" style="display:none;">
   <label for="log-day37" class="log-trigger">
     <h3>📝 Log Day 37 : Face off</h3>
@@ -2857,7 +2876,7 @@ It's not even me bro
 
 
 
-<div class="clean-modular-log">
+<div log-branch="main">
   <input type="checkbox" id="log-day38" class="toggle-input" style="display:none;">
   
   <label for="log-day38" class="log-trigger">
@@ -2872,7 +2891,7 @@ It's not even me bro
 
 
 
-<div class="clean-modular-log">
+<div log-branch="main">
   <input type="checkbox" id="log-day39" class="toggle-input" style="display:none;">
   
   <label for="log-day39" class="log-trigger">
@@ -2889,7 +2908,7 @@ It's not even me bro
 
 
 
-<div class="clean-modular-log">
+<div log-branch="main">
   <input type="checkbox" id="log-day40" class="toggle-input" style="display:none;">
   
   <label for="log-day40" class="log-trigger">
@@ -2985,14 +3004,21 @@ in another time line..you never came back
 well it's all in my head but.. play along pls
 ```
 
+  <input type="checkbox" id="what-if-toggle" style="display:none;">
 
-</div></div>
+  <!-- THE TRIGGER BUTT ON -->
+  <label for="what-if-toggle" class="what-if-trigger">
+    🔍 Go Beyond...
+  </label>
+
+  </div>
+</div>
 
 
-<div class="clean-modular-log">
+<div log-branch="alter">
   <input type="checkbox" id="log-day41" class="toggle-input" style="display:none;">
   
-  <label for="log-day41" class="log-trigger">
+  <label for="log-day41" class="log-trigger glowing-timeline">
     <h3>📝 Day 41: ..Good bye</h3>
   </label>
   
@@ -3032,7 +3058,11 @@ see you..in another life (maybe)
 
 
 
-</div></div>
+</div>
+</div>
+
+<div log-branch="main">
+
 
 ## 6. Complains & Unsent Truths
 <span class= "phoenix-shatter">
@@ -3111,6 +3141,17 @@ i like this line i'll go add it to the Gift part"
 ```
 
 **Confession**:`That idiot was me`
+</div>
+
+
+<div log-branch="alter">
+  <input type="checkbox" id="Pulse Link" class="toggle-input" style="display:none;">
+  
+  <label for="Pulse Link" class="log-trigger glowing-timeline">
+    <h3>Pulse Link</h3>
+  </label>
+
+  <div class="log-content">
 
 ### Pulse Link
 A Non-Destructive Emotional Notebook
@@ -3215,6 +3256,13 @@ Time itself becomes part of the writing.
 | Hiding system | Day 18 | It hide content lol |
 | Guilt-Trip    | Day 19 | Only visible when you’re still enough to look closer. |
 | Ghost-Trail   | Day 20 | Like sand trails in the desert It’s how a memory feels when it’s trying to find you again. |
+
+</div>
+</div>
+
+
+<div log-branch="main">
+
 
 ## 9. Brain Storm
 
@@ -3389,3 +3437,4 @@ Sometimes keeping it inside means we are <span class="phoenix-shatter">breaking 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠑⠦⠤⢄⣀⣀⣀⣀⣀⣀⡠⠤⠒⠋⠀⠀⠀⠀⠀⠀⠀⠀
 ```
 
+</div>
