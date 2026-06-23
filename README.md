@@ -35,6 +35,7 @@ This project is trying to say:
 <u>Hey love.</u>
 
 Can i call you that?In a **respectefull** tone ofc. \
+my love as a measurement of impact, not a declaration of romance,\
 You..see at some point even i don't know and questioned myself,
 What's the **Purpose** of this?\
 But,i just want to let you know
@@ -2553,11 +2554,66 @@ I'am the woman in the story.
 <div class="clean-modular-log">
   <input type="checkbox" id="log-day33" class="toggle-input" style="display:none;">
   <label for="log-day33" class="log-trigger">
-    <h3>📝 Log Day 33 : 22/06/2026</h3>
+    <h3>📝 Log Day 33 : Beyond</h3>
   </label>
   <div class="log-content">
 
 ### log Day 33 : 22/06/2026 
+
+
+Zoooli my love!!
+I just had a new idea 
+it's gonna be so cool
+sorry for the introduction
+
+but now words express my feeling at this moments like those words.
+tolerate it pls (looking at her with wet crying eyes)
+
+anyway 
+
+hear me out..
+at day 40 and 41 i talked about..the other time branches
+
+well i have this idea what if i expand this idea
+
+imagin this..at one of the days below..you find a strange title `What if`
+and when you click it...it take you to alternative timeline
+and you see evrything is dull..grey..black and white no colors at all ..
+
+but you find one..day log..glowing..
+like it's inviting you to click it..
+
+and then you...the what if scenario
+
+what if this could be us..
+
+and then evrything crumbles and you can't go back to it
+
+oh man..this gonna be so cool if i could pull it off
+
+
+05:10 AM 
+
+Done.
+i did it.
+
+it didn't take much time..i already built just had to tweak some settings..
+for now it get the job done..maybe i'll add more effect later
+
+okay now...all i have to do is..to
+go back from day one and change the HTML tags with the new..
+yah that the word i hate to do..
+one mistake and bom evrything colapse..
+i'll do it later at night ..
+now the better question is..what to fill in those alternative timeline log..
+
+lol i'll go desprate.
+
+
+06:00 AM
+
+You won't beleive this .. but i think..while playing here..
+i accedentaly..built a framework...
 
 </div></div>
 
