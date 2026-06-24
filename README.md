@@ -555,6 +555,22 @@ but Day 41 still think he's a legit Day..lol
 
 ---
 
+
+<div log-branch="alter">
+  <input type="checkbox" id="log-day00" class="toggle-input" style="display:none;">
+  
+  <label for="log-day00" class="log-trigger glowing-timeline">
+    <h3>📝 Day 00: The Architect</h3>
+  </label>
+
+  <div class="log-content">
+  <span class="placeholder-text">20/05/2026</span>
+    <p class="real-text">exception day text .</p>
+  </div>
+</div>
+
+
+
 <div log-branch="main">
   <input type="checkbox" id="log-day01" class="toggle-input" style="display:none;">
   
@@ -1965,15 +1981,16 @@ I missed you..
 </div></div>
 
 
-<div log-branch="main">
+<div log-branch="main" class="exception-day">
   <input type="checkbox" id="log-day19" class="toggle-input" style="display:none;">
   <label for="log-day19" class="log-trigger">
-    <h3>📝 Log Day 19 : </h3>
+    <h3>📝 Log Day 19 : Nostalgia</h3>
+    </span>
   </label>
   <div class="log-content">
-
-### log Day 19 : 08/06/2026 
-
+  <span class="placeholder-text">
+<h3>log Day 19 : 08/06/2026<h3> 
+</span>
 </div></div>
 
 
@@ -2147,64 +2164,73 @@ Haaaa am glad i started this.
     <h3>📝 Log Day 21 : 10/06/2026</h3>
   </label>
   <div class="log-content">
+  <span class="placeholder-text">
+<h3>Log Day 21 : 10/06/2026<h3> 
+</span>
 
 
-### log Day 21 : 10/06/2026 
 
 </div></div>
 
 
-<div log-branch="main">
+<div log-branch="main" class="exception-day">
   <input type="checkbox" id="log-day22" class="toggle-input" style="display:none;">
   <label for="log-day22" class="log-trigger">
     <h3>📝 Log Day 22 : 11/06/2026</h3>
   </label>
   <div class="log-content">
+  <span class="placeholder-text">
+<h3>log Day 22 : 11/06/2026<h3> 
+</span>
 
-### log Day 22 : 11/06/2026 
 
 </div></div>
 
 
-<div log-branch="main">
+<div log-branch="main" class="exception-day">
   <input type="checkbox" id="log-day23" class="toggle-input" style="display:none;">
   <label for="log-day23" class="log-trigger">
-    <h3>📝 Log Day 23 : 12/06/2026</h3>
+    <h3>📝 log Day 23 : 12/06/2026</h3>
   </label>
   <div class="log-content">
+  <span class="placeholder-text">
+<h3>log Day 23 : 12/06/2026<h3> 
+</span>
 
-### log Day 23 : 12/06/2026 
 
 </div></div>
 
 
-<div log-branch="main">
+<div log-branch="main" class="exception-day">
   <input type="checkbox" id="log-day24" class="toggle-input" style="display:none;">
   <label for="log-day24" class="log-trigger">
     <h3>📝 Log Day 24 : 13/06/2026</h3>
   </label>
   <div class="log-content">
+  <span class="placeholder-text">
+<h3>log Day 24 : 13/06/2026 <h3> 
+</span>
 
-### log Day 24 : 13/06/2026 
 
 </div></div>
 
 
-<div log-branch="main">
+<div log-branch="main" >
   <input type="checkbox" id="log-day25" class="toggle-input" style="display:none;">
   <label for="log-day25" class="log-trigger">
     <h3>📝 Log Day 25 : Hope</h3>
   </label>
   <div class="log-content">
 
-### log Day 25 : 14/06/2026 
+### log Day 25 : 14/06/2026
+
 <span class= "phoenix-shatter">
 
 <h3>11:15 PM</h3>
 </span>
 
 
-..yah..it's been a while...i was busy...
+yah..it's been a while...i was busy...
 andt tbh..i might stop..
 i startes to lose hope..
 you are not comming back..
@@ -2734,9 +2760,10 @@ I had to ..do al that just cause am gonna say:
 
 -Hug her tightly and start jumping-
 
-wallahi you are the best thing happed to me...
+I swaer..
+you are the best thing happed to me...
+
 and for this i'll create a timeline where i didn't meet you.
-just to show how much you impact was
 
 ```
 Reminder for me: 
@@ -2797,6 +2824,45 @@ How? after i come back .. i'll tell you..
 
 The lore is gonna be insane.
 
+12:10 PM
+
+Am back zoli...
+Done..I merged the two timelines..
+
+I created something..scary..look
+![alt text](image.png)
+
+
+01:00 PM
+
+Am getting a lil bit tired..
+The problems is..now i have to force my self to rest lol
+
+..
+```
+Another reminder to my self update the table of what i did.
+```
+
+Confession:`I enjoyed evry minute of this project.`
+
+.. 
+
+02:20 PM
+
+ By..fr this time.
+
+06:15 PM
+
+<p data-effect="pop-up">Shit...i spent way too much time here.
+    <span block-effect="thought">Yah i didn't go..i kept..working on the staring contest effect
+    </span>
+</p>
+
+maybe i'll add it in the Nostalgia Chaptre
+
+Probably you passed it when you scroled.. again it's not empty Nostalgia gonna be a day that only unlocks in the alternative branch ~
+
+Bruh..let me go
 
 </div></div>
 
@@ -2826,7 +2892,7 @@ The lore is gonna be insane.
 <div log-branch="main">
   <input type="checkbox" id="log-day37" class="toggle-input" style="display:none;">
   <label for="log-day37" class="log-trigger">
-    <h3>📝 Log Day 37 : Face off</h3>
+    <h3>📝 Log Day 37 : The Council</h3>
   </label>
   <div class="log-content">
 
@@ -2861,15 +2927,98 @@ Fk you! am still alive you emo boy!
 
 <span class="day-tag">Omar-03-Days-to-go</span>What the hell am not your dog..
 
-<span class="day-tag">Omar-D-03</span>
-Lame .. you have long ahh name bro..change it.
+<span class="day-tag">Omar-D-03</span>long ahh name 
 
-<span class="day-tag">Omar-03-Days-to-go</span>
-It's not even me bro
+<span class="day-tag">Omar-D-15</span>It's lame bro..change it.
+
+<span class="day-tag">Omar-03-Days-to-go</span> It's not even me..
 
 <span class="day-tag">Omar-D-06</span>Booo start fighting !!
 
 <span class="day-tag">Literely-Evry-Day</span>No one like you anyway. (Day 6)
+
+<span class="day-tag">Omar-D-03</span> kls (Day 6)
+
+<span class="day-tag">Omar-D-17</span> That's why zoli left.
+
+<span class="day-tag">Literely-Evry-Day-inculding-D-6</span>Silence..
+
+<span class="day-tag">Omar-D-17</span>>_has been removed from the server.
+
+<span class="day-tag">Omar-D-32</span>Zoli is back guys she's just busy with something bad..and she miss me..
+
+<span class="day-tag">Literely-Evry-Day-exculding-D-6</span>ME?? Me?? Me?
+
+<span class="day-tag">Omar-D-06</span>Hey..why exculding me.
+
+<span class="day-tag">Omar-D-03</span>Can I say it?? pls pls?
+
+<span class="day-tag">Omar-D-32</span>sigh..Yah go ahead.
+
+<span class="day-tag">Omar-D-03</span>AVENGERS!..Assemble!!
+
+<span class="day-tag">Omar-D-32</span>For what?
+
+<span class="day-tag">Omar-D-03</span>I don't know.
+
+<span class="day-tag">Omar-D-06</span>I'm in.
+
+<span class="day-tag">Literely-Evry-Day</span>Vote to kick D-03..
+
+<span class="day-tag">Omar-D-03</span>You are discriminating again..i thought we agreed on hating D-6 only
+
+<span class="day-tag">Omar-D-15</span>Wait..How bad we bad we talking..
+
+<span class="day-tag">Omar-D-34</span>We still don't know..she is gonna be alright
+
+<span class="day-tag">Omar-D-06</span>I don't care if she is back i still have my drip.
+
+<span class="day-tag">Omar-D-03</span>Someone ban him pls.
+
+<span class="day-tag">Omar-D-32</span>Ehm since evryone is here..
+
+<span class="day-tag">Omar-D-32</span>Anyone heard about the legend ?
+
+<span class="day-tag">Omar-D-06</span>Legend ? Am I a legend.
+
+<span class="day-tag">Omar-D-40</span>You mean The Architect? D-0? 
+
+<span class="day-tag">Omar-D-41</span>No No..Don't say his name Out loud..
+
+<span class="day-tag">Omar-D-06</span>Is he some bald guy without nose or something?
+
+<span class="day-tag">Omar-D-41</span>The Legend Says You can't .. Bear his pressence
+
+<span class="day-tag">Picolo-Facing-the-sun-with-his-cape</span>Ah..D-0... One of fellow Aura farmers
+
+<span class="day-tag">Omar-D-32</span>You know him?
+
+<span class="day-tag">Picolo-Still-Facing-the-sun-with-his-cape</span>D-0 is different. D-0 is Before everything.
+
+<span class="day-tag">Omar-D-06</span>You can turn around bro.
+
+<span class="day-tag">Omar-D-41</span>Am from ..another..dimension..and i can tell you D-0..is on his own ligue..
+
+<span class="day-tag">Omar-D-03</span>Can I meet him?
+
+<span class="day-tag">Omar-D-41</span>No.
+
+<span class="day-tag">Omar-D-03</span>Why?
+
+<span class="day-tag">Omar-D-41</span>Because if D-0 sees you...he remembers you.
+
+<span class="day-tag">Omar-D-06</span>think he thanos? one snap.. half population despair?
+
+<span class="day-tag">Omar-D-06</span>>_has been removed from the server.
+
+
+
+
+
+
+
+
+
 
 
 </div></div>
@@ -3008,7 +3157,7 @@ well it's all in my head but.. play along pls
 
   <!-- THE TRIGGER BUTT ON -->
   <label for="what-if-toggle" class="what-if-trigger">
-    🔍 Go Beyond...
+    What if..
   </label>
 
   </div>
@@ -3306,8 +3455,6 @@ Maybe some feelings are easier to <span class="ghost-word">leave inside objects<
 This is a <span class="pulse-text">hesitant thought</span> inside memory.
 
 I feared this friendship would <span class="shaking-thought">die and never pass</span> the rule.
-
-Actually, <span class="fading-strike">I fear losing you</span> so I kept writing.
 
 My intent is <span class="glowing-soul">PURE</span>, this is my way of expressing myself.
 

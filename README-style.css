@@ -819,6 +819,36 @@ code:hover {
   text-shadow: 0 0 10px rgba(34, 31, 237, 0.5);
 }
 
+
+
+/* ==================== DAY EXCEPTION ==================== */
+
+.exception-day .real-text {
+    display: none;
+}
+
+.exception-day .placeholder-text {
+  font-style: italic;
+  opacity: 0.7;
+}
+
+#what-if-toggle:checked ~ .exception-day .placeholder-text {
+  display: none;
+}
+
+/* When "Go Beyond" is clicked: Hide placeholder, show real text */
+#what-if-toggle:checked ~ .exception-day .real-text {
+  display: block;
+}
+
+/* Day EXCEPTION stays colorful even when main branch fades */
+
+#what-if-toggle:checked ~ .exception-day {
+  filter: grayscale(0%) brightness(1) !important;
+  opacity: 1 !important;
+}
+
+
 /* ==================== GLOWING TIMELINE ==================== */
 /* This makes the alternate log glow when the branch is active */
 #what-if-toggle:checked ~ [log-branch="alter"] .glowing-timeline {
@@ -849,3 +879,50 @@ code:hover {
   filter: grayscale(80%) brightness(0.6);
   opacity: 0.5;
 }
+
+
+
+/* ===================== Inner-Thought ======================= */
+
+[data-effect="pop-up"]{
+    position: relative;     /* Creates an anchor for the popup */
+    cursor: pointer;
+}
+
+
+
+/* 2. The thought — hidden by default */
+
+[block-effect="thought"] {
+    display:block;
+    font-family: Cascadia Mono;
+    font-size: 13px;
+    background-color: rgba(128, 0, 32, 0.25);
+    color: #f8f8f2d7;
+    position: absolute;
+    top: 50%;           /* Appear above the text */
+    left: 50%;
+    padding: 8px 12px;
+    border-radius: 6px;
+    max-width:600px;
+    max-height:300px;
+    overflow: auto;
+    white-space: pre-wrap;
+
+    /* Start hidden */
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s, transform 0.3s;
+    transform: translateX(-50%) translateY(5px);
+}
+
+/* 3. Show the popup on hover */
+
+[data-effect="pop-up"]:hover [block-effect="thought"] {
+    opacity: 1;
+    visibility: visible;
+    transform: translateX(-50%) translateY(0);
+
+}
+
+
