@@ -564,8 +564,90 @@ but Day 41 still think he's a legit Day..lol
   </label>
 
   <div class="log-content">
-  <span class="placeholder-text">20/05/2026</span>
-    <p class="real-text">exception day text .</p>
+  <span class="placeholder-text">What existed before the room?</span>
+    <p class="real-text">
+    I dont realy know what to say.. so i'll keep updating this..
+
+<h3>Thoughts</h3>
+rememeber when i told you about my dream girl?
+and u might ask how would iknow about her if i never met her before?
+well..i can feel it ..cause i know you..the right person .. drive you to be a better person.. you know that saying behind everysuccessful man there is a woman
+well that your spot in my life..
+the wrong person would drain you..and..for the first time in a long time..i feel like i can be myself around you..and that is a really good feeling.. 
+you drive me to be a better person..and that is something i really appreciate about you..i hope you know that..i hope you feel the same way about me too 
+well i cant be that much demanding right?
+i know this might sound a bit cheesy but..
+
+i dont say this..things to trick you am being serious.
+..
+
+well am a coward i guess..i dont want to lose you..
+and i know that if we are really meant to be together then we will be together..
+but i'll keep documanting this journey..
+and maybe one day we can look back on it and see how far we have come together..
+and how much we have grown as individuals and as a couple..i hope you will be a part of this journey with me..
+and maybe even be the one to share it with me..
+who knows what the future holds for us..but i am excited to find out..
+with you by my side..
+
+thats was AI auto complete but i liked it so i left it..i hope you like it too.
+
+..
+
+wait should i make a log of this? like a journal or something?
+i mean..if everything goes well..you gonna blame why didnt i document this journey?
+lol i can see that..
+and an gonna regret not doing it..
+well am just dulusional..this md might never see the light..
+and .. keeping it as a secret journal for myself...
+taking my laptop storage 
+
+and..maybe one day i will look back on it and laugh at how crazy i was to think that this could actually happen..but..you never know right?
+
+oh man i feel like am cheating on my future wife by writing this
+
+..
+
+i'll end this now..
+..
+am back again..same day..
+- `man this AI auto complete is really good..i just cant stop myself from using it..but i think it adds a nice touch to this journal..i hope you like it too..`
+
+that what he thought i was going to say but he is actually suck he look so desprate you making me lose aura bro
+look what he said down there 
+
+- `i just wanted to say that i really appreciate you..and i hope you know that..i hope you feel the same way about me too`
+anyway..you might say why are you not working on your novel instead of this..
+well i found something that more meaningful than writing fiction (wink).
+
+```
+YAH lol you already seen this jokes .. this was the original.
+Would you believe me ? I didn't plan this at all.
+```
+
+
+<details>
+<summary>
+<span class="day-tag">For Credibility </span></summary>
+
+<span block-effect="terminal">
+
+File: Thoughts.md
+Size: 3135            Blocks: 4          IO Block: 65536  regular file
+Device: b89ae5e4h/3097159140d   Inode: 57139420272389837  Links: 1
+Access: (0644/-rw-r--r--)  Uid: (197609/    User)   Gid: (197121/ UNKNOWN)
+Access: 2026-06-24 04:27:55.819590300 +0100
+Modify: 2026-06-24 04:23:12.655101900 +0100
+Change: 2026-06-24 04:23:12.655101900 +0100
+Birth: 2026-05-23 02:24:55.649136300 +0100
+
+Birth:`When the file was actually created on the disk.`
+
+</span>
+
+</details>
+
+</p>
   </div>
 </div>
 
@@ -2576,20 +2658,23 @@ remind me to tell you about the....`blind man story`
 
 basicly am at day 33 but i'll keep my promise
 
-..the was a blind man..
+There was a blind man..
 who married a woman..
 
 lol that's it..
 
 one day the woman said to the blind man
 
+<span class="block">
 "you are lucky am the most beautiful woman in the town 
-too bad you can't see me..such a waste."
+too bad you can't see me..haaa such a waste."
+</span>
+
 
 then the blind man answers..
-
+<span class="block">
 "if you were that beautiful the sighted wouldn't left you for me." 
-
+</span>
 ...
 
 I'am the woman in the story.
@@ -2854,8 +2939,7 @@ Confession:`I enjoyed evry minute of this project.`
 06:15 PM
 
 <p data-effect="pop-up">Shit...i spent way too much time here.
-    <span block-effect="thought">Yah i didn't go..i kept..working on the staring contest effect
-    </span>
+    <span block-effect="thought">Yah i didn't go..i kept..working on the staring contest effect</span>
 </p>
 
 maybe i'll add it in the Nostalgia Chaptre
@@ -2869,11 +2953,67 @@ Bruh..let me go
 <div log-branch="main">
   <input type="checkbox" id="log-day35" class="toggle-input" style="display:none;">
   <label for="log-day35" class="log-trigger">
-    <h3>📝 Log Day 35 : 24/06/2026</h3>
+    <h3>📝 Log Day 35 : Origins</h3>
   </label>
   <div class="log-content">
 
 ### log Day 35 : 24/06/2026 
+
+
+2:45 AM
+
+Hey zoli am back ~
+
+I slept at 09: Something PM last night..and yah i woke ..at the middle of the night
+
+i forgot to commit.. before the day end..
+
+well..i just did..
+
+anyway i was walking in circles talking to my self  .. and i just got an idea.
+you know the alternative timeline switch i built..
+is suprisnly..GOOD..because when i told u some days looks empty but they are not!
+i had to add..that to my system..an exception day tag..
+that make the day normal but reaveal the real content after u switch branch..
+
+and i thought i did left days titles.. so you don't feel suspisius when you ancounter them..
+now i got a better idea 
+
+what it there is a main branch content..and an alternative branch content..
+
+wait did i just created a NG+ experience ???? 
+
+```
+Damn zoli effect hit again!
+```
+
+Every day exists twice. An actual parallel version.
+
+3:35 AM
+
+Done.
+
+I added..<b>What existed before the room.</b>
+
+11:11 AM
+
+<p data-effect="pop-up"><b>pandoc --from=gfm README.md -o README.html</b>
+    <span block-effect="thought">This the cammand that export this markdown as an HTML page..</span>
+</p>
+
+9:30 PM
+
+I woke up..i ruined my sleep again..
+Am tired..and hungry..
+
+i havm't touched any project in days.
+am questining my self if any of it.. worth it at all..
+i duno..maybe am just tired..
+well..am gonna eat..brb
+
+
+
+
 
 </div></div>
 

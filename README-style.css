@@ -2,9 +2,16 @@
   --primary-color: #800020;
   --secondary-color:  rgb(128, 0, 32);
   --text-color: #ffffff;
-  --my-color: #50c3c7;
   --bg-color: #1e1e1e;
   --text-light: #f8f8f2;
+
+
+
+  --terminal-bg:rgba(40 42 53);
+  --terminal-txt-font:Cascadia Mono;
+  --terminal-color: #f8f8f2d7;
+  --terminal-select:#44475A;
+
 }
 
 /* My first Animation.. */
@@ -890,7 +897,6 @@ code:hover {
 }
 
 
-
 /* 2. The thought — hidden by default */
 
 [block-effect="thought"] {
@@ -900,13 +906,13 @@ code:hover {
     background-color: rgba(128, 0, 32, 0.25);
     color: #f8f8f2d7;
     position: absolute;
-    top: 50%;           /* Appear above the text */
-    left: 50%;
+    top: 20%;           /* Appear above the text */
+    left: 20%;
     padding: 8px 12px;
     border-radius: 6px;
     max-width:600px;
     max-height:300px;
-    overflow: auto;
+    overflow: hidden;
     white-space: pre-wrap;
 
     /* Start hidden */
@@ -926,3 +932,30 @@ code:hover {
 }
 
 
+
+
+/* ===================== Git-Terminal ================== */
+
+[block-effect="terminal"] {
+display:block;
+font-family: Cascadia Mono;
+font-size: 13px;
+background-color: rgba(40 42 53);
+border-top: 4px solid #282A35 ;
+color: #f8f8f2d7;
+padding: 15px;
+border-radius: 6px;
+max-width:600px;
+max-height:300px;
+overflow: auto;
+white-space: pre-wrap;
+
+}
+
+[block-effect="terminal"]::selection {
+    color: #f8f8f2d7;
+    background-color: #44475A;
+    padding: 6px;
+
+
+}
