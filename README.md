@@ -3834,6 +3834,66 @@ this is not even the last day and feeling sentimental..
 
 well..i'll be back in a moment.
 
+Done.
+
+I Pushed Evrything.
+
+Wow man .. this past 2 days..
+
+Well .. i'll take a rest ..
+
+No more effects..no more
+
+For me true ending
+it's in the last .. lines i write..
+
+maybe the ending of this file is what you read you last..
+
+but for.. i feel this..is the ending..
+
+Not Day 40 
+
+Not Some Section i added before.
+
+The ending is where i stop writing.
+
+and ..am gonna end it here..
+
+I told you before that.. i cheated.
+
+I couldn't wait.. i ruined the ending Somewhere at Day 17
+
+When i stopped hoping for you to come back.
+
+Sorry i was impatient..
+
+Well...
+
+Bye, Zoli.
+
+<t>10:40 PM</t>
+
+>You’re not treating me as friendly as before.
+
+```
+well i'd say you wrong
+very wrong.
+VERY
+VEEEEEEEEEERRRYYYYYYYYY!
+```
+
+Isn't all of this a proof?
+
+---
+
+I asked you.
+
+You..Said No.
+
+That's okay
+
+I still built it for you.
+
 </span>
 
 
