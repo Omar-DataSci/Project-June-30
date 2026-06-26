@@ -115,8 +115,11 @@ When I rush the dialogue..The words glitch\
 So..i didn't want to fix it i made it a feature\
 I built the entire Project around it.
 
-![bug-feature](/assets/png/bug-feature.png)
+![bug-feature](/Somewhere/assets/png/bug-feature.png)
 
+<day>Omar-D-37</day>
+Eh..No..it's not like that.. the bug happen when you click fast and rush the dialog.
+PS: I fixed that bug.
 </span>
 
 </div></div>
@@ -216,6 +219,16 @@ And maybe...
 some places are built
 just so someone can feel safe for a little while.
 
+</div>
+
+<div log-branch="alter">
+  <input type="checkbox" id="Thesis" class="toggle-input" style="display:none;">
+  
+  <label for="Thesis" class="log-trigger glowing-timeline">
+    <h3>Thesis</h3>
+  </label>
+  <div class="log-content">
+
 ## 3. Thesis
 
 I keep saying:
@@ -241,6 +254,9 @@ A person saying:
 ```
 before time turns it into a vague memory.
 
+</div></div>
+
+<div log-branch="main">
 
 ## 4. Project Backlog & Roadmap
 
@@ -272,15 +288,26 @@ and yah am Omar..from (day 3) it's (day 2) ,3:00 am..but i think i told you that
 
 | Date | Milestone / Change | State |
 | :--- | :--- | :--- |
-| 21/05/2026 | First Working Version Using AI prompts | Completed |
-| 21/05/2026 | Rebuild the whole system and Created The HTML file and CSS From scratch | Completed |
-| 22/05/2026 | Generated The background Image and Add Hitboxes for all the interactive Objects | Completed |
-| 22/05/2026 | Added A modular Database For all the Interactive Objects | Completed |
-| 23/05/2026 | Added the Sound effects For all the Interactive Objects  | Completed |
-| 24/05/2026 | Acquired ambient piano soundtrack assets (*Amélie* theme) for room atmosphere. | Completed |
-| 24/05/2026 | Re-architected core file structure and built professional Table of Contents. | Completed |
-| 01/06/2026 | Added a retro CD for playing music| Completed |
-| 04/06/2026 | Build a new hiding system for each day log | Completed |
+| 21/05/2026 | First Working Version Using AI prompts                                           | Completed |
+| 21/05/2026 | Rebuild the whole system and Created The HTML file and CSS From scratch          | Completed |
+| 22/05/2026 | Generated The background Image and Add Hitboxes for all the interactive Objects  | Completed |
+| 22/05/2026 | Added A modular Database For all the Interactive Objects                         | Completed |
+| 23/05/2026 | Added the Sound effects For all the Interactive Objects                          | Completed |
+| 24/05/2026 | Acquired ambient piano soundtrack assets (*Amélie* theme) for room atmosphere.   | Completed |
+| 24/05/2026 | Re-architected core file structure and built professional Table of Contents.     | Completed |
+| 01/06/2026 | Added a retro CD for playing music                                               | Completed |
+| 04/06/2026 | Build a new hiding system for each day log                                       | Completed |
+| 04/06/2026 | Built collapsible day-log architecture and hiding system                         | Completed |
+| 04/06/2026 | First reusable CSS storytelling effects created                                  | Completed |
+| 05/06/2026 | Introduced PulseLink concept and emotional text styling system                   | Completed |
+| 06/06/2026 | Converted CSS effects into reusable shortcuts/components                         | Completed |
+| 08/06/2026 | Added hidden truths, alternate reveals, and layered discoveries                  | Completed |
+| 10/06/2026 | Built CSS-only interactive "Staring Contest" mini-experiment                     | Completed |
+| 12/06/2026 | Introduced Git-history preservation as part of narrative experience              | Completed |
+| 18/06/2026 | Created parallel timeline / hidden day architecture                              | Completed |
+| 20/06/2026 | Expanded README into living archive rather than documentation                    | Completed |
+| 23/06/2026 | Formalized "Room That Remembers" lore and thesis sections                        | Completed |
+| 25/06/2026 | PulseLink framework documentation and effect catalog added                       | Completed |
 
 
 
@@ -582,6 +609,9 @@ Uh..am stuck i can't read! Can Someone push me a litle.
   
   <label for="log-day00" class="log-trigger glowing-timeline">
     <h3>📝 Log Day 00: The Architect</h3>
+    <h3><guilt type="day-00" >📝 Log Day 00 : What existed before the room?</guilt></h3>
+
+
   </label>
 
   <div class="log-content">
@@ -795,7 +825,7 @@ It's funny how all this guys had to introduce themeselves..because there was no 
 
 
 <span class="block">
-<span style="color: #6de10800;" title="
+<span title="
 Double Click to reveal
 -The Fallen Poet-
 made: 02:00 AM"> 
@@ -1440,7 +1470,7 @@ I was listneing to some piano pieces,and thought to my self i want her to listen
 <summary>🌸 This what it look like for now 
 </summary>
 
-![cd](assets/png/cd.png)
+![cd](/Somewhere/assets/png/cd.png)
 
 
 So i thought self since mark-down built like webs\
@@ -1667,7 +1697,7 @@ No stop joking not the right time!
   <input type="checkbox" id="log-day13" class="toggle-input" style="display:none;">
   
   <label for="log-day13" class="log-trigger">
-    <h3>📝 Log Day 13 : Her poet.</h3>
+    <h3><guilt type="day-13" >📝 Log Day 13 : Her poet.</guilt></h3>
   </label>
   
   <div class="log-content">
@@ -2294,7 +2324,8 @@ yep no problem
 Hmm i try to be positve but am worried you're not coming back..
 Is it me?
 
-Maye you just busy..
+Mayebe you are just busy..
+
 Again..hope you have a nice day 
 
 brb.
@@ -2329,7 +2360,7 @@ Haaaa am glad i started this.
 <div log-branch="main" class="exception-day">
   <input type="checkbox" id="log-day21" class="toggle-input" style="display:none;">
   <label for="log-day21" class="log-trigger glowing-timeline">
-    <h3>📝 Log Day 21 : Don't Blink</h3>
+    <h3><guilt type="day-21" >📝 Log Day 21 :  Don't Blink</guilt></h3>
   </label>
     <div class="log-content">
       <span class="placeholder-text">
@@ -2372,11 +2403,12 @@ A staring contest game using pure CSS
 <div log-branch="main" class="exception-day">
   <input type="checkbox" id="log-day22" class="toggle-input" style="display:none;">
   <label for="log-day22" class="log-trigger glowing-timeline">
-    <h3>📝 Log Day 22 : 11/06/2026</h3>
+    <h3>📝 Log Day 22 : Git log</h3>
   </label>
   <div class="log-content">
   <span class="placeholder-text">
-<h3>log Day 22 : 11/06/2026</h3> 
+  
+### log Day 22 : 11/06/2026
 
 <terminal>
 <corrupt data-text="[System Message] ">[System Message]:This log file </corrupt><corrupt data-text="high-density contains">contains high-density </corrupt><corrupt data-text=" █████████ residue">emotional residue.</corrupt>
@@ -2385,15 +2417,40 @@ A staring contest game using pure CSS
 </terminal>
 
 </span>
+<span class="real-text">
+
+<terminal>
+🌸 Zoli's Room:~/Desktop/Project june 30/Somewhere (main)$ git log --oneline 
 
 
+b487bd7 (HEAD -> main, origin/main, origin/HEAD) Day 36 - Almost done - btw I hosted the old room u can see it on your
+5a86b09 Day 35 : Origins - What existed before the room.
+0d34c6d Day 34 - 7 Days to go (lol yeah..am kinda late to commit)
+5a2dbb5 (alternate-timeline) Day 34 - Wrapped alternate timeline days - Am back..zoli ^^
+8683fbc Save point (before alternate branch experiment) - If you wonder what am doing am literally gonna create anothethe alternative timeline system then if it work we merge..  well wish me luck.
+c897b40 Day 30 (late) - Come up with the idea of timeline branches - Created the alternative timeline system - Missed 
+140272b The CSS magic is hidden now
+a95e1ac Fixed some timeline conflict
+7f5630d Zoli's back!
+1946770 Day 20-Sorry am late
+b6268dc Feat: Create my first Animation
+be27ab8 remove .obsidian from tracking
+c6cd101 add .gitignore
+6f73983 Moving to new laptop.
+987c5f6 Initial commit - Somewhere Calm - For Zoli
+(END)
+
+🌸 Zoli's Room:~$<cursor></cursor></terminal>
+
+</span>
 </div></div>
 
 
 <div log-branch="main" class="exception-day">
   <input type="checkbox" id="log-day23" class="toggle-input" style="display:none;">
   <label for="log-day23" class="log-trigger glowing-timeline">
-    <h3>📝 log Day 23 : So Close Yet So Far</h3>
+    <h3><guilt type="day-23" >📝 Log Day 23 : So Close Yet So Far</guilt></h3>
+
   </label>
   <div class="log-content">
   <span class="placeholder-text">
@@ -3154,7 +3211,7 @@ Done..I merged the two timelines..
 
 I created something..scary..look
 
-![alt text](image.png)
+![dull world](/Somewhere/assets/png/image.png)
 
 <t>01:00 PM</t>
 
@@ -3191,12 +3248,12 @@ Bruh..let me go
 <div log-branch="main" class="exception-day">
   <input type="checkbox" id="log-day35" class="toggle-input" style="display:none;">
   <label for="log-day35" class="log-trigger">
-    <h3>📝 Log Day 35 : Origins</h3>
+    <h3><guilt type="day-35" >📝 Log Day 35 : For me the 30th. and you the 5th.</guilt></h3>
   </label>
   <div class="log-content">
   <span class="placeholder-text">
 
-<h3>log Day 35 : 24/06/2026</h3> 
+### log Day 35 : 24/06/2026
 
 <t>2:45 AM</t>
 
@@ -3239,6 +3296,78 @@ I added..<memory>What existed before the room.</memory>
     <span block-effect="thought">This the cammand that export this markdown as an HTML page..</span>
 </p>
 
+Another thing.
+
+actualy now i think about it..
+
+You know what's strange?
+
+I kept calling this an alternative timeline.
+
+A parallel world.
+
+A different branch.
+
+But that's not what it is.
+
+all in my head..
+
+All the progress was only in my head..
+
+>For me the 35th.. and you the 5th
+
+A month gap..
+
+lol this like when you start a game with you friend..
+
+you play and after a night you login and discover that he has been grinding
+the whole night
+
+I kept calling this Day 35.
+
+But that's only true from where I'm standing.
+
+...
+
+Funny.
+
+I kept calling this Day 30.
+
+But that's only true from where I'm standing.
+
+...
+
+I wonder...
+
+what day is it for you?
+...
+
+I think...
+
+maybe...
+
+Day 5.
+
+...
+
+Strange.
+
+How can two people walk through the same story...
+
+and somehow count different days?
+
+...
+
+Maybe days don't move at the same speed for everyone.
+
+Or maybe...
+
+some people keep living inside them...
+
+long after someone else has already left.
+
+
+
 <t>9:30 PM</t>
 
 I woke up..i ruined my sleep again..
@@ -3261,11 +3390,41 @@ Hey zoli.
 ![origin](assets/png/origin.png)
 
 ```
-I was trying to generate the room but i dunno why AI put u in todller chair lol
+I was trying to generate the room but i dunno why AI put you in todller chair lol
 ```
 ```
 and yes .. finn..was there sitting on the shelf from the start
 ```
+
+Interaction Chain
+
+User clicks Omar:
+```
+Click Omar
+ ↓
+Staring Contest
+ ↓
+Omar Surrenders
+ ↓
+Workout Animation
+ ↓
+Flexing Animation
+ ↓
+Reset
+```
+
+Then at night:
+```
+Click Sleeping Omar
+ ↓
+Warning
+ ↓
+Angrier Warning
+ ↓
+Dream Sequence
+```
+
+Lol but with no visuals..
 
 </details>
 
@@ -3387,7 +3546,7 @@ I made another effect !! (Stole it from AI)
 
 15 Hour strait.
 
-![waka](waka-time.png)
+![waka](/Somewhere/assets/png/waka-time.png)
 
 <day>Omar-D-03</day><mirage>This is geting ridiculous</mirage><pop><shake>GUYS GUYS GUYS!!
 </shake><thought>Zoli Just Texted me back !!!
@@ -3406,12 +3565,14 @@ well..that was awkward..
 </div>
 
 
-<div log-branch="main">
+<div log-branch="main" class="exception-day">
   <input type="checkbox" id="log-day37" class="toggle-input" style="display:none;">
-  <label for="log-day37" class="log-trigger">
-    <h3>📝 Log Day 37 : The Council</h3>
+  <label for="log-day37" class="log-trigger glowing-timeline">
+    <!-- <h3>📝 Log Day 37 : The Council</h3> -->
+    <h3><guilt type="day-37" >📝 Log Day 37 : The Council</guilt></h3>
   </label>
   <div class="log-content">
+  <span class="placeholder-text">
 
 ### log Day 37 : 26/06/2026 
 <span class= "phoenix-shatter">
@@ -3528,13 +3689,152 @@ Fk you! am still alive you emo boy!
 
 <span class="day-tag">Omar-D-06</span>>_has been removed from the server.
 
+</span>
+
+<span class="real-text">
+
+<t>02:00 AM</t>
+
+Ok..we got a problem.
+
+You don't have a PC...now..80% of the experience is gone..
+
+I told you All the effects i built..were pure CSS..(low level)
+
+and..you..can't..interact with .. almost evrything..i think.....
+
+so..we reached a dead end...
+
+well not realy..
+
+I'll find another way...
+
+I always do.
+
+..
+
+Ah..actualy this is not.. a paralel world or something.
+
+this the real timeline.. 2 hours ago..we were talking..
+
+well.."talking" might be a generous word.
+
+my brain was still at .. the ..narrative everything like it was writing another log.
+
+I've been awake for almost 24 hours... my brain wasn't braining..
+
+... 
+
+yah am trying making excuses now..\
+Go easy on me.. will ya?
+
+hmmm... i dunno..
+
+i think am gonna rest maybe read some..novels..
+
+and i swear to you zoli.. i didn't left... i realy lost connection..
+
+i wonder if that was bad luck or maybe it was good luck..
+
+At least you got some sleep.
+
+..
+
+<t>05:20 AM</t>
+
+Well ..
+
+I didn't sleep..
+
+it's been a full day awake..but i feel great not tired at all!
+
+maybe becuse of the 3 cups of coffe i had 
+
+or the deadline is 4 days away
+
+or just the fact that..this project reached it's ending
+and am not ready to say goodby..
+
+after thinking no..
+
+actually am not ready..
+
+To say hi..
+
+<t>7:20 AM</t>
+
+Zoli i think i coocked with the fake ending in the Topics Section.
 
 
+<t>8:25 AM</t>
 
+6 Hrs & 1 Min
 
+hmm...
 
+zoli..
 
+this migh sound crazy but..
 
+i think i missed sleeping..
+
+an entire day...
+
+...
+
+..
+
+am not joking..
+
+weird..did i skip a day?
+
+<t>11:11 AM</t>
+
+Yet.. to fall asleep..
+
+i just hosted the game website on github
+
+i fixed a i could never fix before learning css
+
+lol i had to search how to center a div so now i understand..
+
+my vision kinda blurry...
+
+only left 4 days..
+
+i still have to polish the game interaction..(that what i was doing before coming here)
+
+and left to turn this README into an HTML..
+
+and host it on the web ..
+
+the only problems..is the experience..
+
+since evrything i built was in pure css..
+
+it won't .. work on phone..
+
+<t>12:00 PM</t>
+
+I finished..
+
+Evrything.
+
+Left only to commit an push and the cozy room is done.
+
+I'll do it right.
+
+Oh man am listening to that pian piece..
+
+a month..in between..a month just passed here in the blink of an eye.
+
+damn..what an epic journey..
+
+this is not even the last day and feeling sentimental..
+
+well..i'll be back in a moment.
+
+</span>
 
 
 
@@ -3578,7 +3878,8 @@ Fk you! am still alive you emo boy!
   <input type="checkbox" id="log-day40" class="toggle-input" style="display:none;">
   
   <label for="log-day40" class="log-trigger">
-    <h3>📝 Log Day 40: ...or should I say, I missed you.</h3>
+    <h3><guilt type="day-40" >📝 Log Day 40 : ...or should I say, I missed you.</guilt></h3>
+
   </label>
   
   <div class="log-content">
@@ -3610,7 +3911,7 @@ yes true there is always a NG+ and you can play again try new builds play style.
 
 but no matter what you think or try to convince your self..deep down..you know there is no..next time..the first gameplay..it's always the one that stick...
 
-well .. it's..the same for me now..good bye my zoli ~ ..or should i say ..i missed you zoli
+well .. it's..the same for me now..good bye my zoli ~ 
 
 now you finaly merged and got back 30 days of memories..
 
@@ -3628,7 +3929,7 @@ It's funny how it started with naming you just zoli then kiddo then cutie.
 
 Then somehow...**<u>Love</u>**
 
-well don't blame me i can't help my self when you are the one who call me Omery..
+well don't blame me i can't help my self when you are the one who call me <u>Omery..</u>
 
 am acting weird sorry i'll behave
 
@@ -3637,13 +3938,19 @@ I feel empty ....
 
 ..
 
-Or should i say lonely..
+maybe lonely..
 
 ..
 
 Between you and me..
 
-what's harder..to wait..not knowing she will be back..or..knowing she will be back but not knowing when?
+what's harder..
+
+to wait..not knowing she will be back..
+
+or..
+
+knowing she will be back but not knowing when?
 
 
 Knowing she will be back, but not knowing when.
@@ -3666,8 +3973,9 @@ Hope is still alive.
 
 Hope is a heavy.
 
-Exhausting , but it keeps you tethered to the surface.
-
+<pop>Exhausting , but it keeps you tethered to the surface.<thought>
+</thought>Lol Obvoisly i stole this line from AI 
+</pop>
 ..
 
 No.
@@ -3746,12 +4054,15 @@ your chaptre.
 Bed story night end..(give her a kiss on the forehead) sweet dreams
 ```
 
-i still have a lot to say..but i think better leave buried
-well..this is it
+i still have a lot to say..
 
-Good Byee..My Zoli..
+but i think better leave buried.
 
-see you..in another life (maybe)
+well..this is it.
+
+<corrupt data-text="Good Bye.." >Good Bye..My Zoli..</guilt>
+
+see you..in another life (maybe).
 
 
 
@@ -3805,7 +4116,7 @@ Why?..well i envy peaple.
 
 I told you feel lonliness the most when you are happy but have no one to share joy with..
 
-
+- I might delete this..or move it to Eid log? 
 
 ## 7. Topics
 
@@ -3825,24 +4136,72 @@ If you are intrested to know more [Check this](https://medium.com/journal-kita/t
 <h3>Gift</h3>
 </span>
 
-I wonder what the define the word Gift.. what make a Gift.. actually a Gift..
+I wonder what the define the word Gift..
+
+what make a Gift..
+
+actually a Gift..
 
 The thing that came? before or after? \
 spending time?\
+
 or ..the feeling..that someone..
+
 stopped for a moment in the midlle of the choas of his life..and thinked about..\
 that he cared and ..wanted to..give something..\
 I don't know .. 
 
 Some idiot said:
 ```
-"True maybe am not making this for you..but you are..a reason behind it isn't that a gift?..
-i like this line i'll go add it to the Gift part"
+"True maybe am not making this for you..but you are..a reason behind it isn't that a gift?"
 ```
 
-**Confession**:`That idiot was me`
-</div>
+I liked that line.
 
+So I kept it.
+
+**Confession**:`That idiot was me`
+
+>You told me you would love to read my writing...
+
+37 Day passed ..and am still..asking every AI i know..
+
+Is this a GIFT?.. Would she like it?
+
+..
+
+Maybe I'm asking the wrong people.
+
+Because I don't think an AI can answer that.
+
+And I don't think I can either.
+
+Only the person receiving it can.
+
+Only <u>You Zoli.</u>
+
+..
+
+I think I made Something .. 
+
+Something interesting to explore.
+
+Something that remembers.
+
+what do you think..
+
+Zoli..
+ 
+Is this a Gift?
+
+
+
+---
+
+
+
+
+</div>
 
 <div log-branch="alter">
   <input type="checkbox" id="Pulse Link" class="toggle-input" style="display:none;">
@@ -3950,19 +4309,33 @@ Time itself becomes part of the writing.
 
 ## 8. PulseLink Effects
 
-| Effect |Day Created | Description |
-|:---|:---:|---:|
-| Fading-Mirage | Day 18 | By pausing it on hover, you can "catch" the mirage before it fades away completely. |
-| Hiding system | Day 18 | It hide content lol |
-| Guilt-Trip    | Day 19 | Only visible when you’re still enough to look closer. |
-| Ghost-Trail   | Day 20 | Like sand trails in the desert It’s how a memory feels when it’s trying to find you again. |
+| Effect                | Day Created | Description                                                                                     |
+| :-------------------- | :---------: | ----------------------------------------------------------------------------------------------- |
+| Pulse-Text            |    Day 07   | Simulates a hesitant thought repeatedly returning to consciousness.                             |
+| Glowing-Soul          |    Day 07   | Gives important words emotional weight and presence.                                            |
+| Ghost-Word            |    Day 07   | Represents memories that remain visible but feel distant.                                       |
+| Melting-Ash           |    Day 07   | Used for ideas, memories, or thoughts that are fading away.                                     |
+| Confession            |    Day 07   | Formats intimate thoughts as direct emotional residue.                                          |
+| Phoenix-Shatter       |    Day 14   | Time marker effect representing fragmented moments and reconstruction.                          |
+| Fading-Mirage         |    Day 18   | A memory that disappears unless the reader pays attention.                                      |
+| Hiding System         |    Day 18   | Allows discoveries, alternate paths, and layered reading experiences.                           |
+| Guilt-Trip            |    Day 19   | Hidden text that reveals itself only through deliberate interaction.                            |
+| Ghost-Trail           |    Day 20   | Simulates a memory trying to return after being forgotten.                                      |
+| Veiled-Word           |    Day 20   | Conceals meaning until the reader actively seeks it.                                            |
+| Day-Log Toggle System |    Day 18   | Turns diary entries into discoverable narrative branches.                                       |
+| Staring Contest       |    Day 32   | First CSS-only interaction experiment; proof that the notebook could contain mini-experiences.  |
 
 </div>
 </div>
 
 
-<div log-branch="main">
-
+<div log-branch="alter">
+  <input type="checkbox" id="Brain Storm" class="toggle-input" style="display:none;">
+  
+  <label for="Brain Storm" class="log-trigger glowing-timeline">
+    <h3>Brain Storm</h3>
+  </label>
+  <div class="log-content">
 
 ## 9. Brain Storm
 
@@ -3972,14 +4345,18 @@ Time itself becomes part of the writing.
 > Core dump triggered because the developer typed too fast and erased everything using `sudo rm -rf`.
 
 
-http://googleusercontent.com/immersive_entry_chip/0
-
 ---
+<pop><span class="pulse-text">The borgandy color digits are a password.</span>
+<thought><ty>I don't know maybe some AI leftover</ty></thought>
+</pop>
 
-The borgandy color digits are a password.
+This Heartbeat or pulse-text is an artifact.
 
+am not removing this it's the first effect.
 
-#### Heartbeat
+i made with AI after knowing i can use CSS in markdown
+
+<span class="pulse-text">evrything started from this.</span>
 
 <style>
   .pulse-text {
@@ -3994,6 +4371,24 @@ The borgandy color digits are a password.
     100% { opacity: 0.4; }
   }
 </style>
+
+#### Heartbeat
+
+```CSS
+<style>
+  .pulse-text {
+    color: #800020;
+    font-weight: bold;
+    animation: heartbeat 2s infinite;
+  }
+
+  @keyframes heartbeat {
+    0% { opacity: 0.4; }
+    50% { opacity: 1; }
+    100% { opacity: 0.4; }
+  }
+</style>
+```
 
 This is a <span class="pulse-text">hesitant thought</span> that keeps fading in and out inside the system memory.
 
@@ -4036,7 +4431,7 @@ Memories are not solid, they just <span class="melting-ash">melt away like ash</
 Sometimes keeping it inside means we are <span class="phoenix-shatter">breaking from the inside</span>
 
 
-#### lat
+#### txt
 ```
 ⠀⠀⠀⠀⠀⣀⣤⠶⠟⠛⠻⠶⢦⣄⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⢠⣾⠋⠀⠀⠀⠀⠀⠀⠀⠈⠻⣦⡀⠀⠀⠀⠀⠀
@@ -4135,7 +4530,6 @@ Sometimes keeping it inside means we are <span class="phoenix-shatter">breaking 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠑⠦⠤⢄⣀⣀⣀⣀⣀⣀⡠⠤⠒⠋⠀⠀⠀⠀⠀⠀⠀⠀
 ```
 
-</div>
 
 <shake>lfdlfdslflds</shake>
 
@@ -4246,3 +4640,36 @@ Shouldn't you at least tell me why did you leave..
 
 <h3>
 <guilt type="day" >Abyss</guilt></h3>
+
+</div>
+
+
+<div log-branch="alter">
+  <input type="checkbox" id="What Remains" class="toggle-input" style="display:none;">
+  
+  <label for="What Remains" class="log-trigger glowing-timeline">
+    <h3>What Remains</h3>
+  </label>
+  <div class="log-content">
+
+
+
+
+
+## What Remains
+
+Some things were preserved.
+
+Some things were forgotten.
+
+Some memories became rooms.
+
+Some rooms became stories.
+
+And some stories became records.
+
+Maybe that's enough.
+
+Thank you for staying this long.
+
+</div></div>

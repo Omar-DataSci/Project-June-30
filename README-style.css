@@ -144,9 +144,16 @@ h1:hover , h2:hover , h3:hover {
     --reproach:"Shouldn't you at least tell me why did you leave..";
     --truth:"I was afraid leaving me one day not knowing why";
     --dream:"I think it's just Me...";
+    --day-37:"📝 Log Day 37 : Am I Awkward?";
+    --day-35:"📝 Log Day 35 : Origins";
     --day-31:"📝 Log Day 31 : It Smiled.";
-    --day-11:"📝 Log Day 11 : Maybe Not.";
+    --day-40:"📝 Log Day 40 : Timeline Branch Detected";
+    --day-23:"📝 Log Day 23 : So Far Yet So Close";
+    --day-21:"📝 Log Day 21 : Things Change When You Look Away";
     --day-17:"📝 Log Day 17 : No. it was a Bug.";
+    --day-11:"📝 Log Day 11 : Maybe Not.";
+    --day-13:"📝 Log Day 13 : A writer needs a reader";
+    --day-00:"📝 Log Day 00 : The Architect";
 }
 
 [data-callout="guilt-trip"],guilt{
@@ -161,7 +168,7 @@ h1:hover , h2:hover , h3:hover {
     content: var(--content);
     position: absolute;
     height: 30px;
-    min-width: 300px;
+    min-width: 1000px;
     left: 0;
     top: 0;
     background: var(--bg-color);
@@ -198,18 +205,41 @@ h1:hover , h2:hover , h3:hover {
     --content: var(--dream);
 }
 
-
 [type="day-31"]{
     --content: var(--day-31);
 }
 [type="day-11"]{
     --content: var(--day-11);
 }
-[type="day-31"]{
-    --content: var(--day-31);
+[type="day-35"]{
+    --content: var(--day-35);
+}
+
+[type="day-37"]{
+    --content: var(--day-37);
+}
+
+[type="day-29"]{
+    --content: var(--day-29);
 }
 [type="day-17"]{
     --content: var(--day-17);
+}[type="day-13"]{
+    --content: var(--day-13);
+}[type="day-12"]{
+    --content: var(--day-12);
+}[type="day-21"]{
+    --content: var(--day-21);
+}
+[type="day-23"]{
+    --content: var(--day-23);
+}
+
+[type="day-40"]{
+    --content: var(--day-40);
+}
+[type="day-00"]{
+    --content: var(--day-00);
 }
 
 /* ====================== phoenix-shatter ================= */

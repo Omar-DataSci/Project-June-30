@@ -157,8 +157,8 @@ body {
 
 /* الحاوية الرئيسية التي تحتوي على كل الطبقات */
 #room-container {
-    width: 900px !important;
-    height: 550px !important;
+    min-width: 100vw !important;
+    height: 100vh !important;
     position: relative;
     overflow: hidden;
     border: 4px solid #00000000; /* إطار أبيض يحدد مساحة عملك */
@@ -392,7 +392,6 @@ body {
     height: 9% !important;    /* ارتفاع هيكل السيرفر */
     
     background: rgba(210, 16, 16, 0.049) !important; /* لون أصفر شفاف للمعاينة */
-    border: 2px dashed #02010ecc !important;
     z-index: 5;
 }
 
