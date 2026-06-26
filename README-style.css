@@ -1,9 +1,12 @@
 :root {
   --primary-color: #800020;
   --secondary-color:  rgb(128, 0, 32);
+  --bourgandy-rgb: 128, 0, 32; /* Bourgandy */
+
   --text-color: #ffffff;
   --bg-color: #1e1e1e;
   --text-light: #f8f8f2;
+  --text-color: 255,255,255;
 
 
 
@@ -12,6 +15,7 @@
   --terminal-color: #f8f8f2d7;
   --terminal-select:#44475A;
 
+  --git-log:"c897b40 (HEAD -> main, origin/main, origin/HEAD) "
 }
 
 /* My first Animation.. */
@@ -23,13 +27,13 @@
 Gave the user control. By pausing it on hover, it allow the reader to "catch" the mirage before it fades away completely.
 
 */
-.mirage {
+.mirage ,mirage{
     opacity:  0.6;
     animation: fading 5s linear infinite alternate;
 }
 
 
-.mirage:hover {
+.mirage:hover,mirage:hover {
     cursor: pointer;
     animation-play-state: paused;
 
@@ -84,8 +88,6 @@ h1:hover , h2:hover , h3:hover {
 
 /* ===================== Ghost-Trail =====================*/
 
-:root { --text-color: 255,255,255; }
-
 .ghost-trail span {
     display: inline-block;
     color: rgba(var(--text-color), 0.3);
@@ -118,10 +120,6 @@ h1:hover , h2:hover , h3:hover {
 
 /* ======================= Guilt-Trip ======================== */
 
-:root{
-    --text-color: 255,255,255
-}
-
 [data-callout="ghost-trail"] span {
     display: inline-block;
     color: rgba(var(--text-color),0.3) ;
@@ -136,7 +134,7 @@ h1:hover , h2:hover , h3:hover {
 :root {
 
     --bourgandy-rgb: 128, 0, 32; /* Bourgandy */
-    --bg-color: #0d1117;
+    --bg-color: #121314;
     --text-color: #e7e4e4;
     --real-text-color: #ffb3c1;
 
@@ -145,23 +143,27 @@ h1:hover , h2:hover , h3:hover {
     --confession: "I kept writing in the dark  ...I was afraid losing you";
     --reproach:"Shouldn't you at least tell me why did you leave..";
     --truth:"I was afraid leaving me one day not knowing why";
-    --dream:"I think it's just Me..."
+    --dream:"I think it's just Me...";
+    --day-31:"📝 Log Day 31 : It Smiled.";
+    --day-11:"📝 Log Day 11 : Maybe Not.";
+    --day-17:"📝 Log Day 17 : No. it was a Bug.";
 }
 
-[data-callout="guilt-trip"]{
-    color: var(--text-color);
-    font-weight: bold;
+[data-callout="guilt-trip"],guilt{
+    color: #ffffff;
+    /* font-weight: bold; */
     display: inline-block;
     position: relative;
 }
 
 
-[data-callout="guilt-trip"]::after{
+[data-callout="guilt-trip"]::after,guilt::after{
     content: var(--content);
     position: absolute;
+    height: 30px;
+    min-width: 300px;
     left: 0;
     top: 0;
-    color: var(--real-text-color);
     background: var(--bg-color);
     white-space: nowrap;
     opacity: 0;
@@ -171,41 +173,55 @@ h1:hover , h2:hover , h3:hover {
 }
 
 
-[data-callout="guilt-trip"]:hover::after{
+[data-callout="guilt-trip"]:hover::after,guilt:hover::after{
     opacity: 1;
 
 }
 
 /* Search Engine */
 
-[data-meta="confession"]{
+[type="confession"]{
     --content: var(--confession);
 }
 
 
-[data-meta="reproach"]{
+[type="reproach"]{
     --content: var(--reproach);
 }
 
-[data-meta="truth"]{
+[type="truth"]{
     --content: var(--truth);
 }
 
 
-[data-meta="dream"]{
+[type="dream"]{
     --content: var(--dream);
 }
 
 
+[type="day-31"]{
+    --content: var(--day-31);
+}
+[type="day-11"]{
+    --content: var(--day-11);
+}
+[type="day-31"]{
+    --content: var(--day-31);
+}
+[type="day-17"]{
+    --content: var(--day-17);
+}
+
 /* ====================== phoenix-shatter ================= */
 
-.phoenix-shatter {
+.phoenix-shatter, t {
     display: inline-block;
     color: #c9d1d9 !important;
     font-weight: bold;
     /* حلقة حركة مستمرة مدتها 4 ثوانٍ تتناوب بسلاسة */
     animation: shatter-loop 4s ease-in-out infinite alternate;
 }
+
 
 @keyframes shatter-loop {
     0%, 40% {
@@ -249,13 +265,6 @@ h1:hover , h2:hover , h3:hover {
 
 /*  SH */
 
-u {
-    text-decoration: none;
-    color: #800020;
-    font-weight: bold;
-    
-    animation: heartbeat 2s infinite;
-  }
 
 u {
     text-decoration: none;
@@ -326,7 +335,7 @@ i{
 
 
 
-.day-tag {
+.day-tag ,day {
     background-color: #800020;
     color: #ffffff !important;
     padding: 2px 6px;
@@ -334,6 +343,8 @@ i{
     font-size: 0.85em;
     font-weight: bold;
     font-family: monospace;
+    overflow: hidden;
+    
   }
 
 
@@ -405,14 +416,7 @@ i{
   }
 
 
-
-    pre {
-    background-color: #201d1d9a !important; /* لون خلفية رمادي غامق (Atom Theme) */
-    border-radius: 6px;
-    padding: 12px;
-}
-   
-   pre {
+   pre {  /* ``` */
     background-color: rgba(128, 0, 32, 0.05) !important; 
     border-left: 4px solid #800020 !important;         
     color: #c9d1d9 !important;                          
@@ -422,15 +426,15 @@ i{
     margin: 1em 0;
 }
     pre code {
-    color: #CDD7E2 !important;
+    color: var(--text-color) !important;
+    font-family: var(--terminal-txt-font);
 }
 /* يستهدف فقط الفتحات الخلفية الفردية ويحولها إلى الكتلة الجميلة التي طلبتها */
 
 
 
-
-
-  blockquote {
+  blockquote /* > */ {
+    font-family: var(--terminal-txt-font);
     background-color: rgb(128, 0, 32)!important; /* لون الخلفية (هنا أزرق شفاف خفيف) */
     border-left: 4px solid #800020 !important;        /* لون الخط الجانبي العمودي */
     color: #e6b8c2 !important;                        /* لون النص داخل الاقتباس */
@@ -439,14 +443,14 @@ i{
   }
 
 
-p > code {
+p > code /* ` ` */{
     /* جعل العنصر سطرياً يتدفق مع الكلمات بشكل طبيعي */
     display: inline-block;
     
     /* تجريد الماركدوان من التنسيقات الرمادية الافتراضية */
     background: none !important;
     padding: 0 4px !important;
-    font-family: inherit !important;
+    font-family: var(--terminal-txt-font);
     font-weight: bold;
     
     /* كود الحبر السري العبقري الخاص بك */
@@ -454,13 +458,46 @@ p > code {
     text-shadow: 0 0 8px rgba(255, 255, 255, 0.25) !important; /* زدت الشفافية قليلاً ليكون الطيف مرئياً كسراب */
     transition: all 0.5s ease;
     cursor: pointer;
+    /* animation: codeGlow 4s ease-in-out infinite;  */
+
+}
+
+code /* - ` ` */{
+    /* جعل العنصر سطرياً يتدفق مع الكلمات بشكل طبيعي */
+    display: inline-block;
+    
+    /* تجريد الماركدوان من التنسيقات الرمادية الافتراضية */
+    background: none ;
+    padding: 0 4px !important;
+    font-family: var(--terminal-txt-font) !important;
+    /* font-weight: bold; */
+    
+    /* كود الحبر السري العبقري الخاص بك */
+    color: var(--terminal-color) !important;
+    transition: all 0.5s ease;
 }
 
 /* التأثير الساحر عند مرور الفأرة (Hover) */
-code:hover {
+p > code:hover {
     color: #ffffff !important;
     text-shadow: 0 0 6px #800020, 0 0 12px #800020 !important;
     transform: translateY(-1px); /* لمسة خفيفة جداً لإشعارها بالتفاعل */
+}
+
+    /* --- KEYFRAME DEFINITION --- */
+@keyframes codeGlow {
+    0% {
+        border-left-color: var(--primary-color);
+        box-shadow: 0 0 0px rgba(var(--bourgandy-rgb,0));
+    }
+    50% {
+        border-left-color: #ffffff; /* Shift accent wall to pure white */
+        box-shadow: 5px 0 15px rgba(var(--bourgandy-rgb,0.3)); /* Soft ambient aura */
+    }
+    100% {
+        border-left-color: var(--primary-color);
+        box-shadow: 0 0 0px rgba(var(--bourgandy-rgb,0));
+    }
 }
 
     del{
@@ -526,10 +563,14 @@ code:hover {
     }
 }
 
-.shaking-thought {
+.shaking-thought , shake {
+    font-family: var(--terminal-txt-font);
     display: inline-block;
-    color: #e6b8c2 !important;
-    animation: nervous-shake 0.3s infinite alternate;
+    animation: nervous-shake 0.5s infinite alternate;
+}
+
+.shaking-thought:hover , shake:hover {
+    animation-play-state: paused;
 }
 
 @keyframes nervous-shake {
@@ -591,25 +632,6 @@ code:hover {
 }
 
 
-/* الكلمة الافتراضية التي يراها الجميع */
-.guilt-trip {
-    color: #c9d1d9 !important;
-    font-weight: bold;
-    display: inline-block;
-}
-
-/* السحر الذي يحدث فقط عند تحديد النص بالفأرة */
-.guilt-trip::selection {
-    background: #800020 ; /* خلفية بورغاندي عند التحديد */
-    color: #ffffff ;
-    font-size: 0px; 
-}
-
-.guilt-trip::selection::after {
-    content: "I kept writing in the dark because I'm afraid to lose you ";
-    font-size: 16px;
-    color: #ffb3c1 ;
-}
 
 .glitch-text {
     display: inline-block;
@@ -625,7 +647,7 @@ code:hover {
 }
 
 
-.secret-ink {
+.secret-ink ,secret{
     color: transparent !important;
     text-shadow: 0 0 8px rgba(255, 255, 255, 0.15); /* يظهر كأنه طيف باهت جداً */
     transition: all 0.5s ease;
@@ -634,12 +656,12 @@ code:hover {
 }
 
 /* عندما تمر الفأرة فوقه، ينقشع الضباب ويتوهج بالبورغاندي */
-.secret-ink:hover {
+.secret-ink:hover,secret:hover {
     color: #ffffff !important;
     text-shadow: 0 0 6px #800020, 0 0 12px #800020;
 }
 
-.shattered-container {
+.shattered-container ,con{
     display: inline-block;
     position: relative;
     cursor: pointer;
@@ -651,13 +673,78 @@ code:hover {
     color: #c9d1d9 !important;
 }
 
+shatter{
+    display: inline-block;
+    transition: transform 0.4s ease, opacity 0.4s ease;
+    color: #c9d1d9 !important;
+    cursor: pointer;
+}
 /* عند تمرير الفأرة، ينفصل النص إلى شقين بفضل الوهم البصري */
-.shattered-container:hover .shattered-text {
+.shattered-container:hover .shattered-text,
+     shatter:hover{
     transform: skewX(-10deg) scaleY(0.9);
     text-shadow: 
         0 -3px 0 rgba(128, 0, 32, 0.6),  /* الشق العلوي البورغاندي */
         0 3px 0 rgba(230, 184, 194, 0.5); /* الشق السفلي الناعم */
 }
+
+memory {
+    color:#888;
+    opacity: 0.7;
+    filter: blur(7px);
+    letter-spacing: 2px;
+    transition: all 3s ease-in-out ; /* Smooth transit both ways */
+
+}
+
+
+memory:hover {
+    color:var(--terminal-color);
+
+    animation: memory-flicker 4s ease forwards;
+}
+
+@keyframes memory-flicker {
+
+    0% {
+        opacity: 0.5;
+        filter: blur(6px);
+
+    }
+
+    20% {
+        opacity: 0.8;
+        filter: blur(2px);
+        letter-spacing: 1.2px;
+    }
+
+    35% {
+        opacity: 0.6;
+        filter: blur(4px);
+        letter-spacing: 1.5px;
+
+    }
+
+    50% {
+        opacity: 0.6;
+        filter: blur(4px);
+        letter-spacing: normal;
+    }
+
+
+    60% {
+        opacity: 1;
+        filter: blur(1px);
+
+    }
+
+    100% {
+        opacity: 1;
+        filter: blur(0);
+        letter-spacing: normal;
+
+    }
+}   
 
 .melting-ash {
     display: inline-block;
@@ -798,6 +885,8 @@ code:hover {
   opacity: 1;
   filter: grayscale(0%) brightness(1);
   margin-top: 15px;
+  transition-delay: 7s;
+
 }
 
 [log-branch="alter"] .log-content {
@@ -823,7 +912,8 @@ code:hover {
 
 [log-branch="alter"] .log-trigger:hover {
   color: #ffffff;
-  text-shadow: 0 0 10px rgba(34, 31, 237, 0.5);
+  text-shadow: 0 0 10px rgba(237, 31, 31, 0.5);
+
 }
 
 
@@ -835,8 +925,7 @@ code:hover {
 }
 
 .exception-day .placeholder-text {
-  font-style: italic;
-  opacity: 0.7;
+  opacity: 1;
 }
 
 #what-if-toggle:checked ~ .exception-day .placeholder-text {
@@ -859,8 +948,9 @@ code:hover {
 /* ==================== GLOWING TIMELINE ==================== */
 /* This makes the alternate log glow when the branch is active */
 #what-if-toggle:checked ~ [log-branch="alter"] .glowing-timeline {
-  color: #ffffff !important;
+  color: #ffffff;
   animation: pulse-glow 2s infinite alternate;
+  
 }
 
 
@@ -868,16 +958,12 @@ code:hover {
 .what-if-trigger {
   cursor: pointer;
   color: #ffffff;
-  text-decoration: underline;
   font-weight: bold;
   display: inline-block;
   margin: 20px 0;
+  width: 150px;
   transition: all 0.3s ease;
-}
-
-.what-if-trigger:hover {
-  color: #e6b8c2;
-  text-shadow: 0 0 10px rgba(128, 0, 32, 0.5);
+  text-align: center;
 }
 
 /* ==================== GRAYSCALE EFFECT ==================== */
@@ -891,40 +977,44 @@ code:hover {
 
 /* ===================== Inner-Thought ======================= */
 
-[data-effect="pop-up"]{
+[data-effect="pop-up"],pop {
     position: relative;     /* Creates an anchor for the popup */
     cursor: pointer;
+    min-width: 100px;
 }
 
 
 /* 2. The thought — hidden by default */
 
-[block-effect="thought"] {
+[block-effect="thought"],thought  {
     display:block;
     font-family: Cascadia Mono;
     font-size: 13px;
     background-color: rgba(128, 0, 32, 0.25);
     color: #f8f8f2d7;
     position: absolute;
-    top: 20%;           /* Appear above the text */
-    left: 20%;
+    bottom: 100%;           /* Appear above the text */
+    left: 50%;
+
     padding: 8px 12px;
     border-radius: 6px;
     max-width:600px;
     max-height:300px;
-    overflow: hidden;
-    white-space: pre-wrap;
 
+    overflow: auto;
+    white-space: nowrap;
     /* Start hidden */
     opacity: 0;
     visibility: hidden;
     transition: opacity 0.3s, transform 0.3s;
     transform: translateX(-50%) translateY(5px);
+    z-index: 10; 
 }
 
 /* 3. Show the popup on hover */
 
-[data-effect="pop-up"]:hover [block-effect="thought"] {
+[data-effect="pop-up"]:hover [block-effect="thought"] ,
+    pop:hover thought {
     opacity: 1;
     visibility: visible;
     transform: translateX(-50%) translateY(0);
@@ -936,7 +1026,7 @@ code:hover {
 
 /* ===================== Git-Terminal ================== */
 
-[block-effect="terminal"] {
+[block-effect="terminal"] ,terminal{
 display:block;
 font-family: Cascadia Mono;
 font-size: 13px;
@@ -952,10 +1042,350 @@ white-space: pre-wrap;
 
 }
 
-[block-effect="terminal"]::selection {
+[block-effect="terminal"]::selection ,
+terminal::selection{
     color: #f8f8f2d7;
     background-color: #44475A;
     padding: 6px;
+}
 
+
+[block-effect="terminal"]::before,
+terminal::before {
+    content: "● ● ●   Somewhere-Calm.log";
+    display: block;
+    width: 0.;
+    margin-bottom: 12px;
+    color: rgba(255,255,255,0.45);
+    font-size: 11px;
+    border-bottom: 1px solid rgba(255,255,255,0.08);
+    padding-bottom: 8px;
+}
+
+
+cursor::before {
+    content: "▋";
+    animation: blink 1s infinite;
+}
+
+@keyframes blink {
+    50% {
+        opacity: 0;
+    }
+}
+
+prompt::before {
+    content: "🌸 Zoli's Room:~$";
+
+}
+
+log::before {
+    content: var(--git-log);
+}
+
+
+/* ============================================================ */
+
+/* ==================== Staring Contest ==================== */
+
+
+.staring-contest-box {
+    background-color: #141414;
+    border: 1px dashed #800020;
+    border-radius: 8px;
+    padding: 30px;
+    text-align: center;
+    position: relative;
+    cursor: cell;
+    overflow: hidden; /* مهم جداً لإخفاء النوافذ خارج الحدود */
+    margin: 25px 0;
+    transition: background-color 0.4s ease;
+}
+
+/* النوافذ السينمائية - تبدأ من 0% */
+.top-window, .bot-window {
+    position: absolute;
+    width: 100%;
+    height: 0%; /* تبدأ مغلقة */
+    background-color: #000000;
+    transition: height 0.8s cubic-bezier(0.4, 0, 0.2, 1);
+    z-index: 1;
+    pointer-events: none; /* عشان ما تغطي على المحتوى */
+}
+
+.top-window {
+    top: 0;
+    left: 0;
+}
+
+.bot-window {
+    bottom: 0;
+    left: 0;
+}
+
+.staring-contest-box:hover .top-window {
+    height: 30%;
+}
+
+.staring-contest-box:hover .bot-window {
+    height: 30%;
+}
+
+
+/* ضبط الرسائل */
+.contest-screen {
+    position: relative;
+    min-height: 220px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 2; /* فوق النوافذ */
+}
+
+.contest-state {
+    position: absolute;
+    width: 100%;
+    transition: opacity 0.3s ease, transform 0.3s ease;
+    font-family: 'Fira Code', monospace;
+}
+
+.staring-msg, .lose-msg {
+    opacity: 0;
+    pointer-events: none;
+    transform: translateY(10px);
+}
+
+.start-msg {
+    opacity: 1;
+    color: #ffffff;
+}
+
+/* تأثير التحديق */
+.staring-contest-box:hover {
+    background-color: #0c0c0c;
+    border-style: solid;
+    border-color: #a00030;
+    box-shadow: 0 0 30px rgba(128, 0, 32, 0.6);
+}
+
+.staring-contest-box:hover .start-msg {
+    opacity: 0;
+    transform: translateY(-10px);
+}
+
+.staring-contest-box:hover .staring-msg {
+    opacity: 1;
+    pointer-events: auto;
+    transform: translateY(0);
+    color: #ffffff;
+}
+
+/* العداد */
+.timer-simulation {
+    font-size: 0.8rem;
+    animation: blinkGlow 1.5s infinite alternate, msg-erasing 0.5s ease 6.5s forwards;
+}
+
+/* عند النقر */
+.staring-contest-box:active .staring-msg {
+    opacity: 0;
+    transform: translateY(-10px);
+}
+
+.staring-contest-box:active .lose-msg {
+    opacity: 1;
+    pointer-events: auto;
+    transform: translateY(0);
+    color: #c92727;
+}
+
+@keyframes blinkGlow {
+    from { opacity: 0.4; }
+    to { opacity: 1; }
+}
+
+@keyframes msg-erasing {
+    0% { opacity: 1; }
+    100% { opacity: 0; }
+}
+
+/* رسالة الفوز */
+.staring-contest-box::after {
+    content: "you are very stubborn, but... ok, I surrender to you again. You win! ";
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    font-family: 'Cascadia Mono', monospace;
+    transform: translateX(-50%);
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 1.2rem;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.5s ease;
+    z-index: 3;
+}
+
+.staring-contest-box:hover::after {
+    animation: winMessage 0.5s ease 7s forwards;
+}
+
+@keyframes winMessage {
+    0% {
+        opacity: 0;
+        transform: translateX(-50%) translateY(10px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateX(-50%) translateY(0);
+    }
+}
+
+/* =================================================================== */
+
+/* ================ Typewriter ============= */
+/* Base styling for the page */
+
+/* The Typewriter Container */
+.typewriter ,ty, tyy {
+  /* 1. CRITICAL: Use a monospace font! */
+  display:block;
+  /* position: absolute; */
+  font-family: 'Cascadia Mono','Courier New', Courier, monospace;
+  font-size: 13px;
+  color: #e6e8e8;
+  max-width:fit-content;
+  max-height:17px;
+  margin: 2px 0 2px ;
+  /* 2. Hide the text until the width expands */
+  overflow: hidden; 
+  white-space: nowrap; /* Prevents text from wrapping to the next line */
+  
+  /* 3. Create the blinking cursor using a right border */
+  border-right: 2.5px solid var(--terminal-color); 
+  
+  letter-spacing: .10em; /* Optional: adds a little breathing room */
+
+  /* 5. Apply the animations */
+  animation: 
+    typing 3.5s steps(30, end) infinite, /* Added 'forwards' here */
+    blink-caret .75s step-end infinite; /* Blinking cursor animation */
+}
+
+.typewriter:hover, ty:hover {
+  animation: blink-caret .75s step-end infinite; /* Only cursor keeps moving */
+  text-shadow: 0 0 6px var(--terminal-color);
+  cursor: pointer;
+}
+
+tyy {
+  animation-play-state: paused; /* Starts paused */
+}
+tyy:hover {
+  animation-play-state: running; /* Plays on hover */
+}
+
+/* The Typing Effect */
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+/* The Blinking Cursor Effect */
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: var(--terminal-color); }
+}
+
+pop thought ty {
+  animation-delay: 0.8s;
+}
+
+/* ======================================================================== */
+
+/* ===================== Memory Corruption (Pure CSS) ===================== */
+corrupt, [data-effect="corrupt"] {
+    position: relative;
+    display: inline-block;
+    color: #c9d1d9;
+    font-family: 'Cascadia Mono', monospace;
+    cursor: help; /* Shows a '?' cursor */
+    filter: blur(0.5px); /* Slight degradation by default */
+    transition: color 0.3s, text-shadow 0.3s, filter 0.3s;
+}
+
+/* The glitch layers (invisible copies of the text) */
+corrupt::before,
+corrupt::after,
+[data-effect="corrupt"]::before,
+[data-effect="corrupt"]::after {
+    content: attr(data-text);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: var(--bg-color); /* Matches background to hide parts */
+
+    overflow: hidden;
+    pointer-events: none;
+}
+
+/* Layer 1: Shifts left, burgundy shadow */
+corrupt::before,
+[data-effect="corrupt"]::before {
+    left: 2px;
+    text-shadow: -2px 0 #800020;
+    animation: corrupt-slice-1 2s infinite linear alternate-reverse;
+}
+
+/* Layer 2: Shifts right, soft pink shadow */
+corrupt::after,
+[data-effect="corrupt"]::after {
+    left: -2px;
+    text-shadow: 2px 0 #e6b8c2;
+    animation: corrupt-slice-2 2.5s infinite linear alternate-reverse;
+}
+
+/* The "Tearing" Animations */
+@keyframes corrupt-slice-1 {
+    0%   { clip-path: inset(20% 0 60% 0); transform: translateX(-2px); }
+    20%  { clip-path: inset(60% 0 10% 0); transform: translateX(2px); }
+    40%  { clip-path: inset(40% 0 40% 0); transform: translateX(-1px); }
+    60%  { clip-path: inset(80% 0 5% 0);  transform: translateX(1px); }
+    80%  { clip-path: inset(10% 0 70% 0); transform: translateX(-2px); }
+    100% { clip-path: inset(50% 0 30% 0); transform: translateX(2px); }
+}
+
+@keyframes corrupt-slice-2 {
+    0%   { clip-path: inset(10% 0 70% 0); transform: translateX(2px); }
+    20%  { clip-path: inset(30% 0 50% 0); transform: translateX(-2px); }
+    40%  { clip-path: inset(70% 0 10% 0); transform: translateX(1px); }
+    60%  { clip-path: inset(20% 0 60% 0); transform: translateX(-1px); }
+    80%  { clip-path: inset(50% 0 30% 0); transform: translateX(2px); }
+    100% { clip-path: inset(80% 0 5% 0);  transform: translateX(-2px); }
+}
+
+/* HOVER STATE: The room "remembers" and stabilizes */
+corrupt:hover, 
+[data-effect="corrupt"]:hover {
+    color: #ffffff !important;
+    text-shadow: 0 0 8px #800020, 0 0 15px rgba(128, 0, 32, 0.5);
+    filter: blur(0px);
+}
+
+/* Hide the glitch layers on hover */
+corrupt:hover::before,
+corrupt:hover::after,
+[data-effect="corrupt"]:hover::before,
+[data-effect="corrupt"]:hover::after {
+    display: none; 
+}
+
+cen{
+  display: flex;
+  justify-content: center; /* Centers horizontally */
+  align-items: center;
+  text-align: center;
 
 }

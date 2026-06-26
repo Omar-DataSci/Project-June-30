@@ -548,6 +548,27 @@ but Day 41 still think he's a legit Day..lol
 
 </details>
 
+<details>
+<summary><pop><day>Omar-D-36</day>
+<thought>What Do you think more elegent huh?</thought>
+</pop></summary>
+
+```
+Lol am up there~ like a ghost.
+```
+
+```
+Uh..am stuck i can't read! Can Someone push me a litle.
+```
+</details>
+
+<day>Omar-D-3</day><mirage>Here You Go My friend</mirage><pop><day>Omar-D-36</day>
+<thought>That's a lil bit too far..but Apreciate it gang.</thought>
+</pop>
+
+</details>
+
+
 </details>
 
 </div>
@@ -560,7 +581,7 @@ but Day 41 still think he's a legit Day..lol
   <input type="checkbox" id="log-day00" class="toggle-input" style="display:none;">
   
   <label for="log-day00" class="log-trigger glowing-timeline">
-    <h3>📝 Day 00: The Architect</h3>
+    <h3>📝 Log Day 00: The Architect</h3>
   </label>
 
   <div class="log-content">
@@ -626,12 +647,11 @@ Would you believe me ? I didn't plan this at all.
 ```
 
 
-<details>
-<summary>
-<span class="day-tag">For Credibility </span></summary>
 
-<span block-effect="terminal">
+<span class="day-tag">For Credibility </span>
 
+
+<terminal>
 File: Thoughts.md
 Size: 3135            Blocks: 4          IO Block: 65536  regular file
 Device: b89ae5e4h/3097159140d   Inode: 57139420272389837  Links: 1
@@ -640,12 +660,12 @@ Access: 2026-06-24 04:27:55.819590300 +0100
 Modify: 2026-06-24 04:23:12.655101900 +0100
 Change: 2026-06-24 04:23:12.655101900 +0100
 Birth: 2026-05-23 02:24:55.649136300 +0100
+<corrupt data-text="🌸 Omar's R oom:~$">🌸 Zoli's Room:~$</corrupt><cursor></cursor>
+</terminal>
 
 Birth:`When the file was actually created on the disk.`
 
-</span>
 
-</details>
 
 </p>
   </div>
@@ -657,7 +677,7 @@ Birth:`When the file was actually created on the disk.`
   <input type="checkbox" id="log-day01" class="toggle-input" style="display:none;">
   
   <label for="log-day01" class="log-trigger">
-    <h3>📝 Day 01: Excuse</h3>
+    <h3>📝 Log Day 01: Excuse</h3>
   </label>
   <div class="log-content">
 
@@ -841,7 +861,7 @@ Oh i just remembered something..i need to make a to do list for ..
   <input type="checkbox" id="log-day02" class="toggle-input" style="display:none;">
   
   <label for="log-day02" class="log-trigger">
-    <h3>📝 Day 02: Paralysis.</h3>
+    <h3>📝 Log Day 02: Paralysis.</h3>
   </label>
   
   <div class="log-content">
@@ -897,7 +917,7 @@ Well i think where my journey end.. i mean for today..i have to go to sleep.. it
   <input type="checkbox" id="log-day03" class="toggle-input" style="display:none;">
   
   <label for="log-day03" class="log-trigger">
-    <h3>📝 Day 03: Why One Equals Two?</h3>
+    <h3>📝 Log Day 03: Why One Equals Two?</h3>
   </label>
   
   <div class="log-content">
@@ -949,7 +969,7 @@ The big issue is how am i gonna convince u to download the vscode..
   <input type="checkbox" id="log-day04" class="toggle-input" style="display:none;">
   
   <label for="log-day04" class="log-trigger">
-    <h3>📝 Day 04: Invasion </h3>
+    <h3>📝 Log Day 04: Invasion </h3>
   </label>
   
   <div class="log-content">
@@ -997,7 +1017,7 @@ But i have..to wait..till June arrive.
   <input type="checkbox" id="log-day05" class="toggle-input" style="display:none;">
   
   <label for="log-day05" class="log-trigger">
-    <h3>📝 Day 05: I cheated on you..</h3>
+    <h3>📝 Log Day 05: I cheated on you..</h3>
   </label>
   
   <div class="log-content">
@@ -1019,7 +1039,7 @@ Well I also had the time..to..refactor Unsay project
   <input type="checkbox" id="log-day06" class="toggle-input" style="display:none;">
   
   <label for="log-day06" class="log-trigger">
-    <h3>📝 Day 06: A diary that remember.</h3>
+    <h3>📝 Log Day 06: A diary that remember.</h3>
   </label>
   
   <div class="log-content">
@@ -1266,7 +1286,7 @@ Probably dreaming about you
   <input type="checkbox" id="log-day07" class="toggle-input" style="display:none;">
   
   <label for="log-day07" class="log-trigger">
-    <h3>📝 Day 07: Eid..</h3>
+    <h3>📝 Log Day 07: Eid..</h3>
   </label>
   
   <div class="log-content">
@@ -1300,7 +1320,7 @@ i put evrything in Brain Storm Idea..
   <input type="checkbox" id="log-day08" class="toggle-input" style="display:none;">
   
   <label for="log-day08" class="log-trigger">
-    <h3>📝 Day 08: Why does the girl have to forget?.</h3>
+    <h3>📝 Log Day 08: Why does the girl have to forget?.</h3>
   </label>
   
   <div class="log-content">
@@ -1350,6 +1370,7 @@ yah ..i already thought about the ending.
 it may change who knows.
 
 the girl discover that the boy..kept his memories from all those loops..
+
 
 she always felt something ..he know stuff shouldn't know.
 at the end the boy..
@@ -1447,7 +1468,7 @@ Day 31
   <input type="checkbox" id="log-day09" class="toggle-input" style="display:none;">
   
   <label for="log-day09" class="log-trigger">
-    <h3>📝 Day 09: Heal me..</h3>
+    <h3>📝 Log Day 09: Heal me..</h3>
   </label>
   
   <div class="log-content">
@@ -1474,7 +1495,7 @@ nothing serious just like that....i think am gonna play some games.
   <input type="checkbox" id="log-day10" class="toggle-input" style="display:none;">
   
   <label for="log-day10" class="log-trigger">
-   <h3>📝 Day 10: ...</h3>
+   <h3>📝 Log Day 10: ...</h3>
   </label>
   
   <div class="log-content">
@@ -1491,7 +1512,8 @@ am sorry.
   <input type="checkbox" id="log-day11" class="toggle-input" style="display:none;">
   
   <label for="log-day11" class="log-trigger">
-    <h3>📝 Day 11: I figured it out.</h3>
+    <!-- <h3>📝 Day 11: I figured it out.</h3> -->
+    <h3><guilt type="day-11" >📝 Log Day 11: I figured it out.</guilt></h3>
   </label>
   
   <div class="log-content">
@@ -1578,7 +1600,7 @@ if am being.#### just tell me pls...
   <input type="checkbox" id="log-day12" class="toggle-input" style="display:none;">
   
   <label for="log-day12" class="log-trigger">
-    <h3>📝Day 12: A full 24 hours without you.</h3>
+    <h3>📝 Log Day 12: A full 24 hours without you.</h3>
   </label>
   
   <div class="log-content">
@@ -1734,7 +1756,7 @@ actualy even better i can make it like a shortcut..for existing one
   <input type="checkbox" id="log-day14" class="toggle-input" style="display:none;">
   
   <label for="log-day14" class="log-trigger">
-    <h3>📝 Day 14: Hello From The other side.</h3>
+    <h3>📝 Log Day 14: Hello From The other side.</h3>
   </label>
   
   <div class="log-content">
@@ -1809,7 +1831,7 @@ maybe in the future..i'll let u know
   <input type="checkbox" id="log-day15" class="toggle-input" style="display:none;">
   
   <label for="log-day15" class="log-trigger">
-    <h3>📝 Day 15: Nothing.</h3>
+    <h3>📝 Log Day 15: Nothing.</h3>
   </label>
   
   <div class="log-content">
@@ -1849,6 +1871,22 @@ Man watching this is So satisfying.
 ```
 ...................................................
 ```
+
+<day>Omar-D-03</day><mirage>Is this enough</mirage><pop><day>Omar-D-36</day>Yes..perfect<</pop>
+<thought>-Adjusting him self- Ehm..Dear Zoli..I Deleted that Hover Effect</thought>
+..
+
+<day>Omar-D-15</day>NO!! WHY !!!
+
+```
+Dw zoli..i'll..make a small block later for you..to try it your self
+```
+
+<day>Omar-D-15</day>Don't ignore me !!
+
+<day>Omar-D-15</day>I'll sue you!
+
+---
 
 Guess what i just found !!
 <details>
@@ -2008,7 +2046,9 @@ I guess see you tomorrow.
 <div log-branch="main">
   <input type="checkbox" id="log-day17" class="toggle-input" style="display:none;">
   <label for="log-day17" class="log-trigger">
-    <h3>📝 Log Day 17 : am i in a Loop?</h3>
+    <!-- <h3>📝 Log Day 17 : am i in a Loop?</h3> -->
+    <h3><guilt type="day-17" >📝 Log Day 17 : am i in a Loop?</guilt></h3>
+
   </label>
   <div class="log-content">
 
@@ -2046,9 +2086,9 @@ Absence..
 </div>
 </div>
 
-<div log-branch="main">
+<div log-branch="main"  class="exception-day">
   <input type="checkbox" id="log-day18" class="toggle-input" style="display:none;">
-  <label for="log-day18" class="log-trigger">
+  <label for="log-day18" class="log-trigger  glowing-timeline">
     <h3>📝 Log Day 18 : I missed you..</h3>
   </label>
   <div class="log-content">
@@ -2056,8 +2096,55 @@ Absence..
 
 ### log Day 18 : 07/06/2026 
 
-I missed you..
+I miss you..
 
+<span class="real-text">
+
+nothing serios here 
+it just the number 18 ..
+i liked to say something..
+
+Happy Birthday.
+
+just that.
+
+<day>Omar-D-3</day>soooo...technically speaking...
+
+
+```
+No.
+```
+
+<day>Omar-D-3</day>you are legal now and he—
+
+```
+NO.
+```
+
+<day>Omar-D-3</day>—wants to kiss—
+
+```
+⠀⠀⠀⠀⠀⣀⣤⠶⠟⠛⠻⠶⢦⣄⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⢠⣾⠋⠀⠀⠀⠀⠀⠀⠀⠈⠻⣦⡀⠀⠀⠀⠀⠀
+⠀⠀⣽⡿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣧⠀⠀⠀⠀⠀
+⠀⠐⣿⠁⠀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣇⠀⠀⠀⠀
+⠀⠀⣿⡴⡿⠛⢻⣷⣄⠀⣠⣴⣾⣷⣶⣤⠀⣿⠀⠀⠀⠀
+⠀⠀⢻⡗⣷⣤⣿⣿⣿⣶⣯⣀⣿⣿⢿⣿⣇⡿⠀⠀⠀⠀
+⣀⣤⣾⢿⣝⣿⣿⣯⣿⡟⢿⣿⣿⣿⢾⣳⣿⣁⢀⣀⡀⠀
+⠻⣤⡁⠀⠉⠿⣯⡙⠉⠀⢀⣉⣻⣿⡿⠋⠉⠙⠋⠩⣗⠀
+⢠⡟⠁⣀⠀⣠⡗⠙⠛⠛⠉⠉⠁⠀⣿⠷⡄⠀⠀⠀⣈⣷
+⠀⠙⠛⠙⢶⢿⡏⠀⠀⠀⠀⠀⠀⠀⢹⣴⣏⣠⣄⢸⡏⠁
+⠀⠀⠀⠀⠀⡞⠀⠀⣿⠛⠓⢲⣶⣶⠀⢹⡍⠁⠈⠋⠁⠀
+⠀⠀⠀⠀⠀⢷⣤⠾⠋⠀⠀⠀⠀⠻⣦⣤⡗⠀⠀⠀⠀⠀
+```
+
+ay aya stop stop!!
+time up!
+
+how did you even got here..
+
+
+</span>
 
 
 </div></div>
@@ -2067,7 +2154,6 @@ I missed you..
   <input type="checkbox" id="log-day19" class="toggle-input" style="display:none;">
   <label for="log-day19" class="log-trigger">
     <h3>📝 Log Day 19 : Nostalgia</h3>
-    </span>
   </label>
   <div class="log-content">
   <span class="placeholder-text">
@@ -2240,29 +2326,64 @@ Haaaa am glad i started this.
 
 </div></div>
 
-<div log-branch="main">
+<div log-branch="main" class="exception-day">
   <input type="checkbox" id="log-day21" class="toggle-input" style="display:none;">
-  <label for="log-day21" class="log-trigger">
-    <h3>📝 Log Day 21 : 10/06/2026</h3>
+  <label for="log-day21" class="log-trigger glowing-timeline">
+    <h3>📝 Log Day 21 : Don't Blink</h3>
   </label>
-  <div class="log-content">
-  <span class="placeholder-text">
-<h3>Log Day 21 : 10/06/2026<h3> 
+    <div class="log-content">
+      <span class="placeholder-text">
+        <h3>Log Day 21 : 10/06/2026</h3>
+      </span>
+        <span class="real-text">
+          
+`This was the first effect it tried to make`
+
+A staring contest game using pure CSS
+
+<div class="staring-contest-box">
+    <div class="top-window"></div>
+    <div class="bot-window"></div>
+    <div class="contest-screen">
+        <!-- الحالة الابتدائية -->
+        <span class="contest-state start-msg">
+            👀 Ready for a staring contest? <br>
+            <small>Move your cursor here and hold still. Don't blink.</small>
+        </span> 
+        <!-- أثناء التحديق -->
+        <span class="contest-state staring-msg">
+            ... 👁️👁️ ... <br>
+            <span class="timer-simulation">Staring in progress... Stay focused.</span>
+        </span>   
+        <!-- عند النقر -->
+        <span class="contest-state lose-msg">
+            Aha you looked away first!
+        </span>
+    </div>
+</div>
+
 </span>
 
-
+    
 
 </div></div>
 
 
 <div log-branch="main" class="exception-day">
   <input type="checkbox" id="log-day22" class="toggle-input" style="display:none;">
-  <label for="log-day22" class="log-trigger">
+  <label for="log-day22" class="log-trigger glowing-timeline">
     <h3>📝 Log Day 22 : 11/06/2026</h3>
   </label>
   <div class="log-content">
   <span class="placeholder-text">
-<h3>log Day 22 : 11/06/2026<h3> 
+<h3>log Day 22 : 11/06/2026</h3> 
+
+<terminal>
+<corrupt data-text="[System Message] ">[System Message]:This log file </corrupt><corrupt data-text="high-density contains">contains high-density </corrupt><corrupt data-text=" █████████ residue">emotional residue.</corrupt>
+<p></p>
+<corrupt data-text="🌸 Omar's R oom:~$">🌸 Zoli's Room:~$</corrupt><cursor></cursor>
+</terminal>
+
 </span>
 
 
@@ -2271,26 +2392,138 @@ Haaaa am glad i started this.
 
 <div log-branch="main" class="exception-day">
   <input type="checkbox" id="log-day23" class="toggle-input" style="display:none;">
-  <label for="log-day23" class="log-trigger">
-    <h3>📝 log Day 23 : 12/06/2026</h3>
+  <label for="log-day23" class="log-trigger glowing-timeline">
+    <h3>📝 log Day 23 : So Close Yet So Far</h3>
   </label>
   <div class="log-content">
   <span class="placeholder-text">
-<h3>log Day 23 : 12/06/2026<h3> 
+<h3>log Day 23 : 12/06/2026</h3> 
 </span>
+<span class="real-text">
 
+I used to think everyone lived the same way I did.
 
+You go to school.
+
+You talk to people.
+
+You sit together.
+
+You laugh sometimes.
+
+And eventually...
+
+you become friends.
+
+At least that's what I thought.
+
+Then, little by little, I started noticing things.
+
+People knew things about each other I didn't.
+
+They had stories I was never there for.
+
+Inside jokes I never heard.
+
+Plans that were made somewhere else.
+
+Phone numbers already exchanged.
+
+Entire conversations happening after the day ended.
+
+And me?
+
+I was standing right there.
+
+Close enough to see it.
+
+Too far to be part of it.
+
+It wasn't rejection.
+
+That would have been easier to understand.
+
+It was something stranger.
+
+Like discovering there was another layer to the world.
+
+A hidden room behind a wall everyone else knew how to open.
+
+And somehow I never got the key.
+
+For a long time I thought distance meant being alone.
+
+Now I think distance is something else.
+
+Distance is sitting next to people who don't know what is happening inside your head.
+
+Distance is having a thousand thoughts and nowhere to put them.
+
+Distance is realizing there was an entire world happening behind the curtain.
+
+And you were standing right beside it.
+
+The funny thing is...
+
+I think that's one of the reasons this room exists.
+
+Not because I wanted attention.
+
+Not because I wanted sympathy.
+
+I just wanted a place where there wasn't a curtain anymore.
+
+A place where someone could see exactly what I was thinking.
+
+Day by day.
+
+Mistake by mistake.
+
+Hope by hope.
+
+Maybe that's why I keep writing.
+
+Maybe every log is just another attempt to cross that distance.
+
+Still hoping that one day...
+
+someone won't just visit the room.
+
+They'll walk the road with me.
+
+</span>
 </div></div>
 
 
 <div log-branch="main" class="exception-day">
   <input type="checkbox" id="log-day24" class="toggle-input" style="display:none;">
-  <label for="log-day24" class="log-trigger">
-    <h3>📝 Log Day 24 : 13/06/2026</h3>
+  <label for="log-day24" class="log-trigger glowing-timeline">
+    <h3>📝 Log Day 24 : Pieces</h3>
   </label>
   <div class="log-content">
   <span class="placeholder-text">
-<h3>log Day 24 : 13/06/2026 <h3> 
+<h3>log Day 24 : 13/06/2026 </h3> 
+</span>
+<span class="real-text">
+
+am turning 24 this summer..
+
+the The older I get..... the more i feel am losing pieces of my self..
+losing that spark..of youth..of loving life..
+
+something slowly fades every year .. it's like..am losing my purity.. my excitement..
+
+i think for me..
+
+this gift was never only for you.
+
+it was for me too.
+
+a reminder that once..
+i still knew how to be excited about something.
+
+thanks past me.
+
 </span>
 
 
@@ -2299,7 +2532,7 @@ Haaaa am glad i started this.
 
 <div log-branch="main" >
   <input type="checkbox" id="log-day25" class="toggle-input" style="display:none;">
-  <label for="log-day25" class="log-trigger">
+  <label for="log-day25" class="log-trigger glowing-timeline">
     <h3>📝 Log Day 25 : Hope</h3>
   </label>
   <div class="log-content">
@@ -2312,10 +2545,15 @@ Haaaa am glad i started this.
 </span>
 
 
-yah..it's been a while...i was busy...
-andt tbh..i might stop..
-i startes to lose hope..
-you are not comming back..
+yah..it's been a while...i was busy...and tbh..i might stop..
+
+i startes to lose hope..you are not comming back..
+
+<corrupt data-text="Shouldn't" >Shouldn't you</corrupt>
+<corrupt data-text="least " >at least</corrupt>
+<corrupt data-text=" tell me why" > tell me why</corrupt>
+<corrupt data-text="█████████" >did you</corrupt>
+<corrupt data-text="leave.." >leave..</corrupt>
 
 peaple come and go..
 i underdstand.
@@ -2566,7 +2804,7 @@ byby..
 <div log-branch="main">
   <input type="checkbox" id="log-day31" class="toggle-input" style="display:none;">
   <label for="log-day31" class="log-trigger">
-    <h3>📝 Log Day 31 : Abyss</h3>
+  <h3><guilt type="day-31" >📝 Log Day 31 : Abyss.</guilt></h3>
   </label>
   <div class="log-content">
 
@@ -2654,7 +2892,7 @@ i want to talk .. but.. my eyes hurt ..
 well that make remeber a story..but am tired
 remind me to tell you about the....`blind man story`
 
-2:21 AM
+<t>2:21 AM</t>
 
 basicly am at day 33 but i'll keep my promise
 
@@ -2723,7 +2961,7 @@ and then evrything crumbles and you can't go back to it
 oh man..this gonna be so cool if i could pull it off
 
 
-05:10 AM 
+<t>05:10 AM</t>
 
 Done.
 i did it.
@@ -2741,7 +2979,7 @@ now the better question is..what to fill in those alternative timeline log..
 lol i'll go desprate.
 
 
-06:00 AM
+<t>06:00 AM</t>
 
 You won't beleive this .. but i think..while playing here..
 i accedentaly..built a framework...
@@ -2757,7 +2995,7 @@ i accedentaly..built a framework...
 
 ### log Day 34 : 23/06/2026 
 
-6:20 AM
+<t>6:20 AM</t>
 
 Gm..most beauutiful i've ever seen ~ 
 
@@ -2856,14 +3094,14 @@ Don't forget about the staring contest idea.
 And Give Day 2 The popup thought effect.
 ```
 
-9:30 AM
+<t>9:30 AM</t>
 
 Done!! 
 I created the Inner-Thought effect.
 now zoli ~
 some texts..gonna hold inner thoughts and secrets ~ 
 
-9:40 AM
+<t>9:40 AM</t>
 
 I was dumb..
 I just learnt that i can just use a custom HTML tag.
@@ -2876,7 +3114,7 @@ that mean
 bro..this is huge to me...
 i spent 34 Days doing it the dumb way!
 
-10:30 AM
+<t>10:30 AM</t>
 
 Hi..zulikha
 well i didn't realy left..
@@ -2909,16 +3147,16 @@ How? after i come back .. i'll tell you..
 
 The lore is gonna be insane.
 
-12:10 PM
+<t>12:10 PM</t>
 
 Am back zoli...
 Done..I merged the two timelines..
 
 I created something..scary..look
+
 ![alt text](image.png)
 
-
-01:00 PM
+<t>01:00 PM</t>
 
 Am getting a lil bit tired..
 The problems is..now i have to force my self to rest lol
@@ -2932,13 +3170,13 @@ Confession:`I enjoyed evry minute of this project.`
 
 .. 
 
-02:20 PM
+</t>02:20 PM</t>
 
  By..fr this time.
 
-06:15 PM
+<t>06:15 PM</t>
 
-<p data-effect="pop-up">Shit...i spent way too much time here.
+<p data-effect="pop-up"><u>Shit...i spent way too much time here.</u>
     <span block-effect="thought">Yah i didn't go..i kept..working on the staring contest effect</span>
 </p>
 
@@ -2950,17 +3188,17 @@ Bruh..let me go
 
 </div></div>
 
-<div log-branch="main">
+<div log-branch="main" class="exception-day">
   <input type="checkbox" id="log-day35" class="toggle-input" style="display:none;">
   <label for="log-day35" class="log-trigger">
     <h3>📝 Log Day 35 : Origins</h3>
   </label>
   <div class="log-content">
+  <span class="placeholder-text">
 
-### log Day 35 : 24/06/2026 
+<h3>log Day 35 : 24/06/2026</h3> 
 
-
-2:45 AM
+<t>2:45 AM</t>
 
 Hey zoli am back ~
 
@@ -2989,19 +3227,19 @@ Damn zoli effect hit again!
 
 Every day exists twice. An actual parallel version.
 
-3:35 AM
+<t>3:35 AM</t>
 
 Done.
 
-I added..<b>What existed before the room.</b>
+I added..<memory>What existed before the room.</memory>
 
-11:11 AM
+<t>11:11 AM</t>
 
 <p data-effect="pop-up"><b>pandoc --from=gfm README.md -o README.html</b>
     <span block-effect="thought">This the cammand that export this markdown as an HTML page..</span>
 </p>
 
-9:30 PM
+<t>9:30 PM</t>
 
 I woke up..i ruined my sleep again..
 Am tired..and hungry..
@@ -3011,8 +3249,53 @@ am questining my self if any of it.. worth it at all..
 i duno..maybe am just tired..
 well..am gonna eat..brb
 
+</span>
 
+<span class="real-text">
 
+Hey zoli.
+
+<details>
+<summary>Take a look </summary>
+
+![origin](assets/png/origin.png)
+
+```
+I was trying to generate the room but i dunno why AI put u in todller chair lol
+```
+```
+and yes .. finn..was there sitting on the shelf from the start
+```
+
+</details>
+
+This was the very first version of the room.
+
+The original idea.
+
+Back then I didn't really know what I was doing.
+
+To be fair... I'm still not entirely sure I do.
+
+But this was the beginning.
+
+Before the timelines.
+
+Before the branches.
+
+Before the hidden logs.
+
+Before all the weird little Omars started talking to each other.
+
+Just a room.
+
+Just an idea.
+
+So if you ever wonder where all of this started...
+
+It started here. https://omar-datasci.github.io/Room/
+
+</span>
 
 
 </div></div>
@@ -3020,13 +3303,107 @@ well..am gonna eat..brb
 <div log-branch="main">
   <input type="checkbox" id="log-day36" class="toggle-input" style="display:none;">
   <label for="log-day36" class="log-trigger">
-    <h3>📝 Log Day 36 : 25/06/2026</h3>
+    <h3>📝 Log Day 36 : I Have Too Much Power Now</h3>
   </label>
   <div class="log-content">
 
 ### log Day 36 : 25/06/2026 
+<t>
+4:00 AM   
+</t>
 
-</div></div>
+hi zoli.
+i just woke up
+
+- `<t></t>`
+
+let's make the time effect ez to use.
+
+done that was ez..
+
+you know what let's do more.
+
+<shatter>I discovered this effect Gemini made it in early days..
+</shatter>
+
+Hmmm cool effect i think it fits the concept of alternative branch
+like..reality it self is shattering
+
+<t>5:10 AM</t>
+
+lol..
+i wasted 30 min debuging .. and the problem? i forget to close the tag with / 
+
+<t>6:30 AM</t>
+
+<ty>
+I made typewriter effect am thinking in using it for the terminal
+</ty>
+
+i updated the CSS file evry effect i made before now is stackable..just like lego
+
+<pop><day>Omar-D-36</day><shake>AHAHAHA Now i can do something like this</shake>
+<thought><ty>I love you zoli this is so COOL!!</ty></thought>
+</pop>
+
+<t>11:30 AM</t>
+
+I think i'll stop here
+i already spent 8 hours today.
+
+<pop><shake>[SECRET FOUND]</shake>
+<thought>
+Nope.
+I just wanted to see if you were curious.</thought>
+</pop>
+
+<pop><day>Omar-D-36</day><shake>AHAHAHA Now i can do something like this</shake>
+<thought><ty>I love you zoli this is so COOL!!</ty></thought>
+</pop>
+
+The only down side is..sometimes i get stuck..
+Well instead of fixing the bug i can just call (Day 3) for help.
+
+<day>Omar-D-03</day><mirage>I've Go Your Back Bro.</mirage>
+<pop><day>Omar-D-36</day><shake>BRO!!</shake>
+<thought>See! ....-cry- i tryied fixing it but it's not working.</thought>
+</pop>
+
+<t>2:40 PM </t>
+
+lol if u just how i made this
+
+<terminal>
+<log></log>
+<prompt></prompt><cursor></cursor>
+</terminal>
+
+
+I made another effect !! (Stole it from AI)
+
+<corrupt data-text="The room is  us." >The room is forgetting us.</corrupt>
+
+<t>8:30 PM</t>
+
+15 Hour strait.
+
+![waka](waka-time.png)
+
+<day>Omar-D-03</day><mirage>This is geting ridiculous</mirage><pop><shake>GUYS GUYS GUYS!!
+</shake><thought>Zoli Just Texted me back !!!
+</thought>
+</pop>
+
+
+<t>09:06 PM</t>
+
+well..that was awkward..
+
+<day>Omar-D-03</day>Skill issue.
+
+
+</div>
+</div>
 
 
 <div log-branch="main">
@@ -3087,11 +3464,11 @@ Fk you! am still alive you emo boy!
 
 <span class="day-tag">Omar-D-32</span>Zoli is back guys she's just busy with something bad..and she miss me..
 
-<span class="day-tag">Literely-Evry-Day-exculding-D-6</span>ME?? Me?? Me?
+<span class="day-tag">Literely-Evry-Day-exculding-D-6</span><shake>ME?? Me?? Me?</shake>
 
 <span class="day-tag">Omar-D-06</span>Hey..why exculding me.
 
-<span class="day-tag">Omar-D-03</span>Can I say it?? pls pls?
+<span class="day-tag">Omar-D-03</span><shake>Can I say it?? pls pls?</shake>
 
 <span class="day-tag">Omar-D-32</span>sigh..Yah go ahead.
 
@@ -3125,7 +3502,7 @@ Fk you! am still alive you emo boy!
 
 <span class="day-tag">Omar-D-41</span>No No..Don't say his name Out loud..
 
-<span class="day-tag">Omar-D-06</span>Is he some bald guy without nose or something?
+<span class="day-tag">Omar-D-03</span>Is he some bald guy without nose or something?
 
 <span class="day-tag">Omar-D-41</span>The Legend Says You can't .. Bear his pressence
 
@@ -3169,7 +3546,7 @@ Fk you! am still alive you emo boy!
   <input type="checkbox" id="log-day38" class="toggle-input" style="display:none;">
   
   <label for="log-day38" class="log-trigger">
-    <h3>📝 Day 38: </h3>
+    <h3>📝 Log Day 38: </h3>
   </label>
   
   <div class="log-content">
@@ -3184,7 +3561,7 @@ Fk you! am still alive you emo boy!
   <input type="checkbox" id="log-day39" class="toggle-input" style="display:none;">
   
   <label for="log-day39" class="log-trigger">
-    <h3>📝 Day 39:</h3>
+    <h3>📝 Log Day 39:</h3>
   </label>
   
   <div class="log-content">
@@ -3201,7 +3578,7 @@ Fk you! am still alive you emo boy!
   <input type="checkbox" id="log-day40" class="toggle-input" style="display:none;">
   
   <label for="log-day40" class="log-trigger">
-    <h3>📝 Day 40: ...or should I say, I missed you.</h3>
+    <h3>📝 Log Day 40: ...or should I say, I missed you.</h3>
   </label>
   
   <div class="log-content">
@@ -3209,16 +3586,27 @@ Fk you! am still alive you emo boy!
 
 ### log Day 40 : 29/06/2026
 
-Hmm..that's it i think..end of today ..
+Hmm..that's it
+i think..end of today ..
+
 Might be the end of evrything..
-Ah remind me of the beauty of the begeinings..
+
+Ah remind me of the beauty of the beginnings..
+
 Now it came to an end..i don't want to finish it.
 
 This feel like when you a game for days..then you reach the..end..game boss..
 you step back.
 
 You don't want to end the game you stop and keep doing anything except ending the game..
-yes true there is always a NG+ and you can play again try new builds play style..
+
+Because you know what comes after.
+
+The credits.
+
+The ending.
+
+yes true there is always a NG+ and you can play again try new builds play style..make different choices.
 
 but no matter what you think or try to convince your self..deep down..you know there is no..next time..the first gameplay..it's always the one that stick...
 
@@ -3233,10 +3621,12 @@ i guess see you tommorow..in real life..this time.
 
 best month of my life ~ 
 you are not gonna be mad..hmm..
-i don't know anymore.
-it is what it is ~
 
-It's funny how it started with naming you just zoli to kiddo to cutie..then..**<u>Love</u>**
+i don't know anymore..it is what it is ~
+
+It's funny how it started with naming you just zoli then kiddo then cutie.
+
+Then somehow...**<u>Love</u>**
 
 well don't blame me i can't help my self when you are the one who call me Omery..
 
@@ -3258,19 +3648,31 @@ what's harder..to wait..not knowing she will be back..or..knowing she will be ba
 
 Knowing she will be back, but not knowing when.
 
-This tortures the mind. You cannot move forward, but you cannot go back. You are trapped in a state of suspended animation.
+This tortures the mind. 
 
+You cannot move forward, but you cannot go back. 
+
+You are trapped in a state of suspended animation.
 
 But..
 
 Not knowing if she will ever be back.
 
 You are forced to kill your own expectations just so you can survive the day.
-constantly scrolling back to the memories because the present is unbearable.
-But in this scenario, hope is still alive. Hope is a heavy, exhausting anchor, but it keeps you tethered to the surface.
 
+Constantly scrolling back to the memories because the present is unbearable.
+
+Hope is still alive. 
+
+Hope is a heavy.
+
+Exhausting , but it keeps you tethered to the surface.
 
 ..
+
+No.
+
+I've thought about it.
 
 Not knowing IF she will be back is harder.
 
@@ -3285,20 +3687,27 @@ is one of the most painful things..i had to do.
 It's your birthday party today..
 I don't know why you left..
 
+Goodbye, my Zoli. Or should I say..I missed you.
 
 ```
-ehm i need to clarify this..
+ehm ..i need to clarify this..
 in another time line..you never came back
 
 well it's all in my head but.. play along pls
 ```
-
+<cen>
+<h3>
+<shake>
+<corrupt data-text="You forget.">
   <input type="checkbox" id="what-if-toggle" style="display:none;">
-
   <!-- THE TRIGGER BUTT ON -->
   <label for="what-if-toggle" class="what-if-trigger">
-    What if..
+  What If.
   </label>
+</corrupt>
+</shake>
+</h3>
+</cen>
 
   </div>
 </div>
@@ -3308,7 +3717,7 @@ well it's all in my head but.. play along pls
   <input type="checkbox" id="log-day41" class="toggle-input" style="display:none;">
   
   <label for="log-day41" class="log-trigger glowing-timeline">
-    <h3>📝 Day 41: ..Good bye</h3>
+    <h3>📝 Log Day 41: ..Good bye</h3>
   </label>
   
   <div class="log-content">
@@ -3385,15 +3794,16 @@ Sorry i already showed you this line in discord ..
 <h3>Today is Eid</h3>
 </span>
 
-..I don't know it's... not any diffrent than ..any other..days.
+I don't know 
+
+for me it's  not any diffrent than ..any other..days.
 
 I know am supposed to be happy.
 but i realy can't fake am happy especialy on this aucasions..i don't like doing that.
 
-Why?..well i envy peaple 
+Why?..well i envy peaple.
 
 I told you feel lonliness the most when you are happy but have no one to share joy with..
-Because..
 
 
 
@@ -3409,6 +3819,7 @@ If you are intrested to know more [Check this](https://medium.com/journal-kita/t
 
 <span class="day-tag">Omar-D-26</span> *Congrats you win..i lost..*
 
+<day>Omar-D-36</day><shake>-SLAP HIM HARD-</shake> No dumbass she just busy.
 
 <span class= "phoenix-shatter">
 <h3>Gift</h3>
@@ -3725,3 +4136,113 @@ Sometimes keeping it inside means we are <span class="phoenix-shatter">breaking 
 ```
 
 </div>
+
+<shake>lfdlfdslflds</shake>
+
+<secret>gdgdg </secret>
+<shatter>Oh I discovered this effect Gemini made it in early days..
+</shatter>
+
+
+<pop><shake>lfdlfdslflds</shake>
+<thought>
+<ty>gfdgfdgdflgfdlg</ty>
+</thought>
+</pop>
+
+- `fdfdg`
+
+<pop>HMMMgfgdfg;df[;gd[;g]]
+<thought>
+<ty>gfdgfdgdflgfdlg</ty>
+</thought>
+</pop>
+l;llllll
+
+<blockquote><memory>
+<ty>gggggkdkgdkg dkgdkgdk gk fdkgdfk mskmfks m</ty></memory>
+</blockquote>
+
+`sam`
+<code><ty><p>
+lllllllllllllll
+</ty></p>
+ </code>
+
+
+
+- `fffff`
+
+
+
+
+<regret>
+    I almost sent it.
+</regret>
+
+<pop>
+<thought>
+    <ty>
+        maybe i should have...
+    </ty>
+</thought>
+</pop>
+
+<pop>
+<shake>
+    GUYS GUYS GUYS!!
+</shake>
+
+<thought>
+    <ty>
+        I HAVE AN IDEA!!
+    </ty>
+</thought>
+</pop>
+
+<pop><memory>Welcome back.</memory>
+<thought><ty>i kept your place warm.</ty></thought>
+</pop>
+
+
+<terminal>
+<corrupt data-text="[System Message] ">[System Message]:This log file </corrupt><corrupt data-text="high-density contains">contains high-density </corrupt><corrupt data-text=" █████████ residue">emotional residue.</corrupt>
+<p></p>
+<corrupt data-text="🌸 Omar's R oom:~$">🌸 Zoli's Room:~$</corrupt><cursor></cursor>
+</terminal>
+
+Shouldn't you at least tell me why did you leave..
+
+<corrupt data-text="The room is us." >The room is forgetting us.</corrupt>
+<corrupt data-text="I was here." >I was happy here..</corrupt>
+<corrupt data-text="I waited." >I moved on.</corrupt>
+<corrupt data-text="█████████" >I moved on.</corrupt>
+
+
+<corrupt data-text="Shouldn't" >Shouldn't you</corrupt>
+<corrupt data-text="least " >at least</corrupt>
+<corrupt data-text=" tell me why" > tell me why</corrupt>
+<corrupt data-text="█████████" >did you</corrupt>
+<corrupt data-text="leave.." >leave..</corrupt>
+
+
+<terminal>
+<corrupt data-text="🌸 Omar's R oom:~$">🌸 Zoli's Room:~$</corrupt><cursor></cursor>
+</terminal>
+
+<cen>
+<h3>
+<shake>
+<corrupt data-text="You forget.">
+  <input type="checkbox" id="what-if-toggle" style="display:none;">
+  <!-- THE TRIGGER BUTT ON -->
+  <label for="what-if-toggle" class="what-if-trigger">
+  What If.
+  </label>
+</corrupt>
+</shake>
+</h3>
+</cen>  
+
+<h3>
+<guilt type="day" >Abyss</guilt></h3>
