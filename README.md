@@ -4103,6 +4103,78 @@ I wrote that. Kinda cool, right?
 This isn't the room.
 
 
+```bash
+git log --oneline 
+43e6e25 (HEAD -> main, origin/main, origin/HEAD) Day 38 - I regret not committing more often
+```
+
+Only 3 Days left..
+
+I regret not committing more 
+
+I regret not saving more memories
+
+I realy..because..i just had this idea..
+
+What if at the end of each day..
+
+I sat with you and showed you every commit I made that day?
+
+That would've been... really cool.
+
+```
+Yes i can fake it..but..it's 
+But it'd be fake for me too.
+```
+```
+I wanted to read them.. in my Git history...but that's okay.
+```
+
+Or maybe...
+
+I could use that terminal I built.
+
+Customize it just for you.
+
+Show you a little bit of Git.
+
+........
+
+Or maybe not.
+
+<t>8:30</t>
+
+Coffe pause.
+
+<t>09:10</t>
+
+Back ~
+
+I used this great cheat code
+```bash
+pandoc --from=gfm README.md -o README.html
+```
+to turn this markdown to an HTML.
+
+and..as always..new issues to fix
+
+Tables need a style
+
+And maybe i create a new terminal..shortcut.
+
+Thankfully i had tables style from the days i learnt css..
+
+So it will be quick..
+
+Be back in a moment.
+
+I test the effects...
+
+Good.
+
+Tables styling is.. Done.
+
+
 
 </div></div>
 
