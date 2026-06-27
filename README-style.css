@@ -42,6 +42,7 @@ Gave the user control. By pausing it on hover, it allow the reader to "catch" th
 @keyframes fading {
     0% {
         letter-spacing: 0px;
+        opacity:  0.9;
         text-shadow: 0px 0px 8px #cfc4c4;
     }
     15% {
@@ -58,7 +59,7 @@ Gave the user control. By pausing it on hover, it allow the reader to "catch" th
     }
     100% {
         letter-spacing: 7px;
-        filter: blur(6px)
+        filter: blur(5px)
     }
 }
 
@@ -124,8 +125,7 @@ h1:hover , h2:hover , h3:hover {
     display: inline-block;
     color: rgba(var(--text-color),0.3) ;
     transform:skewX(18deg);
-    transition: color 3s ease-in-out , transform 0.9s
-    ease-out;
+    transition: color 3s ease-in-out , transform 0.9s ease-out;
 
 }
 
@@ -144,6 +144,7 @@ h1:hover , h2:hover , h3:hover {
     --reproach:"Shouldn't you at least tell me why did you leave..";
     --truth:"I was afraid leaving me one day not knowing why";
     --dream:"I think it's just Me...";
+    --day-38:"📝 Log Day 38 : What the room won't let you see.";
     --day-37:"📝 Log Day 37 : Not your friend anymore?";
     --day-35:"📝 Log Day 35 : Origins";
     --day-31:"📝 Log Day 31 : It Smiled.";
@@ -154,6 +155,7 @@ h1:hover , h2:hover , h3:hover {
     --day-11:"📝 Log Day 11 : Maybe Not.";
     --day-13:"📝 Log Day 13 : A writer needs a reader";
     --day-00:"📝 Log Day 00 : The Architect";
+
 }
 
 [data-callout="guilt-trip"],guilt{
@@ -205,6 +207,9 @@ h1:hover , h2:hover , h3:hover {
     --content: var(--dream);
 }
 
+[type="day-38"]{
+    --content: var(--day-38);
+}
 [type="day-31"]{
     --content: var(--day-31);
 }
@@ -383,29 +388,65 @@ i{
 
 
 
-/* --------------------------- */
+/* ======\CD player - Fixed\============================================================================== */
 
 
-/* <!-- 1. إعداد نمط الـ CSS المخصص للمشغل القرصي --> */
+container {
+    
+    position: relative;
+    display: grid   ;
+    max-width: 95vw ;
+    min-height: 150px ;
+    grid-template-columns: 1fr;
+    grid-template-areas:
+                        "a a b"
+                        "a a b"
+                        "a a b";
+    }
+
+
+
+.intro-container {
+    position: relative;
+    width: 100%;
+
+    height: fit-content;
+    display: flex;
+    justify-content: left; /* Centers horizontally */
+    align-items: center;  
+    left: 0%;
+}
+
+.intro {
+    width: 100%;
+    color: var(--terminal-color);
+    font-size: 13px;
+    font-family: var(--terminal-txt-font);
+    display:inline-block;    
+}
+
 
   /* حاوية المشغل لجعل العناصر فوق بعضها */
   .cd-player-container {
-    position: relative;
-    left: 40%;
-    width: 100px;
-    height: 100px;
-    margin: 10px auto;
+    position: absolute;
+    /* left: 40%; */
+    width: 150px;
+    height: 150px;
     display: flex;
     align-items: center;
     justify-content: center;
+    right: 0px;
+    top: 30%;
+
   }
 
   /* تصميم القرص المدمج باستخدام الـ CSS */
   .retro-cd {
-    width: 100px;
-    height: 100px;
+    position: absolute;
+    width: 100%;
+    height: 100%;
     border-radius: 100%;
-    background: radial-gradient(circle, #222 20%, #800020 21%, #800020 40%, #111 41%, #222 70%);
+    background: radial-gradient(circle, #141414 20%, #800020 21%, #800020 40%, #111 41%, #141414 70%);
     border: 3px solid #e6b8c2;
     box-shadow: 0 0 10px rgba(128, 0, 32, 0.5);
     display: flex;
@@ -420,11 +461,12 @@ i{
   /* الثقب الصغير في منتصف الـ CD */
   .retro-cd::after {
     content: "";
-    width: 16px;
-    height: 16px;
-    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
     background-color: #0d1117; /* لون خلفية ثيم جيتهاب المظلم */
     border: 2px solid #e6b8c2;
+
   }
 
   /* حركة دوران القرص المستمرة */
@@ -442,9 +484,11 @@ i{
     height: 120px;
     opacity: 0; /* شبه مخفي تماماً لكنه قابل للنقر */
     z-index: 3;
-    cursor: pointer;
+    cursor: help;
   }
 
+
+/* ======================================================================================= */
 
    pre {  /* ``` */
     background-color: rgba(128, 0, 32, 0.05) !important; 
@@ -1009,14 +1053,14 @@ memory:hover {
 
 [data-effect="pop-up"],pop {
     position: relative;     /* Creates an anchor for the popup */
-    cursor: pointer;
-    min-width: 100px;
+    cursor: help;
+    min-width: fit-content;
 }
 
 
 /* 2. The thought — hidden by default */
 
-[block-effect="thought"],thought  {
+[block-effect="thought"],bug-thought  {
     display:block;
     font-family: Cascadia Mono;
     font-size: 13px;
@@ -1024,7 +1068,7 @@ memory:hover {
     color: #f8f8f2d7;
     position: absolute;
     bottom: 100%;           /* Appear above the text */
-    left: 50%;
+    left: 20%;
 
     padding: 8px 12px;
     border-radius: 6px;
@@ -1041,10 +1085,43 @@ memory:hover {
     z-index: 10; 
 }
 
+/* ======================= Bug Fixed =========================== */
+
+[block-effect="thought"],thought  {
+    display:flex;
+    justify-content: left; /* Centers horizontally */
+    align-items: center;    /* Centers vertically */
+    height: 100vh;   ;
+    font-family: Cascadia Mono;
+    font-size: 13px;
+    background-color: rgba(128, 0, 32, 0.25);
+    color: #f8f8f2d7;
+    position: absolute;
+    bottom: 100%;           /* Appear above the text */
+    left: 200px;
+    /* right: 0; */
+
+    padding: 8px 12px;
+    border-radius: 6px;
+    min-width:fit-content;
+    max-height:fit-content;
+    min-height: 20px;
+
+    overflow: auto;
+    white-space: nowrap;
+    /* Start hidden */
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s, transform 0.3s;
+    transform: translateX(-50%) translateY(5px);
+    z-index: 10; 
+}
+
+
 /* 3. Show the popup on hover */
 
 [data-effect="pop-up"]:hover [block-effect="thought"] ,
-    pop:hover thought {
+    pop:hover thought ,pop:hover bug-thought{
     opacity: 1;
     visibility: visible;
     transform: translateX(-50%) translateY(0);
@@ -1328,7 +1405,7 @@ tyy:hover {
 }
 
 pop thought ty {
-  animation-delay: 0.8s;
+  animation-delay: 1s;
 }
 
 /* ======================================================================== */
@@ -1419,3 +1496,4 @@ cen{
   text-align: center;
 
 }
+

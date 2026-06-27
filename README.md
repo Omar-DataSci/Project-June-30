@@ -1,27 +1,35 @@
 <link rel="stylesheet" href="README-style.css">
+<link rel="stylesheet" href="phone-style.css" media="screen and (max-width: 1024px)">
 
-# Project June 30: Somewhere Safe 🌸
-<!-- 2. هيكل المشغل التفاعلي البديل للشريط الأبيض -->
-
+<container>
 <div class="cd-player-container" title="Click to Play / Pause Music">
   <!-- القرص البصري الذي يراه المستخدم ويدور -->
   <div class="retro-cd"></div>
-  
   <!-- مشغل الصوت الفعلي المخفي بالخلف -->
   <audio class="hidden-audio-trigger" controls loop>
     <source src="assets/audio/Yann Tiersen - Comptine d'un autre été.mp3" type="audio/mpeg">
   </audio>
 </div>
+<div class="intro-container ">
+  <div class="intro">
+
+# Project June 30: Somewhere Safe 🌸
 
 A small interactive retro room.
 
 Built as a birthday gift.
+
 Built as a diary.
+
 Built as a place that remembers.
 
 This project is trying to say:
 
 >“This room was built as a safe place for someone important🤍.”
+
+</div></div>
+
+</container>
 
 <input type="checkbox" id="what-if-toggle" style="display:none;">
 
@@ -577,7 +585,7 @@ but Day 41 still think he's a legit Day..lol
 
 <details>
 <summary><pop><day>Omar-D-36</day>
-<thought>What Do you think more elegent huh?</thought>
+<bug-thought>What Do you think more elegent huh?</bug-thought>
 </pop></summary>
 
 ```
@@ -590,7 +598,7 @@ Uh..am stuck i can't read! Can Someone push me a litle.
 </details>
 
 <day>Omar-D-3</day><mirage>Here You Go My friend</mirage><pop><day>Omar-D-36</day>
-<thought>That's a lil bit too far..but Apreciate it gang.</thought>
+<bug-thought>That's a lil bit too far..but Apreciate it gang.</bug-thought>
 </pop>
 
 </details>
@@ -1903,7 +1911,7 @@ Man watching this is So satisfying.
 ```
 
 <day>Omar-D-03</day><mirage>Is this enough</mirage><pop><day>Omar-D-36</day>Yes..perfect<</pop>
-<thought>-Adjusting him self- Ehm..Dear Zoli..I Deleted that Hover Effect</thought>
+<bug-thought>-Adjusting him self- Ehm..Dear Zoli..I Deleted that Hover Effect</bug-thought>
 ..
 
 <day>Omar-D-15</day>NO!! WHY !!!
@@ -2187,7 +2195,8 @@ how did you even got here..
   </label>
   <div class="log-content">
   <span class="placeholder-text">
-<h3>log Day 19 : 08/06/2026<h3> 
+
+### log Day 19 : 08/06/2026
 </span>
 </div></div>
 
@@ -2364,9 +2373,11 @@ Haaaa am glad i started this.
   </label>
     <div class="log-content">
       <span class="placeholder-text">
-        <h3>Log Day 21 : 10/06/2026</h3>
-      </span>
-        <span class="real-text">
+
+### Log Day 21 : 10/06/2026
+
+</span>
+<span class="real-text">
           
 `This was the first effect it tried to make`
 
@@ -2454,7 +2465,8 @@ c6cd101 add .gitignore
   </label>
   <div class="log-content">
   <span class="placeholder-text">
-<h3>log Day 23 : 12/06/2026</h3> 
+
+### log Day 23 : 12/06/2026
 </span>
 <span class="real-text">
 
@@ -2559,7 +2571,8 @@ They'll walk the road with me.
   </label>
   <div class="log-content">
   <span class="placeholder-text">
-<h3>log Day 24 : 13/06/2026 </h3> 
+
+### log Day 24 : 13/06/2026 
 </span>
 <span class="real-text">
 
@@ -3502,7 +3515,7 @@ I made typewriter effect am thinking in using it for the terminal
 i updated the CSS file evry effect i made before now is stackable..just like lego
 
 <pop><day>Omar-D-36</day><shake>AHAHAHA Now i can do something like this</shake>
-<thought><ty>I love you zoli this is so COOL!!</ty></thought>
+<bug-thought><ty>I love you zoli this is so COOL!!</ty></bug-thought>
 </pop>
 
 <t>11:30 AM</t>
@@ -3511,13 +3524,13 @@ I think i'll stop here
 i already spent 8 hours today.
 
 <pop><shake>[SECRET FOUND]</shake>
-<thought>
+<bug-thought>
 Nope.
-I just wanted to see if you were curious.</thought>
+I just wanted to see if you were curious.</bug-thought>
 </pop>
 
 <pop><day>Omar-D-36</day><shake>AHAHAHA Now i can do something like this</shake>
-<thought><ty>I love you zoli this is so COOL!!</ty></thought>
+<bug-thought><ty>I love you zoli this is so COOL!!</ty></bug-thought>
 </pop>
 
 The only down side is..sometimes i get stuck..
@@ -3525,7 +3538,7 @@ Well instead of fixing the bug i can just call (Day 3) for help.
 
 <day>Omar-D-03</day><mirage>I've Go Your Back Bro.</mirage>
 <pop><day>Omar-D-36</day><shake>BRO!!</shake>
-<thought>See! ....-cry- i tryied fixing it but it's not working.</thought>
+<bug-thought>See! ....-cry- i tryied fixing it but it's not working.</bug-thought>
 </pop>
 
 <t>2:40 PM </t>
@@ -3549,8 +3562,8 @@ I made another effect !! (Stole it from AI)
 ![waka](/Somewhere/assets/png/waka-time.png)
 
 <day>Omar-D-03</day><mirage>This is geting ridiculous</mirage><pop><shake>GUYS GUYS GUYS!!
-</shake><thought>Zoli Just Texted me back !!!
-</thought>
+</shake><bug-thought>Zoli Just Texted me back !!!
+</bug-thought>
 </pop>
 
 
@@ -3688,6 +3701,88 @@ Fk you! am still alive you emo boy!
 <span class="day-tag">Omar-D-06</span>think he thanos? one snap.. half population despair?
 
 <span class="day-tag">Omar-D-06</span>>_has been removed from the server.
+
+<day>Omar-D-37</day>Emergency meeting.
+
+<day>Omar-D-</day>What's going on?
+
+<day>Omar-D-26</day>Zoli is back?
+
+<day>Omar-D-15</day>Oh man... can I go back to sleep?
+
+<day>Omar-D-</day>I asked her..She can't get a PC.
+
+<day>Omar-D-19</day>Wait... I thought she had one.
+
+<day>Omar-D-5</day>And the solution?
+
+<day>Omar-D-14</day>At minimum... she needs a mouse.
+
+<day>Omar-D-37</day>I think...
+
+I'm lost this time.
+
+<day>Omar-D-32</day>Come on.
+
+You always find a fix.
+
+<day>Omar-D-40</day>The only real fix...
+
+is rewriting the entire hover system.
+
+<day>Omar-D-18</day>And even then...
+
+80% of the experience is gone.
+
+<day>Omar-D-41</day>You mean...
+
+she can't access the alternate timeline?
+
+<day>Omar-D-03</day>And she can't see...
+
+the excitement?
+
+The thoughts?
+
+The late-night confessions?
+
+<day></day>...
+
+<day>Omar-D-39</day>What if I add JavaScript?
+
+<day>Omar-D-40</day>Won't change much.
+
+<day>Omar-D-37</day>What if I build...
+
+a virtual mouse?
+
+<day>Omar-D-40</day>For a laptop?
+
+<day>Omar-D-37</day>Yes.
+
+<day>Omar-D-40</day>That's even worse.
+
+<day>Omar-D-32</day>So what do we do?
+
+<day>Omar-D-15</day>We rest.
+
+<day>Omar-D-03</day>Wait...Who's hosting the room?
+
+<day>Omar-D-37</day>I already did.
+
+<day></day>...
+
+<day>Omar-D-03</day>Oh..So it's over?
+
+<day>Omar-D-40</day>No..Now people can visit.
+
+<day></day>...
+
+<day>Omar-D-15</day>That's somehow worse.
+
+
+
+
 
 </span>
 
@@ -3906,12 +4001,108 @@ I still built it for you.
   <input type="checkbox" id="log-day38" class="toggle-input" style="display:none;">
   
   <label for="log-day38" class="log-trigger">
-    <h3>📝 Log Day 38: </h3>
+    <h3><guilt type="day-38" >📝 Log Day 38: What you choose to see.</guilt></h3>
   </label>
   
   <div class="log-content">
 
 ### log Day 38 : 27/06/2026 
+
+<t>12:10 AM</t>
+
+I fixed the bug in the the thought buble before
+
+<day>Omar-D-03</day><mirage>So..am not needed anymore..</mirage>
+
+<pop><day>Omar-D-38</day><shake>No..Never.</shake>
+<thought>You were always a part of this.</thought>
+</pop>
+
+I think it's time to face that CD spining on top.
+
+Let's make it better.
+
+
+<t>2:30 AM</t>
+
+Did i just spent..two hours..fixing a cd you won't touch??..
+
+bruh..
+
+lol.
+
+![alt text](image.png)
+
+ah.
+
+I just forget to close div lol
+
+The whole world broke.
+
+Let's add it to the lore.
+
+..
+
+Nah just kidding..
+
+Or maybe not.
+
+<t>05:00 AM</t>
+
+You left me no choice.
+
+I'll build phone version..
+
+The only way I could do it was by changing most of the hover effects into click interactions.
+
+I don't have a phone i don't know how to test it.
+
+At first, I thought I'd convert everything.
+
+Then i changed my mind.
+
+Some effect i made them to adapt.
+
+You can't.. stop it 
+
+Not by clicking.
+
+Cause it will lose it purpuse..
+
+Some i left them like they are.
+
+Not that i can't.
+
+I.. choose not to.
+
+Some i edited  my self.
+
+When you try them..
+
+They will freeze..break..malfunction...
+
+I think this way it serve more it purpuse.
+
+You never destined .. to explore it this way.
+
+Or maybe this how the room tell you.
+
+>You are walking through it the wrong way.
+
+So yah i'll add this to the lore.
+
+You don't choose how you see the room.. 
+
+The room chooses.. how to show you, what you can see.
+
+```
+I wrote that. Kinda cool, right?
+```
+
+
+This isn't the room.
+
+
 
 </div></div>
 
@@ -4033,8 +4224,8 @@ Hope is still alive.
 
 Hope is a heavy.
 
-<pop>Exhausting , but it keeps you tethered to the surface.<thought>
-</thought>Lol Obvoisly i stole this line from AI 
+<pop>Exhausting , but it keeps you tethered to the surface.<bug-thought>
+</bug-thought>Lol Obvoisly i stole this line from AI 
 </pop>
 ..
 
@@ -4202,13 +4393,14 @@ what make a Gift..
 
 actually a Gift..
 
-The thing that came? before or after? \
-spending time?\
+The thing that came? before or after? spending time?
 
 or ..the feeling..that someone..
 
-stopped for a moment in the midlle of the choas of his life..and thinked about..\
-that he cared and ..wanted to..give something..\
+stopped for a moment in the midlle of the choas of his life..and thinked about..
+
+that he cared and ..wanted to..give something..
+
 I don't know .. 
 
 Some idiot said:
@@ -4407,7 +4599,7 @@ Time itself becomes part of the writing.
 
 ---
 <pop><span class="pulse-text">The borgandy color digits are a password.</span>
-<thought><ty>I don't know maybe some AI leftover</ty></thought>
+<bug-thought><ty>I don't know maybe some AI leftover</ty></bug-thought>
 </pop>
 
 This Heartbeat or pulse-text is an artifact.
@@ -4599,17 +4791,17 @@ Sometimes keeping it inside means we are <span class="phoenix-shatter">breaking 
 
 
 <pop><shake>lfdlfdslflds</shake>
-<thought>
+<bug-thought>
 <ty>gfdgfdgdflgfdlg</ty>
-</thought>
+</bug-thought>
 </pop>
 
 - `fdfdg`
 
 <pop>HMMMgfgdfg;df[;gd[;g]]
-<thought>
+<bug-thought>
 <ty>gfdgfdgdflgfdlg</ty>
-</thought>
+</bug-thought>
 </pop>
 l;llllll
 
@@ -4635,11 +4827,11 @@ lllllllllllllll
 </regret>
 
 <pop>
-<thought>
+<bug-thought>
     <ty>
         maybe i should have...
     </ty>
-</thought>
+</bug-thought>
 </pop>
 
 <pop>
@@ -4647,15 +4839,15 @@ lllllllllllllll
     GUYS GUYS GUYS!!
 </shake>
 
-<thought>
+<bug-thought>
     <ty>
         I HAVE AN IDEA!!
     </ty>
-</thought>
+</bug-thought>
 </pop>
 
 <pop><memory>Welcome back.</memory>
-<thought><ty>i kept your place warm.</ty></thought>
+<bug-thought><ty>i kept your place warm.</ty></bug-thought>
 </pop>
 
 

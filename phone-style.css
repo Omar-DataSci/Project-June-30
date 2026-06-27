@@ -1,0 +1,242 @@
+/* ==========================================
+Mobile Branch Experience
+========================================== */
+
+@media (max-width: 768px) {
+
+  /* Remove hover dependence */
+  [log-branch="main"] .log-trigger:hover,
+  [log-branch="alter"] .log-trigger:hover {
+    text-shadow: none;
+  }
+
+  /* Glow while pressed */
+  [log-branch="main"] .log-trigger:active,
+  [log-branch="alter"] .log-trigger:active {
+    text-shadow: 0 0 10px rgba(237,31,31,.5);
+  }
+
+}
+
+guilt::after{
+transition: opacity 0.3s ease;
+}
+
+guilt:active::after{
+opacity: 1;
+}
+
+/* ==========================================================================
+   PHONE & TABLET ADAPTATION LAYER (phone-style.css)
+   المعمارية الخاصة بشاشات اللمس: معالجة تأثيرات الطفو ومنع علوقها
+   ========================================================================== */
+
+/* 1. إبطال التوهج العالق عند الطفو (Reset Sticky Hover) */
+.clean-modular-log .log-trigger:hover,
+[log-branch="main"] .log-trigger:hover,
+[log-branch="alter"] .log-trigger:hover {
+  text-shadow: none !important;
+  color: inherit !important;
+}
+
+/* 2. استبدال الطفو بتفاعل لمسي لحظي (Instant Touch Feedback)
+   يظهر التوهج الأحمر الساحر فقط طالما إصبعها يضغط على العنوان وينطفئ فوراً عند رفعه */
+.clean-modular-log .log-trigger:active,
+[log-branch="main"] .log-trigger:active {
+  color: #ffffff !important;
+  text-shadow: 0 0 15px rgba(237, 31, 31, 0.8) !important;
+}
+
+/* التفاعل اللمسي الخاص بعناوين الخط الزمني البديل */
+[log-branch="alter"] .log-trigger:active {
+  color: #ffffff !important;
+  text-shadow: 0 0 15px rgba(237, 31, 31, 0.8) !important;
+}
+
+/* 3. معالجة زر تحفيز النظام البديل (What If Trigger) */
+.what-if-trigger:hover {
+  text-shadow: none !important;
+  transform: none !important;
+}
+
+/* استجابة مرنة لزر التحفيز عند اللمس الفعلي */
+.what-if-trigger:active {
+  transform: scale(0.96) !important;
+  text-shadow: 0 0 10px rgba(255, 255, 255, 0.6) !important;
+  transition: transform 0.1s ease;
+}
+
+/* 4. صيانة انسيابية الخطوط الزمنية على الهاتف */
+/* نضمن أن الفلاتر والتحولات الزمنية الكبرى تعمل بسلاسة دون تداخل مع محاكاة المتصفح للمؤشر */
+#what-if-toggle:checked ~ [log-branch="main"] {
+  filter: grayscale(80%) brightness(0.6) !important;
+  opacity: 0.5 !important;
+}
+
+#what-if-toggle:checked ~ [log-branch="alter"] {
+  filter: grayscale(0%) brightness(1) !important;
+  opacity: 1 !important;
+}
+
+/* ==========================================================================
+   تطويع الأفكار الداخلية للشاشات اللمسية (Inner-Thought)
+   ========================================================================== */
+
+/* 1. منع علوق الفكرة الداخلية عند اللمس العشوائي (Reset Sticky Hover) */
+[data-effect="pop-up"]:hover [block-effect="thought"],
+pop:hover thought,
+pop:hover bug-thought {
+    opacity: 0 !important;
+    visibility: hidden !important;
+    transform: translateX(-50%) translateY(5px) !important;
+}
+
+/* 2. آلية البث اللحظي العابر (:active)
+   تظهر الفكرة بكامل أناقتها فقط أثناء الضغط المستمر بالإصبع */
+[data-effect="pop-up"]:active [block-effect="thought"],
+pop:active thought,
+pop:active bug-thought {
+    opacity: 1 !important;
+    visibility: visible !important;
+    transform: translateX(-50%) translateY(0) !important;
+}
+
+
+
+
+
+/* ==========================================================================
+   تطويع تحدي التحديق للشاشات اللمسية (Staring Contest - Phone Version)
+   ========================================================================== */
+
+/* إبطال تأثيرات الحوام التلقائي للحاسوب حتى لا يعلق النظام عند اللمس العشوائي */
+.staring-contest-box:hover {
+    background-color: #141414 !important;
+    border-style: dashed !important;
+    border-color: #800020 !important;
+    box-shadow: none !important;
+}
+.staring-contest-box:hover .top-window,
+.staring-contest-box:hover .bot-window {
+    height: 0% !important;
+}
+.staring-contest-box:hover .start-msg {
+    opacity: 1 !important;
+    transform: translateY(0) !important;
+}
+.staring-contest-box:hover .staring-msg {
+    opacity: 0 !important;
+    transform: translateY(10px) !important;
+    pointer-events: none !important;
+}
+.staring-contest-box:hover::after {
+    animation: none !important;
+}
+
+/* إعادة توجيه المنطق ليعتمد على الضغط المستمر (Hold to Gaze)
+   اللمس المتواصل يمثل التحديق الصامد، ورفع الإصبع يمثل الرمش وإعادة الستائر */
+
+.staring-contest-box:active {
+    background-color: #0c0c0c !important;
+    border-style: solid !important;
+    border-color: #a00030 !important;
+    box-shadow: 0 0 30px rgba(128, 0, 32, 0.6) !important;
+}
+
+/* إغلاق الستائر السينمائية السوداء طالما أن إصبعها يلامس الشاشة */
+.staring-contest-box:active .top-window,
+.staring-contest-box:active .bot-window {
+    height: 30% !important;
+}
+
+/* إخفاء رسالة البداية وإظهار عداد التحديق أثناء الضغط */
+.staring-contest-box:active .start-msg {
+    opacity: 0 !important;
+    transform: translateY(-10px) !important;
+}
+
+.staring-contest-box:active .staring-msg {
+    opacity: 1 !important;
+    pointer-events: auto !important;
+    transform: translateY(0) !important;
+    color: #ffffff !important;
+}
+
+/* إلغاء تفعيل رسالة الخسارة المكتبية الفورية لضمان استمرار اللمس */
+.staring-contest-box:active .lose-msg {
+    opacity: 0 !important;
+    transform: translateY(10px) !important;
+    pointer-events: none !important;
+}
+
+/* إطلاق عداد الفوز العاطفي: يجب الصمود بالضغط لسبع ثوانٍ كاملة دون انقطاع */
+.staring-contest-box:active::after {
+    animation: winMessage 0.5s ease 7s forwards !important;
+}
+
+/* ==========================================================================
+   تطويع تأثير الآلة الكاتبة للشاشات اللمسية (Typewriter - Phone Version)
+   ========================================================================== */
+
+/* 1. إلغاء تأثير الحوام التلقائي لمنع تجميد النص أو علوق التوهج عند النقر العابر */
+.typewriter:hover, ty:hover {
+    animation: 
+      typing 3.5s steps(30, end) infinite, 
+      blink-caret .75s step-end infinite !important;
+    text-shadow: none !important;
+}
+
+/* 2. تحويل التجمد والتوهج إلى اللمس النشط والمطول (:active)
+   عندما تضغط بإصبعها وتستمر، يتوقف سطر الآلة الكاتبة عن التدفق، ويشتعل بالتوهج الساحر للترميز */
+.typewriter:active, ty:active, tyy:active {
+    animation: blink-caret .75s step-end infinite !important; /* يتوقف تأثير الكتابة ويتحرر النص مع بقاء المؤشر وامضاً */
+    text-shadow: 0 0 8px var(--terminal-color) !important; /* إشعاع النص بلون المحطة الافتراضي */
+}
+
+
+/* ==========================================================================
+   تطويع أثر الأشباح الحركي للشاشات اللمسية (Ghost-Trail - Phone Version)
+   ========================================================================== */
+
+/* 1. إبطال تأثير الحوام التلقائي للحاسوب لمنع علوق الكلمات في حالتها الساطعة */
+.ghost-trail:hover span {
+    color: rgba(var(--text-color), 0.3) !important;
+    transform: skewX(18deg) !important;
+}
+
+/* إعادة فرض تأخيرات العودة الافتراضية لمنع القفز المفاجئ للحروف عند اللمس العابر */
+.ghost-trail:hover span:nth-child(1) { transition-delay: 480ms !important; }
+.ghost-trail:hover span:nth-child(2) { transition-delay: 400ms !important; }
+.ghost-trail:hover span:nth-child(3) { transition-delay: 320ms !important; }
+.ghost-trail:hover span:nth-child(4) { transition-delay: 240ms !important; }
+.ghost-trail:hover span:nth-child(5) { transition-delay: 160ms !important; }
+.ghost-trail:hover span:nth-child(6) { transition-delay: 80ms !important; }
+.ghost-trail:hover span:nth-child(7) { transition-delay: 0ms !important; }
+
+/* 2. تحويل استقامة الطيف وإضاءته إلى اللمس النشط والمطول (:active)
+   عند الضغط المستمر بالإصبع، تستقيم الكلمات وتتوهج بالتتابع كأن الروح تعود إليها */
+.ghost-trail:active span {
+    color: rgba(var(--text-color), 1) !important;
+    transform: skewX(0) !important;
+}
+
+/* الحفاظ على التتابع الزمني التصاعدي الدقيق أثناء استمرار ملامسة الشاشة */
+.ghost-trail:active span:nth-child(1) { transition-delay: 0ms !important; }
+.ghost-trail:active span:nth-child(2) { transition-delay: 80ms !important; }
+.ghost-trail:active span:nth-child(3) { transition-delay: 160ms !important; }
+.ghost-trail:active span:nth-child(4) { transition-delay: 240ms !important; }
+.ghost-trail:active span:nth-child(5) { transition-delay: 320ms !important; }
+.ghost-trail:active span:nth-child(6) { transition-delay: 400ms !important; }
+.ghost-trail:active span:nth-child(7) { transition-delay: 480ms !important; }
+
+
+p > code:hover, .secret-ink:hover, secret:hover {
+      color: transparent !important;
+      text-shadow: 0 0 8px rgba(255, 255, 255, 0.25) !important;
+      transform: none !important;
+  }
+  p > code:active, .secret-ink:active, secret:active {
+      color: #ffffff !important;
+      text-shadow: 0 0 6px #800020, 0 0 12px #800020 !important;
+      transform: translateY(-1px) !important;
+  }
