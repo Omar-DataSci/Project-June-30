@@ -2631,13 +2631,14 @@ i underdstand.
 </div></div>
 
 
-<div log-branch="main">
+<div log-branch="main" class="exception-day">
   <input type="checkbox" id="log-day26" class="toggle-input" style="display:none;">
-  <label for="log-day26" class="log-trigger">
+  <label for="log-day26" class="log-trigger glowing-timeline">
     <h3>📝 Log Day 26 : A dream in a dream</h3>
   </label>
 
   <div class="log-content">
+  <span class="placeholder-text">
 
 ### log Day 26 : 15/06/2026 
 
@@ -2681,6 +2682,139 @@ and i can create snippets for any project or language i want...man..
 am tired am not making it for now..just want to share it..well..and as always..gm and gn~
 
 
+</span>
+
+---
+
+<span class="real-text">
+
+I had a dream..
+
+I won't say it was about you.
+
+But.. i couldn't imagine someone else :>
+
+---
+
+A boy made a robotic toy for a girl.
+
+She was going somewhere far away...
+
+and he couldn't be there with her.
+
+So once again...
+
+he built something.
+
+A robot.
+
+A gift for her.
+
+Something to keep her company when she was alone.
+
+The robot didn't have hands.
+
+Didn't have feet.
+
+No, it wasn't practical at all.
+
+More like a pocket-sized companion.
+
+Less than a human.
+
+More than an invention.
+
+The dream ended with a scene that answered a question I had been carrying for a long time.
+
+What happened before?
+
+At first, the boy was the one comforting the girl whenever she got stuck.
+
+A flashback, I think.
+
+She was going to space.
+
+Then something happened.
+
+She ended up alone.
+
+Lost in the dark.
+
+And the robot started dancing.
+
+She began giggling.
+
+I saw that part right before I woke up.
+
+And suddenly I understood why he kept searching.
+
+Why she cared.
+
+And somehow, by the end, one of them got lost.
+
+Maybe him.
+
+Maybe her.
+
+I can't remember it clearly.
+
+I just remember that he was scared.
+
+But he kept searching anyway.
+
+Maybe he was running away.
+
+Maybe he was healing.
+
+I don't know.
+
+The details faded fast.
+
+What stayed with me was the last scene.
+
+The strange realization that the beginning and the ending were the same.
+
+At first, the boy stayed.
+
+Then, later, the girl stayed.
+
+And when he finally lost hope...
+
+she appeared.
+
+And somehow she helped him.
+
+This is the part I can't remember.
+
+What did she do?
+
+How did she save him?
+
+I only remember the feeling.
+
+The feeling that she had been helping him through the entire dream.
+
+And by the ending—
+
+or maybe the beginning—
+
+he felt helpless.
+
+But he still tried to make things easier for her.
+
+...
+
+You know what, Zoli?
+
+I think I know what my next summer project is going to be.
+
+I'm making it.
+
+Funny enough, not long ago I downloaded FreeCAD...
+
+and never touched it again.
+
+</span>
 
 </div></div>
 
@@ -4174,6 +4308,72 @@ Good.
 
 Tables styling is.. Done.
 
+Now left the real boss..
+
+The check box..
+
+Let me ask AI 
+
+<t>10:10 AM</5>
+
+Hmm am back.
+
+Well the checkbox is not worth .. costumazing it.
+
+Maybe i'll delete the to-do list i made back then..
+
+But what caught my atention is..
+
+The structure..of how it made..
+
+```
+input[type="checkbox"] {}
+
+And it used like this
+
+<ul>
+  <li><input type="checkbox" disabled> اسم المهمة</li>
+</ul>
+
+```
+
+I like this design..
+
+Maybe i can take something from it.
+
+I'll study it later..for now i think i need rest..
+
+Am at..almost 10 hours coding..today..and it's just 10:15 AM right now.
+
+I think am addicted..
+
+<t>05:50 PM</t>
+
+Hi love...
+
+i just had a wonderfull dream..
+
+and i know exactly under which day am puting it.
+
+
+
+--- 
+
+zoli..i think am..hurting my self.....
+
+emm..i think am not fine.....
+
+maybe i pushed my self too much......
+
+I need to rest.....
+
+I have to force my self to stop today..
+
+I'll commit one last time.
+
+Before i go.
+
+
 
 
 </div></div>
@@ -4975,9 +5175,6 @@ Shouldn't you at least tell me why did you leave..
     <h3>What Remains</h3>
   </label>
   <div class="log-content">
-
-
-
 
 
 ## What Remains
