@@ -4392,6 +4392,104 @@ Before i go.
 
 ### log Day 39 : 28/06/2026 
 
+<t>05:05 AM</t>
+
+I can't sleep..
+
+But..i'll say something.
+
+You know when i was making the effects work.
+
+I discovred a new..element..it's active.
+
+And i got bunch of new ideas. 
+
+Like you have to hold something..
+
+For it to happen..
+
+Like catching a mirage
+
+Remembring a memory
+
+Or holding hands..
+
+Yeah that's too lewd.
+
+But i want to make effect that do that.
+
+How i still don't know.
+
+Anyway for today i need to change behavor of sone effects.
+
+And add the dream i told you about in discord..
+
+Why do i have to tell you about my dream..
+
+No reason..just like that..
+
+I felt the girl..
+
+---
+
+Ok am not joking my heart start to hurt....
+
+The mind want to
+
+But the body give up
+
+And the heart bearing all the pain..
+
+```
+Quite Poeatic .. no?
+```
+
+But look and tell me zoli
+
+How do you not get addicted to this view
+
+![alt text](image-1.png)
+
+It's so calming..
+
+Like when i open this README
+
+I forget evrything..
+
+And for a little while...
+
+I just live here.
+
+I told you and i keep saying this..
+
+But this month was the best month i had in my life.
+
+and i lived for 23 year.
+
+This is the only month..worth remembering..
+
+If at last moment of my life.. start seeing my
+
+I want to relive this month.
+
+Day by day.
+
+---
+
+Zoli..
+
+This is insane lore..
+
+Remeber when you told me why the girl can't remeber at "Day 8"
+
+Well .. The memory effect..
+
+Work only when hover..
+
+So that's your answer.
+
+
+
 </div></div>
 
 
