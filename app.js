@@ -33,8 +33,6 @@ document.addEventListener('DOMContentLoaded', () => {
                 { title: "📔 Secret Diary ", text: "There must be something more personal in here.", sound: sfx.pageFlip },
                 { title: "📔 Secret Diary ", text: "Mostly unfinished thoughts.", sound: sfx.pageFlip },
                 { title: "📔 Secret Diary ", text: "Some sentences are scratched out harder than the others.", sound: sfx.pageFlip },
-                { title: "Mirror", text: ".....", sound: sfx.pageFlip },
-                { title: "Mirror", text: "....", sound: sfx.pageFlip },
                 { title: "📔 &@'#£ &@$#'", text: "Wait... was this always here?", sound: sfx.pageFlip },
                 { title: "📔 Secret Diary", text: "Somewhere Safe?", sound: sfx.glitch1 },
                 { title: "📔Somewhere Safe", text: "The handwriting gets softer whenever he talks about you.", sound: sfx.pageFlip }
@@ -44,8 +42,8 @@ document.addEventListener('DOMContentLoaded', () => {
             interactions: [
                 { title: "📔 Locked Diary", text: "You found a diary..or maybe just a random notebook.", sound: sfx.pageFlip },
                 { title: "📔 Locked Diary", text: "Oh~ a personal diary..maybe he writes about his feelings.", sound: sfx.pageFlip },
-                { title: "📔 Locked Diary", text: "It's not personal .. to read..others diary put it down.", sound: sfx.pageFlip },
-                { title: "📔 Locked Diary", text: "..Ok..one quick peek..There must be something more personal in here.", sound: sfx.pageFlip },
+                { title: "📔 Locked Diary", text: "One quick peek..There must be something more personal in here.", sound: sfx.pageFlip },
+                { title: "📔 Locked Diary", text: "It's not appropriate to read others diary put it down.", sound: sfx.glitch },
                 { title: "📔 Locked Diary", text: "Wait... why are some pages missing?", sound: sfx.pageFlip },
                 { title: "📔 L0cked D!ary", text: "I think someone wrote here before...", sound: sfx.pageFlip },
                 { title: "📔 L0cked D!ary", text: "He keeps calling his feelings cringe… then writes them anyway.", sound: sfx.pageFlip },
@@ -339,7 +337,7 @@ function playSound(audioObject) {
 document.addEventListener('click', () => {
     const music = document.getElementById('bg-music');
     if (music && music.paused) {
-        music.volume = 0.4;
+        music.volume = 0.6;
         music.play().catch(err => console.log("Music play blocked:", err));
     }
 }, { once: true });

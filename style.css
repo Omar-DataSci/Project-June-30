@@ -173,7 +173,6 @@ body {
     overflow: hidden;
     
     box-sizing: border-box;
-    /* 🌟 الكود الذي يظهر الصورة في الخلفية */
     background-image: url('assets/png/room.png') !important;
     background-size: 100% 100% !important; /* إجبار الصورة على ملء الأبعاد بدقة */
     background-position: center !important;
