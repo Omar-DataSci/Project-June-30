@@ -2,9 +2,12 @@
   --primary-color: #800020;
   --secondary-color:  rgb(128, 0, 32);
   --bourgandy-rgb: 128, 0, 32; /* Bourgandy */
+  --pink-rgb: 244, 149, 191;
+  --petal-color: #f495bf;
+  --pulse: heartbeat;
 
   --text-color: #ffffff;
-  --bg-color: #1e1e1e;
+  --bg-color: #121314;
   --text-light: #f8f8f2;
   --text-color: 255,255,255;
 
@@ -17,6 +20,44 @@
 
   --git-log:"c897b40 (HEAD -> main, origin/main, origin/HEAD) "
 }
+
+
+body {
+    background-color: #121314 !important; /* اللون الداكن الافتراضي لبيئة VS Code */
+    color: #d4d4d4 !important;            /* لون النص الرمادي الفاتح المريح للعين */
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    padding: 20px;
+    max-width: 100dvi;
+    margin: 0 auto;
+    line-height: 1.6;
+    overflow-x: hidden;
+}
+
+/* تحسين مظهر الروابط وتخليصها من اللون الأزرق التقليدي */
+a {
+    color: var(--petal-color) !important;
+ /* اللون الأزرق البرمجي الهادئ */
+    text-decoration: dashed;
+    font-style: oblique;
+    text-shadow: 0px 0px 2px var(--text-color);
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+ul, ol {
+    padding-left: 2em;
+    color: #d4d4d4;
+}
+
+
+
+
+
+
+
+
 
 /* My first Animation.. */
 
@@ -216,9 +257,7 @@ h1:hover , h2:hover , h3:hover {
 [type="day-11"]{
     --content: var(--day-11);
 }
-[type="day-35"]{
-    --content: var(--day-35);
-}
+[type="day-35"] { --content: var(--day-35); }
 
 [type="day-37"]{
     --content: var(--day-37);
@@ -1318,7 +1357,7 @@ log::before {
 
 /* رسالة الفوز */
 .staring-contest-box::after {
-    content: "you are very stubborn, but... ok, I surrender to you again. You win! ";
+    content: "you are very stubborn, ok I surrender. You win! ";
     position: absolute;
     bottom: 10px;
     left: 50%;
@@ -1362,7 +1401,7 @@ log::before {
   font-size: 13px;
   color: #e6e8e8;
   max-width:fit-content;
-  max-height:17px;
+  max-height:fit-content;
   margin: 2px 0 2px ;
   /* 2. Hide the text until the width expands */
   overflow: hidden; 
@@ -1495,5 +1534,114 @@ cen{
   align-items: center;
   text-align: center;
 
+}
+
+/*  ================= Tables ========================================================== */
+
+
+th, td {
+    border-bottom: 1px solid #444444;  /* Clean, subtle inner grid lines */
+    padding: 9px 15px;         /* 12px top/bottom, 15px left/right inside cells */
+    text-align: left;           /* Neat alignment for data readings */
+    
+}
+
+th {
+    background-color: #1e1e1e;  /* Dark header background to make columns pop */
+    color: var(--terminal-color);             /* Matches your signature accent color */
+}
+
+/* 1. Zebra Striping: Target every even data row inside the table body */
+tr:nth-child(even) {
+    background-color: #1a1a1a; /* Slightly darker gray for alternate rows */
+}
+
+/* 2. Setup the transition engine globally on all table rows */
+tr {
+    background-color: transparent;
+    transition: background-color 0.35s ease-in-out; /* Smooth 0.25-second color fade */
+}
+
+/* 3. The Hover State: What happens when your mouse rolls over the row */
+tr:hover {
+    background-color: rgba(var(--bourgandy-rgb),0.5); /* Smooth neon-teal tinted highlight */
+    cursor: pointer;           /* Changes mouse cursor to a clicking hand */
+}
+
+
+
+
+/* ===================== High-Light =================== */
+
+light {
+    font-family:Cascadia Mono;
+    position: relative;
+
+}
+
+light:before{
+    content:"";
+    position: absolute;
+    left: -5%;
+    top: 1%;
+    width: 110%;
+    height: 110%;
+
+    background-color: #000000;
+    z-index: -1;
+    transform: rotate(-0.9deg);
+}
+
+
+/* ========================= Progress Bar ======================= */
+
+
+bar sty:hover{
+    animation: blink-caret .75s step-end;
+    cursor: pointer;
+}
+
+bar{
+    position:relative;
+    display:inline-block;
+    width:300px;
+    height:17px;
+    /* top: %; */
+}
+
+bar::before{
+    content:"";
+    position:absolute;
+    inset:0px;
+    background-color: #6effec;
+}
+
+bar sty{
+    position:absolute;
+    line-height:1.23;
+    border-right: 8.5px solid white; 
+    left:0px;
+    top:0px;
+    overflow:hidden;
+    white-space:nowrap;
+    width:0;
+    animation:typing 3s steps(15,end) forwards;
+}
+
+prog {
+    display:inline-block;
+
+
+}
+
+ prog::before {
+    content:"█████████████████████████████████████";
+        font-size:20px;
+
+    position:absolute;
+    inset:0px;
+    top:-2px;
+    color:black;
+    text-shadow:3px 3px 1px black;
 }
 

@@ -4488,6 +4488,90 @@ Work only when hover..
 
 So that's your answer.
 
+<t>09:30</t>
+
+HI love.
+
+I got new idea in mind
+
+Let's make a new effect..
+
+regret..that's it 
+
+Regret isn't remembering the past.
+
+It's watching it decay...
+
+until you can't even remember what you regret anymore.
+
+<t>11:30 AM</t>
+
+While I making regret effect got
+
+I discvored that i can store words inside an animation
+
+I got an a idea!
+
+For typewriter effect what after 
+finishing one it continue
+running another line by line.
+
+<t>12:00 PM</t>
+
+Done i created regret effect
+
+and i used the same structure to create another Despair-effect.
+
+Am tired..but there so much left and 1 day in hands.
+
+well..i'll take my time
+
+I can refactor it later and add more effect .. 
+
+It doesn't have to end after sending it.
+
+Who know ~ maybe you will suggest more ideas..
+
+Anyway .. i'll rest now... bye.
+
+![alt text](image-2.png)
+
+in cmd i liked this  making it all black like it'a high-light
+
+i think i'll do that.. too
+
+maybe
+
+![alt text](image-3.png)
+
+appearntly it's just a bug ? or no?
+
+i don't know but i like it.
+
+![alt text](image-4.png)
+
+oh..intresting it look like a progress bar..
+
+you know what i think i got an idea.
+
+<ty>
+<light>
+pip install somewhere safe
+</light>
+</ty>
+
+<t>12:12 AM</t>
+
+<bar>
+<sty>
+<prog></prog>
+</sty>
+</bar>
+
+I created a progress bar 
+
+
+
 
 
 </div></div>
